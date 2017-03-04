@@ -25,6 +25,13 @@ Programming Languages
 * Shell Scripts (bash and csh), C, PHP, HTML/CSS, and Perl
 
 
+Certifications
+----------------
+* Cisco CCNA (~January 12, 2020)
+* EC-Council CHFI (~June 19, 2019)
+* EC-Council CEH (~August 06, 2018)
+
+
 Honors and Achievements
 ----------------
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
@@ -77,17 +84,17 @@ on NetFPGA platform," in Proceedings of the 10th IEEE International Conference o
 201001. M.-S. Chen, M.-Y. Liao, **P.-W. Tsai**, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, 2010.
 
 
-Patent
+Patents
 ----------------
-* TW I-514174 (2015/12/21~2033/08/27)
+* TW I-514174, Co-owner (~Aug. 27, 2033)
 	Title: "分散式多重傳輸協定之跨層日誌蒐集系統與方法/Distributed multiple protocol cross-layer log collect method thereof"
-* TW I-497951 (2015/08/21-2033/05/09)
+* TW I-497951, Co-owner (~May 09, 2033)
 	Title "通訊系統及其資訊轉送的方法/A communication system and information forwarding method thereof"
 
 
 Talk
 ----------------
-* Global IPv6 Summit in Taiwan, 2012.
+* Global IPv6 Summit in Taiwan, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
