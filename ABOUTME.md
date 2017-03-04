@@ -29,9 +29,9 @@ Programming Languages
 
 Certifications
 ----------------
-* Cisco CCNA (~January 12, 2020)
-* EC-Council CHFI (~June 19, 2019)
-* EC-Council CEH (~August 06, 2018)
+* Cisco CCNA (~Jan. 12, 2020)
+* EC-Council CHFI (~Jun. 19, 2019)
+* EC-Council CEH (~Aug. 06, 2018)
 
 
 Honors and Achievements
