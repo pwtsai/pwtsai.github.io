@@ -79,15 +79,15 @@ on NetFPGA platform," in Proceedings of the 10th IEEE International Conference o
 
 Patent
 ----------------
-TW I-514174, 2015/12/21~2033/08/27 
+* TW I-514174, 2015/12/21~2033/08/27 
 	Title: "分散式多重傳輸協定之跨層日誌蒐集系統與方法/Distributed Multiple Protocol Cross-Layer Log Collect Method"
-TW I-497951, 2015/08/21-2033/05/09 
+* TW I-497951, 2015/08/21-2033/05/09 
 	Title "通訊系統及其資訊轉送的方法/A communication system and information forwarding method thereof"
 
 
 Talk
 ----------------
-Global IPv6 Summit in Taiwan, 2012.
+* Global IPv6 Summit in Taiwan, 2012.
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
