@@ -48,7 +48,7 @@ Honors and Achievements
 Publications: Journal Papers
 ----------------
 * **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Y. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, 2017. (Accepted)
-* A. C. Risdianto, **P.-W. Tsai**, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, 2017. (Accepted)
+* A. C. Risdianto, **P.-W. Tsai**, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, 2016. (Accepted)
 * K.-M. Cho, **P.-W. Tsai**, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015.
 * M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, **P.-W. Tsai**, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013.
 * W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, **P.-W. Tsai**, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J. Mambretti, "Design and implementation of automatic network topology discovery system for international multidomain future internet testbed," Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013.
