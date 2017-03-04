@@ -1,5 +1,7 @@
 Pang-Wei Tsai 
 ================
+##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####
+***
 
 
 Education
@@ -87,9 +89,9 @@ on NetFPGA platform," in Proceedings of the 10th IEEE International Conference o
 Patents
 ----------------
 * TW I-514174, Co-owner (~Aug. 27, 2033)
-	Title: "分散式多重傳輸協定之跨層日誌蒐集系統與方法/Distributed multiple protocol cross-layer log collect method thereof"
+	Title: "Distributed multiple protocol cross-layer log collect method thereof"
 * TW I-497951, Co-owner (~May 09, 2033)
-	Title "通訊系統及其資訊轉送的方法/A communication system and information forwarding method thereof"
+	Title: "A communication system and information forwarding method thereof"
 
 
 Talk
