@@ -77,13 +77,21 @@ on NetFPGA platform," in Proceedings of the 10th IEEE International Conference o
 * M.-S. Chen, M.-Y. Liao, **P.-W. Tsai**, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, 2010.
 
 
+Patent
+----------------
+TW I-514174, 2015/12/21~2033/08/27 
+	Title: "分散式多重傳輸協定之跨層日誌蒐集系統與方法/Distributed Multiple Protocol Cross-Layer Log Collect Method"
+TW I-497951, 2015/08/21-2033/05/09 
+	Title "通訊系統及其資訊轉送的方法/A communication system and information forwarding method thereof"
+
+
 Talk
 ----------------
 Global IPv6 Summit in Taiwan, 2012.
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
-Research Projects
+Joined Projects
 ----------------
 * Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
 * Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
