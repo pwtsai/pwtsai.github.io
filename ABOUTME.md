@@ -5,7 +5,7 @@ Pang-Wei Tsai
 Education
 ----------------
 * Ph.D. Student in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan, 2012/09~present (GPA: 4.0)
-  > * Ph.D. Candidate (2014/02~)
+	* Ph.D. Candidate (2014/02~)
 * M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. 2010/09~2012/06 (GPA: 3.7)
 * B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. 2007/09~2010/06 (GPA: 3.1)
 
