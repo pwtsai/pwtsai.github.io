@@ -1,4 +1,4 @@
-Pang-Wei Tsai 
+Pang-Wei Tsai ![My Email Address](images/mail-pwtsai.png\) 
 ================
 ##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####
 ***
@@ -8,11 +8,8 @@ Education
 ----------------
 * Ph.D. Student in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan.
 	* Ph.D. Candidate 2014/02~present
-	* 2012/09~present (GPA: 4.0)
 * M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan.
-	* 2010/09~2012/06 (GPA: 3.7)
 * B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. 
-	* 2007/09~2010/06 (GPA: 3.1)
 
 
 Specialties
@@ -96,7 +93,7 @@ Patents
 
 Talk
 ----------------
-* Global IPv6 Summit in Taiwan, 2012. (domestic)
+* Global IPv6 Summit in Taiwan, TWNIC, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
