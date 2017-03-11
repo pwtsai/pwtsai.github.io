@@ -1,6 +1,6 @@
 Pang-Wei Tsai ![My Email Address](images/mail-pwtsai.png) 
 ================
-<##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####>
+[comment]: <> ##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. ##### 
 ***
 
 
