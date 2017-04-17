@@ -1,4 +1,4 @@
-Curriculum Vitae (CV)of Pang-Wei Tsai  ![My Email Address](images/mail-pwtsai.png) 
+Curriculum Vitae (CV) of Pang-Wei Tsai  ![My Email Address](images/mail-pwtsai.png) 
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
