@@ -6,10 +6,10 @@ Curriculum Vitae (CV) of Pang-Wei Tsai  ![My Email Address](images/mail-pwtsai.p
 
 Education
 ----------------
-* Ph.D. Student in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan.
-	* Ph.D. Candidate 2014/02~present
-* M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan.
-* B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. 
+* Ph.D. Student in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. 
+	* Ph.D. Candidate
+* M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (2010~2012)
+* B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. (2006~2010)
 
 
 Specialties
@@ -95,6 +95,22 @@ Talk
 ----------------
 * Global IPv6 Summit in Taiwan, TWNIC, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
+
+
+
+Services
+---------------
+* Conference
+1. Technical Program Committee, 2017 IEEE International Conference on Systems, Man, and Cybernetics.
+
+* Review Activities
+1. Journal of Network and Computer Applications, 2016, 2017.
+201603 IEEE Access, 2016, 2017.
+201602 Journal of Internet Technology, 2016, 2017.
+201601 Enterprise Information Systems, 2016.
+201501 Microprocessors and Microsystems, 2015.
+201401 Proceedings of the Asia-Pacific Advanced Network, 2014.
+
 
 
 Joined Projects
