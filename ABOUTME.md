@@ -7,7 +7,7 @@ Curriculum Vitae (CV) of Pang-Wei Tsai  ![My Email Address](images/mail-pwtsai.p
 Education
 ----------------
 * Ph.D. Student in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. 
-	* Ph.D. Candidate
+	* Ph.D. Candidate (2012-present)
 * M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (2010~2012)
 * B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. (2006~2010)
 
@@ -105,11 +105,11 @@ Services
 
 * Review Activities
 1. Journal of Network and Computer Applications, 2016, 2017.
-201603 IEEE Access, 2016, 2017.
-201602 Journal of Internet Technology, 2016, 2017.
-201601 Enterprise Information Systems, 2016.
-201501 Microprocessors and Microsystems, 2015.
-201401 Proceedings of the Asia-Pacific Advanced Network, 2014.
+201603. IEEE Access, 2016, 2017.
+201602. Journal of Internet Technology, 2016, 2017.
+201601. Enterprise Information Systems, 2016.
+201501. Microprocessors and Microsystems, 2015.
+201401. Proceedings of the Asia-Pacific Advanced Network, 2014.
 
 
 
