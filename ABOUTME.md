@@ -16,7 +16,7 @@ Specialties
 ----------------
 * Network Management: routing and switching, monitoring, and architecture design
 * Software-defined Networking: OpenFlow
-* Virtualization: XenServer, and VMWare
+* Virtualization: XenServer and VMWare
 
 
 Programming Languages
@@ -26,6 +26,7 @@ Programming Languages
 
 Certifications
 ----------------
+* TOEIC Gold Certification (test date: Aug. 06, 2017)
 * Cisco CCNA (~Jan. 12, 2020)
 * EC-Council CHFI (~Jun. 19, 2019)
 * EC-Council CEH (~Aug. 06, 2018)
@@ -53,7 +54,8 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, 2017. (In Press) <font color=#FF0000>(SCI)</font>
+1. **P.-W. Tsai**, W.-H Fong, W.-H Chang, and C.-S. Yang, "Using Adaptive Message Replication on Improving Control Resilience of SDN," Journal of Internet Technology, 2017. (Accept) <font color=#FF0000>(SCI)</font>
+201703. **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, 2017. (In Press) <font color=#FF0000>(SCI)</font>
 201601. A. C. Risdianto, **P.-W. Tsai**, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, 2016. (Accepted) <font color=#FF0000>(SCI)</font>
 201501. K.-M. Cho, **P.-W. Tsai**, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. <font color=#FF0000>(SCI)</font>
 201302. M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, **P.-W. Tsai**, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. <font color=#FF0000>(SCI)</font>
@@ -62,7 +64,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers
 ----------------
-1. C.-S. Yang, **P.-W. Tsai**, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, 2016, pp. 423-427.
+1. H.-P Liu, **P.-W. Tsai**, W.-H Chang, and C.-S. Yang, "Design and Development of the Reactive BGP peering in Software-Defined Routing Exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, 2017, pp. 48-53.
+201610. C.-S. Yang, **P.-W. Tsai**, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, 2016, pp. 423-427.
 201602. **P.-W. Tsai**, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, 2016, pp. 27-33. <font color=#0000FF>(Best Student Paper Award)</font>
 201601. A. C. Risdianto, T. C. Ling, **P.-W. Tsai**, C.-S. Yang, and J. Kim, "Leveraging open-source software for federated multisite SDN-cloud playground," in Proceedings of the 2016 IEEE NetSoft Conference and Workshops, 2016, pp. 423-427.
 201503. **P.-W. Tsai**, C.-Y. Hsu, M.-Y. Luo, and C.-S. Yang, "On the implementation of adaptive flow measurement in the SDN-enabled network: A prototype," in Proceedings of the 40th Asia-Pacific Advanced Network, vol. 40, pp. 7-13, 2015.
@@ -115,6 +118,7 @@ Services
 
 Joined Projects
 ----------------
+* OF@TEIN+: Open/Federated Playgrounds for Future Networks (Mar. 2017~Dec. 2018; Asi@Connect Project of TEIN, EU)
 * Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
 * Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
 * Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08~2016/07; NARLabs-03103A7300)
