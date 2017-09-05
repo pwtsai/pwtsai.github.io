@@ -103,6 +103,10 @@ Talk
 
 Services
 ---------------
+* Non-profit Organization
+1. Project Contributor, The Campus Computer & Network Society (CCNS), NCKU (https://github.com/ccns).
+2. Chinese Translator, Translation Working Group, Signatum Official Community (https://signatum.io/).
+
 * Conference
 1. Technical Program Committee, 2017 IEEE International Conference on Systems, Man, and Cybernetics.
 
