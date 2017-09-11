@@ -1,4 +1,4 @@
-Curriculum Vitae (CV) of Pang-Wei Tsai  ![My Email Address](images/mail-pwtsai.png) 
+Pang-Wei Tsai (Curriculum Vitae) ![My Email Address](images/mail-pwtsai.png) 
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -21,7 +21,7 @@ Specialties
 
 Programming Languages
 ----------------
-* Shell Scripts (bash and csh), C, PHP, HTML/CSS, and Perl
+* Shell Scripts (bash and csh), C, PHP, HTML/CSS, Perl, and Python
 
 
 Certifications
@@ -52,14 +52,15 @@ Honors and Achievements
 	Title: "Using NetFPGA to Implement a High-speed Firewall"
 
 
-Publications: Journal Papers
+Publications: Journal Papers <font color=#FF0000>(all SCI/SCIE indexed)</font>
 ----------------
-1. **P.-W. Tsai**, W.-H Fong, W.-H Chang, and C.-S. Yang, "Using Adaptive Message Replication on Improving Control Resilience of SDN," Journal of Internet Technology, 2017. (Accept) <font color=#FF0000>(SCI)</font>
-201703. **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, 2017. (In Press) <font color=#FF0000>(SCI)</font>
-201601. A. C. Risdianto, **P.-W. Tsai**, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, 2016. (Accepted) <font color=#FF0000>(SCI)</font>
-201501. K.-M. Cho, **P.-W. Tsai**, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. <font color=#FF0000>(SCI)</font>
-201302. M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, **P.-W. Tsai**, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. <font color=#FF0000>(SCI)</font>
-201301. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, **P.-W. Tsai**, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J. Mambretti, "Design and implementation of automatic network topology discovery system for international multidomain future internet testbed," Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013. <font color=#FF0000>(SCI)</font>
+1. **P.-W. Tsai** and C.-S. Yang, "Testbed@TWISC: A Network Security Experiment Platform," International Journal of Communication Systems, 2017. (Accept)
+201708. **P.-W. Tsai**, W.-H Fong, W.-H Chang, and C.-S. Yang, "Using Adaptive Message Replication on Improving Control Resilience of SDN," Journal of Internet Technology, 2017. (Accept)
+201703. **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, 2017. (In Press)
+201601. A. C. Risdianto, **P.-W. Tsai**, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp.134-153, 2017.
+201501. K.-M. Cho, **P.-W. Tsai**, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. 
+201302. M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, **P.-W. Tsai**, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. 
+201301. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, **P.-W. Tsai**, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J. Mambretti, "Design and implementation of automatic network topology discovery system for international multidomain future internet testbed," Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013.
 
 
 Publications: Conference Papers
