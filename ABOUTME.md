@@ -52,7 +52,7 @@ Honors and Achievements
 	Title: "Using NetFPGA to Implement a High-speed Firewall"
 
 
-Publications: Journal Papers <font color=#FF0000>(all SCI/SCIE indexed)</font>
+Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
 1. **P.-W. Tsai** and C.-S. Yang, "Testbed@TWISC: A Network Security Experiment Platform," International Journal of Communication Systems, 2017. (Accept)
 201708. **P.-W. Tsai**, W.-H Fong, W.-H Chang, and C.-S. Yang, "Using Adaptive Message Replication on Improving Control Resilience of SDN," Journal of Internet Technology, 2017. (Accept)
