@@ -54,9 +54,9 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. **P.-W. Tsai** and C.-S. Yang, "Testbed@TWISC: A Network Security Experiment Platform," International Journal of Communication Systems, 2017. (Accept)
+1. **P.-W. Tsai** and C.-S. Yang, "Testbed@TWISC: A Network Security Experiment Platform," International Journal of Communication Systems, 2017. (In Press)
 201708. **P.-W. Tsai**, W.-H Fong, W.-H Chang, and C.-S. Yang, "Using Adaptive Message Replication on Improving Control Resilience of SDN," Journal of Internet Technology, 2017. (Accept)
-201703. **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, 2017. (In Press)
+201703. **P.-W. Tsai**, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
 201601. A. C. Risdianto, **P.-W. Tsai**, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp.134-153, 2017.
 201501. K.-M. Cho, **P.-W. Tsai**, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. 
 201302. M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, **P.-W. Tsai**, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. 
@@ -75,7 +75,7 @@ Publications: Conference Papers
 201402. **P.-W. Tsai**, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S. Yang, "Design and development of virtual nodes in the network testbed for
 emulation," in Proceedings of the 2015 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2015, pp. 101-106. <font color=#FF0000>(EI)</font>
 201401. C.-Y. Hsu, **P.-W. Tsai**, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "A flowbased method to measure traffic statistics in software defined network," in Proceedings of the 38th Asia-Pacific Advanced Network, vol. 38, 2014, pp. 19-22.
-201304. **P.-W. Tsai**, P.-w. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J. Chen, "Supporting extensions of VLAN-tagged traffic across OpenFlow networks," in Proceedings of the 2nd GENI Research and Educational Experiment Workshop, 2013, pp. 61-65.
+201304. **P.-W. Tsai**, P.-W. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J. Chen, "Supporting extensions of VLAN-tagged traffic across OpenFlow networks," in Proceedings of the 2nd GENI Research and Educational Experiment Workshop, 2013, pp. 61-65.
 201303. **P.-W. Tsai**, P.-W. Cheng, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "Toward inter-connection on OpenFlow research networks," in Proceedings of the 36th Asia-Pacific Advanced Network, vol. 36, 2013, pp. 9-16. <font color=#0000FF>(Best Student Paper Award)</font>
 201302. **P.-W. Tsai**, H.-Y. Chou, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, "Design and implementation of a prioritized packet-processing module
 on NetFPGA platform," in Proceedings of the 10th IEEE International Conference on High Performance Computing and Communications & International Conference on Embedded and Ubiquitous Computing, 2013, pp. 272-277. <font color=#FF0000>(EI)</font>
