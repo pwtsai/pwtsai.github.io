@@ -61,7 +61,7 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. __**P.-W. Tsai**__, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE System Journal, 2017. *(Accepted)*
+1. **<span style="border-bottom:2px dashed black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE System Journal, 2017. *(Accepted)*
 201709 __**P.-W. Tsai**__ and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, 2017. *(In Press)*
 201708. __**P.-W. Tsai**__, W.-H Fong, W.-H Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, 2017. *(Accepted)*
 201703. __**P.-W. Tsai**__, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
