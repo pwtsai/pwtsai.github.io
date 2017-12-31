@@ -1,5 +1,5 @@
-Pang-Wei Tsai (National Cheng Kung University)
-[My Email Address](images/mail-pwtsai.png) 
+Pang-Wei Tsai (National Cheng Kung University)  
+![My Email Address](images/mail-pwtsai.png) 
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
