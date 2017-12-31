@@ -133,16 +133,19 @@ Services
 
 Joined Projects
 ----------------
-* OF@TEIN+: Open/Federated Playground for Future Networks (Aug. 2017~May. 2019; Asi@Connect-17-094, European Union)
-* The Analysis and Retrospective Framework of Next-generation Malware Traffic (Aug. 2017~Jul. 2018; 106-2221-E-006-025)
-* Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
-* Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
-* Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08~2016/07; NARLabs-03103A7300)
-* Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08~2015/07; MOST-103-2221-E-006-181)
-* The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05~2014/04; NSC-101-2219-E-006-004)
-* On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08~2014/07; NSC-100-2218-E-006-028-MY3)
-* Interoperability and Certification of Next Generation Internet (2012/04~2012/12; MOTC-DPT-101-03)
-* The Establishment, Promotion and Application of Network Security Testbed (2012/05~2014/04/30; NSC-100-2219-E-006-001)
-* On the Study and Deployment of Network Virtualization Architecture (2009/08~2011/07; NSC-99-2219-E-006-001)
+* International
+1. OF@TEIN+: Open/Federated Playground for Future Networks (Aug. 2017~May. 2019; Asi@Connect-17-094, European Union)
+
+* Domestic
+1.  The Analysis and Retrospective Framework of Next-generation Malware Traffic (Aug. 2017~Jul. 2018; 106-2221-E-006-025)
+2.  Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
+3.  Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
+4.  Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08~2016/07; NARLabs-03103A7300)
+5.  Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08~2015/07; MOST-103-2221-E-006-181)
+6.  The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05~2014/04; NSC-101-2219-E-006-004)
+7.  On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08~2014/07; NSC-100-2218-E-006-028-MY3)
+8.  Interoperability and Certification of Next Generation Internet (2012/04~2012/12; MOTC-DPT-101-03)
+9.  The Establishment, Promotion and Application of Network Security Testbed (2012/05~2014/04/30; NSC-100-2219-E-006-001)
+10. On the Study and Deployment of Network Virtualization Architecture (2009/08~2011/07; NSC-99-2219-E-006-001)
 
 
