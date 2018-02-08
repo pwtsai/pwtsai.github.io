@@ -7,8 +7,7 @@ Pang-Wei Tsai (National Cheng Kung University) ![My Email Address](images/mail-p
 
 Education
 ----------------
-* Ph.D. Student in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. 
-	* Candidate (2012-present)
+* Ph.D. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (2012-2018) 
 * M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (2010~2012)
 * B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. (2006~2010)
 
@@ -62,7 +61,7 @@ Honors and Achievements
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
 1. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal, 2017. *(Accepted)*
-201709. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, 2017. *(In Press)*
+201709. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
 201708. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, 2017. *(Accepted)*
 201703. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
 201601. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp. 134-153, 2017.
