@@ -1,4 +1,4 @@
-Pang-Wei Tsai (National Cheng Kung University) ![My Email Address](images/mail-pwtsai.png)   
+Pang-Wei Tsai (PHD, National Cheng Kung University) ![My Email Address](images/mail-pwtsai.png)   
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -16,6 +16,7 @@ Education
 Specialties
 ----------------
 * Network Management: routing and switching, monitoring, and architecture design
+* Information Security: testbed building
 * Software-defined Networking: OpenFlow
 * Virtualization: XenServer and VMWare
 * Blockchain Technologies: node, rig and pool building
@@ -60,8 +61,8 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal. *(Accepted)*
-201802. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology. *(Accepted)*
+1. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal. *(In Press)*
+201802. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology. *(In Press)*
 201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
 201701. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
 201601. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp. 134-153, 2017.
@@ -97,9 +98,11 @@ on NetFPGA platform," in Proceedings of the 10th IEEE International Conference o
 
 Patents
 ----------------
-* TW I-514174, Co-owner (~Aug. 27, 2033)
+1. TW I-617155, Co-owner (~May. 16, 2036)
+        Title: "Network controller and network flow path switching method thereof"
+201502. TW I-514174, Co-owner (~Aug. 27, 2033)
 	Title: "Distributed multiple protocol cross-layer log collect method thereof"
-* TW I-497951, Co-owner (~May 09, 2033)
+201501. TW I-497951, Co-owner (~May 09, 2033)
 	Title: "A communication system and information forwarding method thereof"
 
 
@@ -118,7 +121,8 @@ Services
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference Committee
-1. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
+1. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018.
+201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
 1. IEEE Access, 2016, 2017, 2018.
@@ -136,15 +140,16 @@ Joined Projects
 1. OF@TEIN+: Open/Federated Playground for Future Networks (Aug. 2017~May. 2019; Asi@Connect-17-094, European Union)
 
 * Domestic
-1.  The Analysis and Retrospective Framework of Next-generation Malware Traffic (Aug. 2017~Jul. 2018; 106-2221-E-006-025)
-2.  Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
-3.  Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
-4.  Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08~2016/07; NARLabs-03103A7300)
-5.  Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08~2015/07; MOST-103-2221-E-006-181)
-6.  The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05~2014/04; NSC-101-2219-E-006-004)
-7.  On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08~2014/07; NSC-100-2218-E-006-028-MY3)
-8.  Interoperability and Certification of Next Generation Internet (2012/04~2012/12; MOTC-DPT-101-03)
-9.  The Establishment, Promotion and Application of Network Security Testbed (2012/05~2014/04/30; NSC-100-2219-E-006-001)
-10. On the Study and Deployment of Network Virtualization Architecture (2009/08~2011/07; NSC-99-2219-E-006-001)
+1. Security Operation Center & ISMS Technology Development (2017/05~2017/04; 106-3114-E-006-003)
+201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
+201404. Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
+201403. Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
+201402. Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08~2016/07; NARLabs-03103A7300)
+201401. Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08~2015/07; MOST-103-2221-E-006-181)
+201203. The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05~2014/04; NSC-101-2219-E-006-004)
+201101. On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08~2014/07; NSC-100-2218-E-006-028-MY3)
+201202. Interoperability and Certification of Next Generation Internet (2012/04~2012/12; MOTC-DPT-101-03)
+201201. The Establishment, Promotion and Application of Network Security Testbed (2012/05~2014/04/30; NSC-100-2219-E-006-001)
+200901. On the Study and Deployment of Network Virtualization Architecture (2009/08~2011/07; NSC-99-2219-E-006-001)
 
 
