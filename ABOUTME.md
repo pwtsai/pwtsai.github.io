@@ -1,4 +1,4 @@
-Pang-Wei Tsai (PHD, National Cheng Kung University) ![My Email Address](images/mail-pwtsai.png)   
+Pang-Wei Tsai (PhD, National Cheng Kung University) ![My Email Address](images/mail-pwtsai.png)   
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -15,11 +15,11 @@ Education
 
 Specialties
 ----------------
-* Network Management: routing and switching, monitoring, and architecture design
-* Information Security: testbed building
+* Network Management: Routing and switching, monitoring, and architecture design
+* Information Security: Testbed building
 * Software-defined Networking: OpenFlow
 * Virtualization: XenServer and VMWare
-* Blockchain Technologies: node, rig and pool building
+* Blockchain Technologies: Node, rig and pool building
 
 
 
