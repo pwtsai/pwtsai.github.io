@@ -61,7 +61,7 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, 2018. (Accepted)
+1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, 2018. *(Accepted)*
 201803. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal. *(In Press)*
 201802. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology. *(In Press)*
 201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
