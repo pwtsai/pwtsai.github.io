@@ -122,7 +122,8 @@ Services
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference Committee
-1. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018.
+1. Technical Program Committee, the IEEE International Conference on Consumer Electronics, 2019.
+201801. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018.
 201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
