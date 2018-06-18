@@ -5,6 +5,12 @@ Pang-Wei Tsai (PhD, National Cheng Kung University) ![My Email Address](images/m
 
 
 
+About Me
+----------------
+I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with research team of National Center for High-performance Computing for about 7 years. Currently I am a Project Leader Engineer of Delta Research Center. Nice to see you && To see you nice!
+
+
+
 Education
 ----------------
 * Ph.D. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (Sep. 2012 ~ Jan. 2018) 
@@ -19,7 +25,7 @@ Specialties
 * Information Security: Testbed building
 * Software-defined Networking: OpenFlow
 * Virtualization: XenServer and VMWare
-* Blockchain Technologies: Node, rig and pool building
+* Blockchain Technologies: Ethernum Node, rig and pool building
 
 
 
@@ -127,8 +133,9 @@ Services
 201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
-1. IEEE Access, 2016, 2017, 2018.
-201603. Journal of Network and Computer Applications, 2016, 2017.
+1. ICT Express, 2018.
+201701. IEEE Access, 2016, 2017, 2018.
+201603. Journal of Network and Computer Applications, 2016, 2017, 2018.
 201602. Journal of Internet Technology, 2016, 2017.
 201601. Enterprise Information Systems, 2016.
 201501. Microprocessors and Microsystems, 2015.
