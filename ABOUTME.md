@@ -7,7 +7,7 @@ Pang-Wei Tsai (PhD, National Cheng Kung University) ![My Email Address](images/m
 
 About Me
 ----------------
-I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with research team of National Center for High-performance Computing for about 7 years. Currently I am a Project Leader Engineer of Delta Research Center. Nice to see you && To see you nice!
+I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with research team of National Center for High-performance Computing for about 7 years. Currently I am a RD principal engineer of Delta Research Center. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. Nice to see you && To see you nice!
 
 
 
