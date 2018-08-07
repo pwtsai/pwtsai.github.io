@@ -67,7 +67,7 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, 2018. *(Accepted)*
+1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, 2018. *(In Press)*
 201803. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal. *(In Press)*
 201802. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology. *(In Press)*
 201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
@@ -81,7 +81,8 @@ Publications: Journal Papers (SCI/SCIE indexed)
 
 Publications: Conference Papers
 ----------------
-1. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee and C.-S. Yang, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the 15th International Symposium on Pervasive Systems, Algorithms and Networks, 2018. *(Accepted)*
+201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
 201603. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
 201602. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201601. A. C. Risdianto, T. C. Ling, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, and J. Kim, "Leveraging open-source software for federated multisite SDN-cloud playground," in Proceedings of the 2016 IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.
