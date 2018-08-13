@@ -13,7 +13,7 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
-RD Principal Engineer, Delta Research Center, Delta Electronic, INC.
+* RD Principal Engineer, Delta Research Center, Delta Electronic, INC.
 
 
 
@@ -144,7 +144,8 @@ Services
 
 * Conference Committee
 1. Technical Program Committee, the IEEE International Conference on Consumer Electronics, 2019.
-201801. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018.
+201802. Technical Program Committee, Tanwan Academic Network (TANet) 2018 Conference, 2018. 
+201801. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018. 
 201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
@@ -175,5 +176,13 @@ Joined Projects
 201202. Interoperability and Certification of Next Generation Internet (2012/04~2012/12; MOTC-DPT-101-03)
 201201. The Establishment, Promotion and Application of Network Security Testbed (2012/05~2014/04/30; NSC-100-2219-E-006-001)
 200901. On the Study and Deployment of Network Virtualization Architecture (2009/08~2011/07; NSC-99-2219-E-006-001)
+
+
+
+Reference Links
+----------------
+* Linkedin: https://linkedin.com/in/find-tsai-pang-wei/
+* ITLab: https://itlab.ee.ncku.edu.tw/
+
 
 
