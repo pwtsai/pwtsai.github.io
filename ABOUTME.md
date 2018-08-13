@@ -181,8 +181,9 @@ Joined Projects
 
 Reference Links
 ----------------
-* Linkedin: https://linkedin.com/in/find-tsai-pang-wei/
-* ITLab: https://itlab.ee.ncku.edu.tw/
+* Linkedin: <a href="https://linkedin.com/in/find-tsai-pang-wei/" target="_blank">https://linkedin.com/in/find-tsai-pang-wei/</a>
+* ITLab: <a href="https://itlab.ee.ncku.edu.tw/" target="_blank">https://itlab.ee.ncku.edu.tw/</a>
+
 
 
 
