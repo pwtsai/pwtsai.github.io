@@ -1,4 +1,4 @@
-Pang-Wei Tsai (PhD, National Cheng Kung University) ![My Email Address](images/mail-pwtsai.png)   
+Pang-Wei Tsai | PhD | National Cheng Kung University | ![My Email Address](images/mail-pwtsai.png)   
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -8,6 +8,12 @@ Pang-Wei Tsai (PhD, National Cheng Kung University) ![My Email Address](images/m
 About Me
 ----------------
 I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with research team of National Center for High-performance Computing for about 7 years. Currently I am a RD principal engineer of Delta Research Center. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. Nice to see you && To see you nice!
+
+
+
+Current Position
+----------------
+RD Principal Engineer, Delta Research Center, Delta Electronic, INC.
 
 
 
@@ -37,10 +43,10 @@ Programming Languages
 
 Certifications
 ----------------
-* TOEIC Gold Certification (test date: Aug. 06, 2017)
-* Cisco CCNA (~Jan. 12, 2020)
-* EC-Council CHFI (~Jun. 19, 2019)
-* EC-Council CEH (~Aug. 06, 2018)
+* TOEIC Gold Certification (Aug. 06, 2017)
+* Cisco CCNA (Jan. 21, 2017)
+* EC-Council CHFI (Jun. 20, 2016)
+* EC-Council CEH (Aug. 07, 2015)
 
 
 
@@ -81,7 +87,7 @@ Publications: Journal Papers (SCI/SCIE indexed)
 
 Publications: Conference Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee and C.-S. Yang, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the 15th International Symposium on Pervasive Systems, Algorithms and Networks, 2018. *(Accepted)*
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the 15th International Symposium on Pervasive Systems, Algorithms and Networks, 2018. *(Accepted)*
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
 201603. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
 201602. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
@@ -100,7 +106,15 @@ on NetFPGA platform," in Proceedings of the 10th IEEE International Conference o
 201201. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J. Mambretti, "Design and implementation of an automatic network topology discovery system for the future internet across different domains," in Proceedings of the 26th IEEE International Conference on Advanced Information Networking and Applications Workshops, pp. 903-908, 2012. <font color=#FF0000>*(EI)*</font>
 201101. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, M.-Y. Luo, T.-L. Liu, and C.-S. Yang, "Planning and implantation of NetFPGA platform on network emulation testbed," in Proceedings of the 32th Asia-Pacific Advanced Network, vol. 32, pp. 1-7, 2011. 
 201002. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Liao, C.-C. Huang, and C. E. Yeh, "Location-based mobile multimedia push system," in Proceedings of the 2010 IEEE International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery, pp. 181-184, 2010.
-201001. M.-S. Chen, M.-Y. Liao, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, 2010.
+201001. M.-S. Chen, M.-Y. Liao, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, Aug. 13, 2010.
+
+
+
+Posters
+----------------
+1. S.-W. Lee,  <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, "SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT," CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018. 
+201401. "A Fast Path Migration of Fault Tolerant Development in Softwaredefined Networking," Demonstration on the 2014 International SDN Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.
+201101. "iGENI - Taiwan Integrated Research Network", the 11th GENI Engineering Conference (GEC11), Denver, United States, Jul. 26-28, 2011.
 
 
 
