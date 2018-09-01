@@ -27,7 +27,7 @@ Education
 
 Specialties
 ----------------
-* Industry Network: Cyber-Physical System (CPS) security
+* Cyber-Physical System: CPS Security and industrial network
 * Network Management: Routing and switching, monitoring, and architecture design
 * Information Security: Testbed building
 * Software-defined Networking: OpenFlow
