@@ -13,7 +13,7 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
-* RD Principal Engineer, Delta Research Center, Delta Electronic, INC.
+* RD Principal Engineer, Delta Research Center, Delta Electronic, inc.
 
 
 
@@ -27,6 +27,7 @@ Education
 
 Specialties
 ----------------
+* Industry Network: Cyber-Physical System (CPS) security
 * Network Management: Routing and switching, monitoring, and architecture design
 * Information Security: Testbed building
 * Software-defined Networking: OpenFlow
@@ -89,32 +90,31 @@ Publications: Conference Papers
 ----------------
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the 15th International Symposium on Pervasive Systems, Algorithms and Networks, 2018. *(Accepted)*
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
-201603. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
-201602. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
-201601. A. C. Risdianto, T. C. Ling, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, and J. Kim, "Leveraging open-source software for federated multisite SDN-cloud playground," in Proceedings of the 2016 IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.
-201503. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Hsu, M.-Y. Luo, and C.-S. Yang, "On the implementation of adaptive flow measurement in the SDN-enabled network: A prototype," in Proceedings of the 40th Asia-Pacific Advanced Network, vol. 40, pp. 7-13, 2015.
-201502. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-M. Wu, C.-T. Chen, M.-Y. Luo, and C.-S. Yang, "On the implementation of path switching over SDN-enabled network: A prototype," in Proceedings of the 2015 IEEE International Conference on Consumer Electronics-Taiwan, pp. 90-91, 2015.
+201610. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
+201608. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
+201606. A. C. Risdianto, T. C. Ling, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, and J. Kim, "Leveraging open-source software for federated multisite SDN-cloud playground," in Proceedings of the 2016 IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.
+201508. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Hsu, M.-Y. Luo, and C.-S. Yang, "On the implementation of adaptive flow measurement in the SDN-enabled network: A prototype," in Proceedings of the 40th Asia-Pacific Advanced Network, vol. 40, pp. 7-13, 2015.
+201501. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-M. Wu, C.-T. Chen, M.-Y. Luo, and C.-S. Yang, "On the implementation of path switching over SDN-enabled network: A prototype," in Proceedings of the 2015 IEEE International Conference on Consumer Electronics-Taiwan, pp. 90-91, 2015.
 201501. J.-L. Chen, K.-W. Huang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "A prototype generation with same class label proportion method for nearest neighborhood classification," in Proceedings of the 2015 IEEE International Conference on Consumer Electronics-Taiwan, pp. 96-97, 2015.
-201402. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S. Yang, "Design and development of virtual nodes in the network testbed for emulation," in Proceedings of the 2015 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2015, pp. 101-106. <font color=#FF0000>*(EI)*</font>
-201401. C.-Y. Hsu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "A flowbased method to measure traffic statistics in software defined network," in Proceedings of the 38th Asia-Pacific Advanced Network, vol. 38, pp. 19-22, 2014.
-201304. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J. Chen, "Supporting extensions of VLAN-tagged traffic across OpenFlow networks," in Proceedings of the 2nd GENI Research and Educational Experiment Workshop, pp. 61-65, 2013.
-201303. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "Toward inter-connection on OpenFlow research networks," in Proceedings of the 36th Asia-Pacific Advanced Network, vol. 36, pp. 9-16, 2013. <font color=#0000FF>*(Best Student Paper Award)*</font>
-201302. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Chou, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, "Design and implementation of a prioritized packet-processing module
-on NetFPGA platform," in Proceedings of the 10th IEEE International Conference on High Performance Computing and Communications & International Conference on Embedded and Ubiquitous Computing, pp. 272-277, 2013. <font color=#FF0000>*(EI)*</font>
+201408. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S. Yang, "Design and development of virtual nodes in the network testbed for emulation," in Proceedings of the 2015 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2015, pp. 101-106. <font color=#FF0000>*(EI)*</font>
+201408. C.-Y. Hsu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "A flowbased method to measure traffic statistics in software defined network," in Proceedings of the 38th Asia-Pacific Advanced Network, vol. 38, pp. 19-22, 2014.
+201311. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Chou, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, "Design and implementation of a prioritized packet-processing module on NetFPGA platform," in Proceedings of the 10th IEEE International Conference on High Performance Computing and Communications & International Conference on Embedded and Ubiquitous Computing, pp. 272-277, 2013. <font color=#FF0000>*(EI)*</font>
 201309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y.-T. Lai, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, "Design and develop an OpenFlow testbed within virtualized architecture," in Proceedings of the 15th Asia-Pacific Network Operations and Management Symposium, pp. 1-3, 2013.
-201305. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H. Y. Chou, M. Y. Luo, and C. S. Yang, "Design a flexible software development environment on NetFPGA platform," in Applied Mechanics and Materials, vol. 411, pp. 1665-1669, 2013.
-201201. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J. Mambretti, "Design and implementation of an automatic network topology discovery system for the future internet across different domains," in Proceedings of the 26th IEEE International Conference on Advanced Information Networking and Applications Workshops, pp. 903-908, 2012. <font color=#FF0000>*(EI)*</font>
-201101. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, M.-Y. Luo, T.-L. Liu, and C.-S. Yang, "Planning and implantation of NetFPGA platform on network emulation testbed," in Proceedings of the 32th Asia-Pacific Advanced Network, vol. 32, pp. 1-7, 2011. 
-201002. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Liao, C.-C. Huang, and C. E. Yeh, "Location-based mobile multimedia push system," in Proceedings of the 2010 IEEE International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery, pp. 181-184, 2010.
-201001. M.-S. Chen, M.-Y. Liao, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, Aug. 13, 2010.
+201308. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "Toward inter-connection on OpenFlow research networks," in Proceedings of the 36th Asia-Pacific Advanced Network, vol. 36, pp. 9-16, 2013. <font color=#0000FF>*(Best Student Paper Award)*</font>
+201307. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H. Y. Chou, M. Y. Luo, and C. S. Yang, "Design a flexible software development environment on NetFPGA platform," in Applied Mechanics and Materials, vol. 411, pp. 1665-1669, 2013.
+201303. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J. Chen, "Supporting extensions of VLAN-tagged traffic across OpenFlow networks," in Proceedings of the 2nd GENI Research and Educational Experiment Workshop, pp. 61-65, 2013.
+201203. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J. Mambretti, "Design and implementation of an automatic network topology discovery system for the future internet across different domains," in Proceedings of the 26th IEEE International Conference on Advanced Information Networking and Applications Workshops, pp. 903-908, 2012. <font color=#FF0000>*(EI)*</font>
+201108. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, M.-Y. Luo, T.-L. Liu, and C.-S. Yang, "Planning and implantation of NetFPGA platform on network emulation testbed," in Proceedings of the 32th Asia-Pacific Advanced Network, vol. 32, pp. 1-7, 2011. 
+201010. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Liao, C.-C. Huang, and C. E. Yeh, "Location-based mobile multimedia push system," in Proceedings of the 2010 IEEE International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery, pp. 181-184, 2010.
+201008. M.-S. Chen, M.-Y. Liao, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, Aug. 13, 2010.
 
 
 
 Posters
 ----------------
 1. S.-W. Lee,  <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, "SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT," CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018. 
-201401. "A Fast Path Migration of Fault Tolerant Development in Softwaredefined Networking," Demonstration on the 2014 International SDN Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.
-201101. "iGENI - Taiwan Integrated Research Network", the 11th GENI Engineering Conference (GEC11), Denver, United States, Jul. 26-28, 2011.
+201412. "A Fast Path Migration of Fault Tolerant Development in Softwaredefined Networking," Demonstration on the 2014 International SDN Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.
+201107. "iGENI - Taiwan Integrated Research Network", the 11th GENI Engineering Conference (GEC11), Denver, United States, Jul. 26-28, 2011.
 
 
 
@@ -149,7 +149,8 @@ Services
 201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
-1. ICT Express, 2018.
+1.	IEEE Transactions on Network and Service Management, 2018.
+201801. ICT Express, 2018.
 201701. IEEE Access, 2016, 2017, 2018.
 201603. Journal of Network and Computer Applications, 2016, 2017, 2018.
 201602. Journal of Internet Technology, 2016, 2017.
@@ -165,7 +166,7 @@ Joined Projects
 1. OF@TEIN+: Open/Federated Playground for Future Networks (Aug. 2017~May. 2019; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. Security Operation Center & ISMS Technology Development (2017/05~2017/04; 106-3114-E-006-003)
+1. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
 201404. Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
 201403. Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
