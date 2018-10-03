@@ -17,6 +17,14 @@ Current Position
 
 
 
+Working Experience
+----------------
+* Senior Software Engineer, Sinpao Information Co., Ltd. (2016-2018)
+* Research Assistant (contracted UR project), National Center for High Performance Computing, NARLabs (2014-2016)
+* Research Assistant (part-time, remote), Brandma.co Ltd. (2013-2014)
+
+
+
 Education
 ----------------
 * Ph.D. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (Sep. 2012 ~ Jan. 2018) 
@@ -27,12 +35,12 @@ Education
 
 Specialties
 ----------------
-* Cyber-Physical System: CPS Security and industrial network
+* Cyber-Physical System: CPS Security and Testing
 * Network Management: Routing and switching, monitoring, and architecture design
-* Information Security: Testbed building
+* Network/Security Testbed: Design, development, implementation, and operation
 * Software-defined Networking: OpenFlow
 * Virtualization: XenServer and VMWare
-* Blockchain Technologies: Ethernum Node, rig and pool building
+* Blockchain Technologies: Ethernum/Monero/Horizon-ZenCash Node, rig and pool building
 
 
 
@@ -149,7 +157,8 @@ Services
 201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
-1.	IEEE Transactions on Network and Service Management, 2018.
+1.	Journal of Information Security and Applications, 2018.
+201808.	IEEE Transactions on Network and Service Management, 2018.
 201801. ICT Express, 2018.
 201701. IEEE Access, 2016, 2017, 2018.
 201603. Journal of Network and Computer Applications, 2016, 2017, 2018.
