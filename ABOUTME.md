@@ -7,21 +7,21 @@ Pang-Wei Tsai | PhD | National Cheng Kung University | ![My Email Address](image
 
 About Me
 ----------------
-I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with research team of National Center for High-performance Computing for about 7 years. Currently I am a RD principal engineer of Delta Research Center. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. Nice to see you && To see you nice!
+I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with NREN research fellows for about 7 years. Currently I am working in CPS Security team of Delta Research Center. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice !
 
 
 
 Current Position
 ----------------
-* RD Principal Engineer, Delta Research Center, Delta Electronic, inc.
+* RD Principal Engineer, Delta Research Center, Delta Electronic, Inc. (2018- )
 
 
 
 Working Experience
 ----------------
-* Senior Software Engineer, Sinpao Information Co., Ltd. (2016-2018)
-* Research Assistant (contracted UR project), National Center for High Performance Computing, NARLabs (2014-2016)
-* Research Assistant (part-time, remote), Brandma.co Ltd. (2013-2014)
+* Technical Specialist (contracted, UR member), Sinpao Information Co., Ltd. (2016-2018)
+* TWAREN SDN Research Team (contracted, UR member), National Center for High Performance Computing, NARLabs (2014-2016)
+* Technical Support (part-time, remote), Brandma.co Ltd. (2013-2014)
 
 
 
