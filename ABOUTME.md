@@ -14,14 +14,15 @@ I have work experience in network management, engineering, information security 
 Current Position
 ----------------
 * RD Principal Engineer, Delta Research Center, Delta Electronic, Inc. (2018- )
+** PHD researcher for exploring CPS security innovation
 
 
 
 Working Experience
 ----------------
-* Technical Specialist (contracted, UR member), Sinpao Information Co., Ltd. (2016-2018)
-* TWAREN SDN Research Team (contracted, UR member), National Center for High Performance Computing, NARLabs (2014-2016)
-* Technical Support (part-time, remote), Brandma.co Ltd. (2013-2014)
+* Sr. Engineer/Technical Specialist (UR, contracted), Sinpao Information Co., Ltd. (2016-2018)
+* TWAREN SDN Research Team (UR, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
+* Technical Specialist (remote, contracted), Brandma.co Ltd. (2013-2014)
 
 
 
@@ -35,11 +36,10 @@ Education
 
 Specialties
 ----------------
-* Cyber-Physical System: CPS Security and Testing
+* Cyber-Physical System: CPS Security, OT signature/behavior analysis, and testbed development
 * Network Management: Routing and switching, monitoring, and architecture design
-* Network/Security Testbed: Design, development, implementation, and operation
-* Software-defined Networking: OpenFlow
-* Virtualization: XenServer and VMWare
+* Information Security: IDS/IPS, L2-4/L7 content extraction, Snort rule development, and anomaly detection
+* Software-defined Networking: OpenFlow and SD-routing exchange
 * Blockchain Technologies: Ethernum/Monero/Horizon-ZenCash Node, rig and pool building
 
 
@@ -146,6 +146,10 @@ Talk
 
 Services
 ---------------
+* Organization
+1. Semiconductor Equipment and Materials International (SEMI), Information & Control technical committee member, Taiwan.
+
+
 * OpenSource Communities
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
