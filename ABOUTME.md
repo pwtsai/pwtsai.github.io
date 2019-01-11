@@ -1,4 +1,4 @@
-Pang-Wei Tsai | PhD | National Cheng Kung University | ![My Email Address](images/mail-pwtsai.png)   
+Pang-Wei Tsai | pwtsai | PhD | National Cheng Kung University | ![My Email Address](images/mail-pwtsai.png)   
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -85,8 +85,8 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, 2018. *(In Press)*
-201803. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal. *(In Press)*
+1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, vol.8, no.5, e1261, 2018.
+201803. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal, vol. 12, no. 4, pp. 3958-3969, 2018.
 201802. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology. *(In Press)*
 201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
 201701. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
@@ -99,7 +99,7 @@ Publications: Journal Papers (SCI/SCIE indexed)
 
 Publications: Conference Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the 15th International Symposium on Pervasive Systems, Algorithms and Networks, 2018. *(Accepted)*
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
 201610. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
 201608. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
@@ -142,7 +142,7 @@ Patents
 
 Talk
 ----------------
-* Global IPv6 Summit in Taiwan, TWNIC, 2012. (domestic)
+* Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
@@ -152,21 +152,22 @@ Services
 * International Organization
 1. Information & Control technical committee member, Taiwan chapter, Semiconductor Equipment and Materials International (SEMI).
 2. Member, Tainan Section (Region 10), IEEE.
-
+3. The Institute of Electronics, Information and Communication Engineers (IEICE), Oversea Student Member (outdated).
 
 * OpenSource Communities
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference Committee
-1. Technical Program Committee, the IEEE International Conference on Consumer Electronics, 2019.
-201802. Technical Program Committee, Tanwan Academic Network (TANet) 2018 Conference, 2018. 
+1. Technical Program Committee, the IEEE International Conference on Consumer Electronics, 11-13 Jan., 2019, Las Vegas, USA.
+201802. Technical Program Committee, Taiwan Academic Network (TANet) 2018 Conference, 24-26 Oct., 2018, Taoyuan, Taiwan.
 201801. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018. 
 201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
 
 * Review Activities
-1.	Journal of Information Security and Applications, 2018.
-201808.	IEEE Transactions on Network and Service Management, 2018.
+1. IEEE Communications Surveys and Tutorials, 2018.
+201803.	Journal of Information Security and Applications, 2018.
+201802.	IEEE Transactions on Network and Service Management, 2018.
 201801. ICT Express, 2018.
 201701. IEEE Access, 2016, 2017, 2018.
 201603. Journal of Network and Computer Applications, 2016, 2017, 2018.
@@ -201,7 +202,6 @@ Reference Links
 ----------------
 * Linkedin: <a href="https://linkedin.com/in/find-tsai-pang-wei/" target="_blank">https://linkedin.com/in/find-tsai-pang-wei/</a>
 * ITLab: <a href="https://itlab.ee.ncku.edu.tw/" target="_blank">https://itlab.ee.ncku.edu.tw/</a>
-
 
 
 
