@@ -85,9 +85,9 @@ Honors and Achievements
 
 Publications: Journal Papers (SCI/SCIE indexed)
 ----------------
-1. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, vol.8, no.5, e1261, 2018.
-201803. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal, vol. 12, no. 4, pp. 3958-3969, 2018.
-201802. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology. *(In Press)*
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018.
+201803. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, vol.8, no.5, e1261, 2018.
+201802. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal, vol. 12, no. 4, pp. 3958-3969, 2018.
 201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
 201701. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
 201601. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp. 134-153, 2017.
@@ -142,7 +142,7 @@ Patents
 
 Talk
 ----------------
-* Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
+1. Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
@@ -150,19 +150,21 @@ Talk
 Services
 ---------------
 * International Organization
-1. Information & Control technical committee member, Taiwan chapter, Semiconductor Equipment and Materials International (SEMI).
-2. Member, Tainan Section (Region 10), IEEE.
-3. The Institute of Electronics, Information and Communication Engineers (IEICE), Oversea Student Member (outdated).
+1. Information & Control technical committee member, Semiconductor Equipment and Materials International (SEMI), Taiwan chapter.
+2. Member, IEEE, Tainan Section (Region 10).
+3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE), Oversea Student Member (outdated).
 
 * OpenSource Communities
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
-* Conference Committee
-1. Technical Program Committee, the IEEE International Conference on Consumer Electronics, 11-13 Jan., 2019, Las Vegas, USA.
-201802. Technical Program Committee, Taiwan Academic Network (TANet) 2018 Conference, 24-26 Oct., 2018, Taoyuan, Taiwan.
-201801. Technical Program Committee, the 46th Asia-Pacific Advanced Network, 2018. 
-201701. Technical Program Committee, the IEEE International Conference on Systems, Man, and Cybernetics, 2017.
+* Conference (technical program committee member)
+1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+201902. The IEEE International Symposium on Consumer Technologies, Jun. 19-21, 2019, Ancona, Italy.
+201901. The IEEE International Conference on Consumer Electronics, Jan. 11-13, 2019, Las Vegas, USA.
+201802. Taiwan Academic Network (TANet) 2018 Conference, Oct. 24-26, 2018, Taoyuan, Taiwan.
+201801. The Asia-Pacific Advanced Network Research Workshop, Aug. 6-10, 2018, Auckland, New Zealand.
+201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
 1. IEEE Communications Surveys and Tutorials, 2018.
