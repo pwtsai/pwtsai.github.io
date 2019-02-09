@@ -103,18 +103,18 @@ Publications: Conference Papers
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
 201610. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
 201608. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
-201606. A. C. Risdianto, T. C. Ling, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, and J. Kim, "Leveraging open-source software for federated multisite SDN-cloud playground," in Proceedings of the 2016 IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.
+201606. A. C. Risdianto, T. C. Ling, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, and J. Kim, "Leveraging open-source software for federated multisite SDN-cloud playground," in Proceedings of the IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.
 201508. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Hsu, M.-Y. Luo, and C.-S. Yang, "On the implementation of adaptive flow measurement in the SDN-enabled network: A prototype," in Proceedings of the 40th Asia-Pacific Advanced Network, vol. 40, pp. 7-13, 2015.
-201501. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-M. Wu, C.-T. Chen, M.-Y. Luo, and C.-S. Yang, "On the implementation of path switching over SDN-enabled network: A prototype," in Proceedings of the 2015 IEEE International Conference on Consumer Electronics-Taiwan, pp. 90-91, 2015.
-201501. J.-L. Chen, K.-W. Huang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "A prototype generation with same class label proportion method for nearest neighborhood classification," in Proceedings of the 2015 IEEE International Conference on Consumer Electronics-Taiwan, pp. 96-97, 2015.
-201408. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S. Yang, "Design and development of virtual nodes in the network testbed for emulation," in Proceedings of the 2015 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2015, pp. 101-106. <font color=#FF0000>*(EI)*</font>
+201501. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-M. Wu, C.-T. Chen, M.-Y. Luo, and C.-S. Yang, "On the implementation of path switching over SDN-enabled network: A prototype," in Proceedings of the IEEE International Conference on Consumer Electronics-Taiwan, pp. 90-91, 2015.
+201501. J.-L. Chen, K.-W. Huang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "A prototype generation with same class label proportion method for nearest neighborhood classification," in Proceedings of the IEEE International Conference on Consumer Electronics-Taiwan, pp. 96-97, 2015.
+201408. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S. Yang, "Design and development of virtual nodes in the network testbed for emulation," in Proceedings of the IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2015, pp. 101-106. <font color=#FF0000>*(EI)*</font>
 201408. C.-Y. Hsu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "A flowbased method to measure traffic statistics in software defined network," in Proceedings of the 38th Asia-Pacific Advanced Network, vol. 38, pp. 19-22, 2014.
 201311. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Chou, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, "Design and implementation of a prioritized packet-processing module on NetFPGA platform," in Proceedings of the 10th IEEE International Conference on High Performance Computing and Communications & International Conference on Embedded and Ubiquitous Computing, pp. 272-277, 2013. <font color=#FF0000>*(EI)*</font>
 201309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y.-T. Lai, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, "Design and develop an OpenFlow testbed within virtualized architecture," in Proceedings of the 15th Asia-Pacific Network Operations and Management Symposium, pp. 1-3, 2013.
 201308. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, "Toward inter-connection on OpenFlow research networks," in Proceedings of the 36th Asia-Pacific Advanced Network, vol. 36, pp. 9-16, 2013. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201307. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H. Y. Chou, M. Y. Luo, and C. S. Yang, "Design a flexible software development environment on NetFPGA platform," in Applied Mechanics and Materials, vol. 411, pp. 1665-1669, 2013.
 201303. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J. Chen, "Supporting extensions of VLAN-tagged traffic across OpenFlow networks," in Proceedings of the 2nd GENI Research and Educational Experiment Workshop, pp. 61-65, 2013.
-201203. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J. Mambretti, "Design and implementation of an automatic network topology discovery system for the future internet across different domains," in Proceedings of the 26th IEEE International Conference on Advanced Information Networking and Applications Workshops, pp. 903-908, 2012. <font color=#FF0000>*(EI)*</font>
+201203. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J. Mambretti, "Design and implementation of an automatic network topology discovery system for the future internet across different domains," in Proceedings of the 26th IEEE International Conference on Advanced Information Networking and Applications Workshops, pp. 903-908, 2012.
 201108. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, P.-W. Cheng, M.-Y. Luo, T.-L. Liu, and C.-S. Yang, "Planning and implantation of NetFPGA platform on network emulation testbed," in Proceedings of the 32th Asia-Pacific Advanced Network, vol. 32, pp. 1-7, 2011. 
 201010. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Liao, C.-C. Huang, and C. E. Yeh, "Location-based mobile multimedia push system," in Proceedings of the 2010 IEEE International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery, pp. 181-184, 2010.
 201008. M.-S. Chen, M.-Y. Liao, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, "Using NetFPGA to offload Linux Netfilter firewall," in Proceedings of the 2nd North American NetFPGA Developers Workshop, Aug. 13, 2010.
@@ -152,7 +152,7 @@ Services
 * International Organization
 1. Information & Control technical committee member, Semiconductor Equipment and Materials International (SEMI), Taiwan chapter.
 2. Member, IEEE, Tainan Section (Region 10).
-3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE), Oversea Student Member (outdated).
+3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated).
 
 * OpenSource Communities
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
@@ -202,8 +202,10 @@ Joined Projects
 
 Reference Links
 ----------------
-* Linkedin: <a href="https://linkedin.com/in/find-tsai-pang-wei/" target="_blank">https://linkedin.com/in/find-tsai-pang-wei/</a>
+* Linkedin: <a href="https://linkedin.com/in/pwtsai/" target="_blank">https://www.linkedin.com/in/pwtsai/</a>
+* Google Scholar: <a href="http://pub.pwtsai.im" target="_blank">http://pub.pwtsai.im</a>
 * ITLab: <a href="https://itlab.ee.ncku.edu.tw/" target="_blank">https://itlab.ee.ncku.edu.tw/</a>
+
 
 
 
