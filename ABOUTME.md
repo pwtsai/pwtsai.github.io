@@ -165,7 +165,9 @@ Services
 
 * Conference (technical program committee member)
 1. The IEEE International Conference on Consumer Electronics - Berlin, Sep. 8-11, 2019, Berlin, Germany.
-201904. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+201905. Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.
+201904. The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26, 2019, Putrajaya, Malaysia. 
 201903. The IEEE International Conference on Consumer Electronics - Taiwan, May. 20-22, 2019, Yilan, Taiwan. (special session)
 201902. The IEEE International Symposium on Consumer Technologies, Jun. 19-21, 2019, Ancona, Italy.
 201901. The IEEE International Conference on Consumer Electronics, Jan. 11-13, 2019, Las Vegas, USA.
