@@ -64,6 +64,8 @@ Certifications
 
 Honors and Achievements
 ----------------
+* **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduated), Lam Research Corporation, 2019. (domestic)
+* **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
 	Title: "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed"
 * **Championship**, Software-defined Networking Contest, 2014. (domestic)
@@ -99,7 +101,8 @@ Publications: Journal Papers (SCI/SCIE indexed)
 
 Publications: Conference Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
+1. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, 2019. (Accepted)
+201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
 201610. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
 201608. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed," in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF>*(Best Student Paper Award)*</font>
@@ -142,7 +145,9 @@ Patents
 
 Talk
 ----------------
-1. Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
+1. EE Dept. Seminar, National Cheng Kung University, May. 16, 2019. (domestic)
+Title: "The Challenges of Smart Manufacturing and Industrial Internet-of-things in Future"
+201211. Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
@@ -159,7 +164,9 @@ Services
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference (technical program committee member)
-1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+1. The IEEE International Conference on Consumer Electronics - Berlin, Sep. 8-11, 2019, Berlin, Germany.
+201904. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+201903. The IEEE International Conference on Consumer Electronics - Taiwan, May. 20-22, 2019, Yilan, Taiwan. (special session)
 201902. The IEEE International Symposium on Consumer Technologies, Jun. 19-21, 2019, Ancona, Italy.
 201901. The IEEE International Conference on Consumer Electronics, Jan. 11-13, 2019, Las Vegas, USA.
 201802. Taiwan Academic Network (TANet) 2018 Conference, Oct. 24-26, 2018, Taoyuan, Taiwan.
@@ -168,7 +175,7 @@ Services
 
 * Review Activities
 1. IEEE Communications Surveys and Tutorials, 2018.
-201803.	Journal of Information Security and Applications, 2018.
+201803.	Journal of Information Security and Applications, 2018, 2019.
 201802.	IEEE Transactions on Network and Service Management, 2018.
 201801. ICT Express, 2018.
 201701. IEEE Access, 2016, 2017, 2018.
