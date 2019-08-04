@@ -10,7 +10,7 @@ About Me
 I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with NREN research fellows for about 7 years. Currently I am working in CPS Security team of Delta Research Center. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice !
 
 * Ph.D dissertation title: Using Software-defined Networking Concepts on Building Large-scale and Cross-domain Testbed over Research and Education Networks
- 	+ Best Ph.D. Dissertation Award, Lam Research Corporation
+ 	+ Best Ph.D. Dissertation Award, NCKU & Lam Research Corporation
  	+ Excellent Ph.D. Dissertation Award, Institute of Information & Computing Machinery
 * M.S. thesis title: On the Design and Implementation of an Adaptive Resource Management Mechanism for VM Platform
 
@@ -66,7 +66,7 @@ Certifications
 
 Honors and Achievements
 ----------------
-* **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduated), Lam Research Corporation, 2019. (domestic)
+* **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduated), NCKU & Lam Research Corporation, 2019. (domestic)
 * **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
 	Title: "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed"
