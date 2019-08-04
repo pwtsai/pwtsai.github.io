@@ -10,6 +10,8 @@ About Me
 I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with NREN research fellows for about 7 years. Currently I am working in CPS Security team of Delta Research Center. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice !
 
 * Ph.D dissertation title: Using Software-defined Networking Concepts on Building Large-scale and Cross-domain Testbed over Research and Education Networks
+  >> Best Ph.D. Dissertation Award, Lam Research Corporation
+  >> Excellent Ph.D. Dissertation Award, Institute of Information & Computing Machinery
 * M.S. thesis title: On the Design and Implementation of an Adaptive Resource Management Mechanism for VM Platform
 
 
@@ -176,7 +178,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
-1. IEEE Communications Surveys and Tutorials, 2018.
+1. Sensors, 2019.
+201907. IEEE Communications Surveys and Tutorials, 2018, 2019.
 201803.	Journal of Information Security and Applications, 2018, 2019.
 201802.	IEEE Transactions on Network and Service Management, 2018.
 201801. ICT Express, 2018.
