@@ -18,8 +18,9 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
+* Senior Associate Researcher
+* Lead a team for exploring CPS security innovations
 * RD Principal Engineer, Delta Research Center, Delta Electronic, Inc. (2018- )
-* PHD researcher for exploring CPS security innovation
 
 
 
