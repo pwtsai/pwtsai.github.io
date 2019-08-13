@@ -19,6 +19,7 @@ I have work experience in network management, engineering, information security 
 Current Position
 ----------------
 Delta Research Center, Delta Electronic, Inc. (2018- )
+
 * Future ICT
 	+ Senior Associate Researcher
 	+ Lead a team for exploring ICT security innovations
