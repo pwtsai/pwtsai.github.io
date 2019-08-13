@@ -7,7 +7,7 @@ Pang-Wei Tsai | pwtsai | PhD | National Cheng Kung University | ![My Email Addre
 
 About Me
 ----------------
-I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with NREN research fellows for about 7 years. Currently I am working in CPS Security team of Delta Research Center. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice !
+I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with NREN research fellows for about 7 years. Currently I am working in Delta Research Center of Delta Electronic, Inc. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice !
 
 * Ph.D dissertation title: Using Software-defined Networking Concepts on Building Large-scale and Cross-domain Testbed over Research and Education Networks
  	+ Best Ph.D. Dissertation Award, NCKU & Lam Research Corporation
