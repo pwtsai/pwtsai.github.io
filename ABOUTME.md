@@ -18,12 +18,14 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
+Senior R&D Supervisor
 Delta Research Center, Delta Electronic, Inc. (2018- )
 
 * Future ICT
-	+ Senior Associate Researcher
+	+ Senior R&D Supervisor
 	+ Lead a team for exploring ICT security innovations
 * CPS Security
+	+ Senior Associate Researcher
 	+ RD Principal Engineer
 	+ CPS Security testbed faculty
 
@@ -72,6 +74,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Advisee)**Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
 * **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduated), NCKU & Lam Research Corporation, 2019. (domestic)
 * **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
@@ -109,7 +112,7 @@ Publications: Journal Papers (SCI/SCIE indexed)
 
 Publications: Conference Papers
 ----------------
-1. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, 2019. (Accepted)
+1. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, 2019. (Best Student Paper Award)
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
 201610. C.-S. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, J.-F. Huang, and T.-L. Liu, "Design and development of a large-scale network testbed on a research and education network," in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.
