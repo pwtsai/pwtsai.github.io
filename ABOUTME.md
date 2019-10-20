@@ -73,7 +73,7 @@ Certifications
 
 Honors and Achievements
 ----------------
-* (Advisee)**Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
+* (Advisee) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
 * **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduated), NCKU & Lam Research Corporation, 2019. (domestic)
 * **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
