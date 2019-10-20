@@ -18,7 +18,6 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
-Senior R&D Supervisor
 Delta Research Center, Delta Electronic, Inc. (2018- )
 
 * Future ICT
