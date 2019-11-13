@@ -64,7 +64,7 @@ Programming Languages
 
 Certifications
 ----------------
-* TUV NORD IEC 62443 Training Course (Aug. 15, 2019)
+* TUV NORD IEC 62443 Training Certification (Aug. 15, 2019)
 * TOEIC Gold Certification (Aug. 06, 2017)
 * Cisco CCNA (Jan. 21, 2017)
 * EC-Council CHFI (Jun. 20, 2016)
