@@ -22,7 +22,7 @@ Delta Research Center, Delta Electronic, Inc. (2018- )
 
 * Future ICT
 	+ Senior R&D Supervisor
-	+ Lead a team for exploring ICT security innovations
+	+ Lead a research team: CPS Security and Resilience
 * CPS Security
 	+ Senior Associate Researcher
 	+ RD Principal Engineer
@@ -64,6 +64,7 @@ Programming Languages
 
 Certifications
 ----------------
+* TUV NORD IEC 62443 Training Course (Aug. 15, 2019)
 * TOEIC Gold Certification (Aug. 06, 2017)
 * Cisco CCNA (Jan. 21, 2017)
 * EC-Council CHFI (Jun. 20, 2016)
