@@ -193,7 +193,7 @@ Services
 201801. ICT Express, 2018.
 201701. IEEE Access, 2016, 2017, 2018.
 201603. Journal of Network and Computer Applications, 2016, 2017, 2018.
-201602. Journal of Internet Technology, 2016, 2017.
+201602. Journal of Internet Technology, 2016, 2017. 2018, 2019.
 201601. Enterprise Information Systems, 2016.
 201501. Microprocessors and Microsystems, 2015.
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014.
