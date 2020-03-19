@@ -174,8 +174,9 @@ Services
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
-* Conference (technical program committee member)
-1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+* Conference (technical program committee member/paper review)
+1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
+201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
 201905. Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.
 201904. The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26, 2019, Putrajaya, Malaysia. 
 201903. The IEEE International Conference on Consumer Electronics - Taiwan, May. 20-22, 2019, Yilan, Taiwan. (special session)
@@ -186,8 +187,9 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
-1. Sensors, 2019.
-201907. IEEE Communications Surveys and Tutorials, 2018, 2019.
+1. IEEE Systems Journal, 2020.
+201901. Sensors, 2019.
+201804. IEEE Communications Surveys and Tutorials, 2018, 2019, 2020.
 201803.	Journal of Information Security and Applications, 2018, 2019.
 201802.	IEEE Transactions on Network and Service Management, 2018.
 201801. ICT Express, 2018.
