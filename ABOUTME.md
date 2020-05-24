@@ -175,7 +175,8 @@ Services
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference (technical program committee member/paper review)
-1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
+1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada. (digital)
+202001. Zooming Innovation in Consumer Electronics International Conference, May. 29-30, 2020, Novi Sad, Serbian.
 201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
 201905. Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.
 201904. The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26, 2019, Putrajaya, Malaysia. 
@@ -188,6 +189,7 @@ Services
 
 * Review Activities
 1. IEEE Systems Journal, 2020.
+202001. Applied Sciences, 2020.
 201901. Sensors, 2019.
 201804. IEEE Communications Surveys and Tutorials, 2018, 2019, 2020.
 201803.	Journal of Information Security and Applications, 2018, 2019.
@@ -205,7 +207,8 @@ Services
 Joined Projects
 ----------------
 * International
-1. OF@TEIN+: Open/Federated Playground for Future Networks (Aug. 2017~May. 2019; Asi@Connect-17-094, European Union)
+1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/07; Asi@Connect-20-xxx, European Union)
+201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
 1. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
