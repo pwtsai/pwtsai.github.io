@@ -188,16 +188,17 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
-1. IEEE Systems Journal, 2020.
+1. Journal of Systems Architecture, 2020.
+202002. IEEE Systems Journal, 2020.
 202001. Applied Sciences, 2020.
+201804. IEEE Communications Surveys and Tutorials, 2018-2020.
 201901. Sensors, 2019.
-201804. IEEE Communications Surveys and Tutorials, 2018, 2019, 2020.
-201803.	Journal of Information Security and Applications, 2018, 2019.
+201803.	Journal of Information Security and Applications, 2018-2019.
+201602. Journal of Internet Technology, 2016-2019.
 201802.	IEEE Transactions on Network and Service Management, 2018.
 201801. ICT Express, 2018.
-201701. IEEE Access, 2016, 2017, 2018.
-201603. Journal of Network and Computer Applications, 2016, 2017, 2018.
-201602. Journal of Internet Technology, 2016, 2017. 2018, 2019.
+201603. IEEE Access, 2016-2018.
+201602. Journal of Network and Computer Applications, 2016-2018.
 201601. Enterprise Information Systems, 2016.
 201501. Microprocessors and Microsystems, 2015.
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014.
