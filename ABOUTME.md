@@ -25,8 +25,7 @@ Current Position
 Working Experience
 ----------------
 * Delta Research Center, Delta Electronic, Inc. (2018-2020)
-	+ Future ICT: Senior R&D Supervisor
-        + CPS Security testbed faculty
+	+ Future ICT: Senior R&D Supervisor/CPS Security testbed faculty
 * Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao Information Co., Ltd. (2016-2018)
 * TWAREN SDN Research Team (UR Project, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
 
