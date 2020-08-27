@@ -19,6 +19,7 @@ I have work experience in network management, engineering, information security 
 Current Position
 ----------------
 National Central Universiry (2020-)
+
 * Dept. of Information Management
 	+ Assistant Professor
 
