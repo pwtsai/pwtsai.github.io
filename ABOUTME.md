@@ -1,4 +1,4 @@
-Pang-Wei Tsai | pwtsai | PhD | National Cheng Kung University | ![My Email Address](images/mail-pwtsai.png)   
+Pang-Wei Tsai, PhD | pwtsai | Assistant Professor | National Central University | ![My Email Address](images/mail-pwtsai.png)
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -18,23 +18,19 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
-Delta Research Center, Delta Electronic, Inc. (2018- )
-
-* Future ICT
-	+ Senior R&D Supervisor
-	+ Lead a research team: CPS Security and Resilience
-* CPS Security
-	+ Senior Associate Researcher
-	+ RD Principal Engineer
-	+ CPS Security testbed faculty
+National Central Universiry (2020-)
+* Dept. of Information Management
+	+ Assistant Professor
 
 
 
 Working Experience
 ----------------
-* Sr. Engineer/Technical Specialist (UR, contracted), Sinpao Information Co., Ltd. (2016-2018)
-* TWAREN SDN Research Team (UR, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
-* Technical Specialist (remote, contracted), Brandma.co Ltd. (2013-2014)
+* Delta Research Center, Delta Electronic, Inc. (2018-2020)
+	+ Future ICT: Senior R&D Supervisor
+        + CPS Security testbed faculty
+* Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao Information Co., Ltd. (2016-2018)
+* TWAREN SDN Research Team (UR Project, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
 
 
 
