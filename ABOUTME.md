@@ -1,4 +1,4 @@
-Pang-Wei Tsai, PhD | pwtsai | Assistant Professor | National Central University | ![My Email Address](images/mail-pwtsai.png)
+Pang-Wei Tsai (PhD) | pwtsai | Assistant Professor | National Central University | ![My Email Address](images/mail-pwtsai.png)
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -7,7 +7,7 @@ Pang-Wei Tsai, PhD | pwtsai | Assistant Professor | National Central University 
 
 About Me
 ----------------
-I have work experience in network management, engineering, information security and testbed building. At college, I served in campus network operation as well as co-worked with NREN research fellows for about 7 years. Currently I am working in Delta Research Center of Delta Electronic, Inc. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice !
+I have work experience in network management, engineering, information security and testbed building. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice!
 
 * Ph.D dissertation title: Using Software-defined Networking Concepts on Building Large-scale and Cross-domain Testbed over Research and Education Networks
  	+ Best Ph.D. Dissertation Award, NCKU & Lam Research Corporation
@@ -24,7 +24,7 @@ Current Position
 
 Working Experience
 ----------------
-* Senior R&D Supervisor, Delta Research Center, Delta Electronic, Inc. (2018-2020)
+* Sr. R&D Supervisor, Delta Research Center, Delta Electronic, Inc. (2018-2020)
 	+ Leading a small team for Future ICT research/CPS Security testbed faculty
 * Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao Information Co., Ltd. (2016-2018)
 * TWAREN SDN Research Team (UR Project, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
@@ -44,8 +44,8 @@ Specialties
 * Cyber-Physical System: CPS Security, OT signature/behavior analysis, and testbed development
 * Network Management: Routing and switching, monitoring, and architecture design
 * Information Security: IDS/IPS, L2-4/L7 content extraction, Snort rule development, and anomaly detection
-* Software-defined Networking: OpenFlow and SD-routing exchange
-* Blockchain Technologies: Ethernum/Monero/Horizon-ZenCash Node, rig and pool building
+* Software-defined Networking: OpenFlow, Hybrid SDN, and SDX
+* Blockchain Technologies: Node, rig and pool building
 
 
 
@@ -159,15 +159,15 @@ Title: "The Challenges of Smart Manufacturing and Industrial Internet-of-things 
 Services
 ---------------
 * International Organization
-1. Information & Control technical committee member, Semiconductor Equipment and Materials International (SEMI), Taiwan chapter.
-2. Member, IEEE, Tainan Section (Region 10).
-3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated).
+1. Information & Control technical committee member, Taiwan chapter, Semiconductor Equipment and Materials International (SEMI)
+2. Member, Tainan Section (Region 10), IEEE
+3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
 * OpenSource Communities
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
-* Conference (technical program committee member/paper review)
+* Conference (technical program committee member/Paper review)
 1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
 202001. Zooming Innovation in Consumer Electronics International Conference, May. 29-30, 2020, Novi Sad, Serbian. (digital)
 201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
@@ -181,20 +181,21 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
-1. Journal of Systems Architecture, 2020.
-202002. IEEE Systems Journal, 2020.
-202001. Applied Sciences, 2020.
-201804. IEEE Communications Surveys and Tutorials, 2018-2020.
-201901. Sensors, 2019.
-201803.	Journal of Information Security and Applications, 2018-2019.
-201602. Journal of Internet Technology, 2016-2019.
-201802.	IEEE Transactions on Network and Service Management, 2018.
+1. Journal of Systems Architecture, 2020
+202007. Computer Networks, 2020
+202002. IEEE Systems Journal, 2020
+202001. Applied Sciences (MDPI), 2020
+201901. Sensors (MDPI), 2019, 2020
+201804. IEEE Communications Surveys and Tutorials, 2018, 2019, 2020
+201803. Journal of Information Security and Applications, 2018-2020
+201602. Journal of Internet Technology, 2016-2020
+201802. IEEE Transactions on Network and Service Management, 2018
 201801. ICT Express, 2018.
-201603. IEEE Access, 2016-2018.
-201602. Journal of Network and Computer Applications, 2016-2018.
-201601. Enterprise Information Systems, 2016.
-201501. Microprocessors and Microsystems, 2015.
-201401. Proceedings of the Asia-Pacific Advanced Network, 2014.
+201603. IEEE Access, 2016, 2017, 2018
+201602. Journal of Network and Computer Applications, 2016-2018
+201601. Enterprise Information Systems, 2016
+201501. Microprocessors and Microsystems, 2015
+201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 
 
@@ -223,7 +224,6 @@ Reference Links
 ----------------
 * Linkedin: <a href="https://linkedin.com/in/pwtsai/" target="_blank">https://www.linkedin.com/in/pwtsai/</a>
 * Google Scholar: <a href="http://pub.pwtsai.im" target="_blank">http://pub.pwtsai.im</a>
-* ITLab: <a href="https://itlab.ee.ncku.edu.tw/" target="_blank">https://itlab.ee.ncku.edu.tw/</a>
 
 
 
