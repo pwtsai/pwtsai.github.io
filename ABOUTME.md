@@ -168,7 +168,8 @@ Services
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference (technical program committee member/Paper review)
-1. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
+1.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, Taipei, Taiwan.
+202002. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
 202001. Zooming Innovation in Consumer Electronics International Conference, May. 29-30, 2020, Novi Sad, Serbian. (digital)
 201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
 201905. Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.
@@ -197,6 +198,8 @@ Services
 201501. Microprocessors and Microsystems, 2015
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
+* Other domestic activities
+1.	109年經濟部初級資訊安全工程師能力鑑定種子師資
 
 
 Joined Projects
