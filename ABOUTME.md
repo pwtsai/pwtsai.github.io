@@ -167,8 +167,11 @@ Services
 1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
-* Conference (technical program committee member/Paper review)
-1.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, Taipei, Taiwan.
+* Conference (Program Committee)
+1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
+
+* Conference (Technical Program Committee/Paper review)
+1.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
 202002. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
 202001. Zooming Innovation in Consumer Electronics International Conference, May. 29-30, 2020, Novi Sad, Serbian. (digital)
 201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
@@ -200,6 +203,7 @@ Services
 
 * Other domestic activities
 1.	109年經濟部初級資訊安全工程師能力鑑定種子教師
+202001.	110學年度中央大學資管系碩士班考試入學委員
 
 
 Joined Projects
