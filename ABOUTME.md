@@ -18,7 +18,7 @@ I have work experience in network management, engineering, information security 
 
 Current Position
 ----------------
-* Assistant Professor, Dept. of Information Management, National Central Universiry (2020-)
+* Assistant Professor, Dept. of Information Management, National Central University (2020-)
 
 
 
@@ -199,7 +199,7 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Other domestic activities
-1.	109年經濟部初級資訊安全工程師能力鑑定種子師資
+1.	109年經濟部初級資訊安全工程師能力鑑定種子教師
 
 
 Joined Projects
@@ -226,8 +226,8 @@ Joined Projects
 Reference Links
 ----------------
 * Linkedin: <a href="https://linkedin.com/in/pwtsai/" target="_blank">https://www.linkedin.com/in/pwtsai/</a>
-* Google Scholar: <a href="http://pub.pwtsai.im" target="_blank">http://pub.pwtsai.im</a>
-
+* Google Scholar: <a href="http://pub.pwtsai.im/" target="_blank">http://pub.pwtsai.im</a>
+* Lab Website: <a href="http://in.ncu.edu.tw/~pwtsai/" target="_blank">http://in.ncu.edu.tw/~pwtsai/</a>
 
 
 
