@@ -150,7 +150,7 @@ Patents
 Talk
 ----------------
 1. EE Dept. Seminar, National Cheng Kung University, May. 16, 2019. (domestic)
-Title: "The Challenges of Smart Manufacturing and Industrial Internet-of-things in Future"
+	Title: "The Challenges of Smart Manufacturing and Industrial Internet-of-things in Future"
 201211. Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
@@ -171,7 +171,8 @@ Services
 1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
 * Conference (Technical Program Committee/Paper review)
-1.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
+1.	The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)
+202003.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
 202002. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
 202001. Zooming Innovation in Consumer Electronics International Conference, May. 29-30, 2020, Novi Sad, Serbian. (digital)
 201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
