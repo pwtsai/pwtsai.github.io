@@ -203,8 +203,10 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Other domestic activities
-1.	109年經濟部初級資訊安全工程師能力鑑定種子教師
-202001.	110學年度中央大學資管系碩士班考試入學委員
+1.	110學年度中央大學研究所甄試書審委員
+202003. 110學年度資資管系班級導師
+202002.	109年經濟部初級資訊安全工程師能力鑑定種子教師
+202001.	110學年度中央大學碩士班考試入學命題閱卷委員
 
 
 Joined Projects
