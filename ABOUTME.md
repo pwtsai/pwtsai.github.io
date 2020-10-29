@@ -218,7 +218,8 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
+1. On the Study of Implementing Trusted Route for Software-Defined eXchange (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
+201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
 201404. Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
 201403. Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
