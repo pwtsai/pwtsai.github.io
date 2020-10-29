@@ -150,9 +150,11 @@ Patents
 
 Talk
 ----------------
-1. EE Dept. Seminar, National Cheng Kung University, May. 16, 2019. (domestic)
+1.	CSIE Dept. Seminar, National Taiwan Normal University, Oct. 29, 2020.
+	Title: "Software-defined Wide-area Network (SD-WAN): From Talk to Action"
+201901. EE Dept. Seminar, National Cheng Kung University, May. 16, 2019.
 	Title: "The Challenges of Smart Manufacturing and Industrial Internet-of-things in Future"
-201211. Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. (domestic)
+201201. Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012.
 	Title: "An IPv6 Transition Showcase in a Large Campus Network"
 
 
