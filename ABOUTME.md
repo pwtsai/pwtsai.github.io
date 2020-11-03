@@ -189,7 +189,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
-1. Journal of Systems Architecture, 2020
+1. Frontiers of Computer Science, 2020
+202009. Journal of Systems Architecture, 2020
 202007. Computer Networks, 2020
 202002. IEEE Systems Journal, 2020
 202001. Applied Sciences (MDPI), 2020
