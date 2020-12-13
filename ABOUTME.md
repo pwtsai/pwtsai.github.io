@@ -26,7 +26,7 @@ Working Experience
 ----------------
 * Sr. R&D Supervisor, Delta Electronic, Inc. (2019-2020)
 	+ Leading a small team for Future ICT research/CPS Security testbed faculty
-* Principal R&D Engineer, Delta Electronic, Inc. (2018-2019)
+* Principal Engineer, Delta Electronic, Inc. (2018-2019)
 	+ Cyber-Physical System development
 	+ ICS Security research
 * Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao Information Co., Ltd. (2016-2018)
