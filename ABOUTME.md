@@ -7,7 +7,7 @@ Pang-Wei Tsai (PhD) | pwtsai | Assistant Professor | National Central University
 
 About Me
 ----------------
-I have work experience in network management, engineering, information security and testbed building. I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice!
+Hi, I have work experience in network management, engineering, information security and testbed building. Since college, I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you && To see you nice!
 
 * Ph.D dissertation title: Using Software-defined Networking Concepts on Building Large-scale and Cross-domain Testbed over Research and Education Networks
  	+ Best Ph.D. Dissertation Award, NCKU & Lam Research Corporation
@@ -24,10 +24,17 @@ Current Position
 
 Working Experience
 ----------------
-* Sr. R&D Supervisor, Delta Research Center, Delta Electronic, Inc. (2018-2020)
+* Sr. R&D Supervisor, Delta Electronic, Inc. (2019-2020)
 	+ Leading a small team for Future ICT research/CPS Security testbed faculty
+* Principal R&D Engineer, Delta Electronic, Inc. (2018-2019)
+	+ Cyber-Physical System development
+	+ ICS Security research
 * Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao Information Co., Ltd. (2016-2018)
+	+ Inappropriate webpage information blocking system
 * TWAREN SDN Research Team (UR Project, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
+	+ Large-scale SDN testbed
+	+ Network architecture virtualization research
+	+ Emulab
 
 
 
@@ -167,8 +174,9 @@ Services
 3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
 * OpenSource Communities
-1. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
-2. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
+1. Co-founder, Rocky Linux Taiwan. https://rockylinux.tw
+2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
+3. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Conference (Program Committee)
 1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
@@ -189,7 +197,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Review Activities
-1. Frontiers of Computer Science, 2020
+1. ACM Computing Surveys, 2020
+202010. Frontiers of Computer Science, 2020
 202009. Journal of Systems Architecture, 2020
 202007. Computer Networks, 2020
 202002. IEEE Systems Journal, 2020
@@ -217,11 +226,12 @@ Services
 Joined Projects
 ----------------
 * International
-1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/07; Asi@Connect-20-xxx, European Union)
+1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/07; Asi@Connect-20-010, European Union)
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. On the Study of Implementing Trusted Route for Software-Defined eXchange (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
+1. On the Study of Implementing Trusted Route for Software-Defined eXchange (<span style="border-bottom:1px solid black;">PI</span>, 2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
+201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2020/05, MOST 109-2218-E-006-014)
 201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
 201404. Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
