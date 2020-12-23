@@ -74,7 +74,8 @@ Certifications
 
 Honors and Achievements
 ----------------
-* **Outstanding Research and Education Fellowship Award for New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020. (domestic)
+* **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
+* **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020-2021. (domestic)
 * (Advisee) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
 * **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduation), NCKU & Lam Research Corporation, 2019. (domestic)
 * **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
@@ -217,11 +218,10 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Other domestic activities
-1.	110學年度中央大學資管系研究所甄試口試委員
-202004.	110學年度中央大學資管系研究所甄試書審委員
-202003. 110學年度資管系3A班級導師
-202002.	109年經濟部初級資訊安全工程師能力鑑定種子教師
-202001.	110學年度中央大學碩士班考試入學命題閱卷委員
+1.	110學年度中央大學資管所碩士班考試入學命題閱卷委員
+202003.	110學年度中央大學資管所碩士班甄試委員
+202002. 109學年度資管系3A班級導師
+202001.	109年經濟部初級資訊安全工程師能力鑑定種子教師
 
 
 Joined Projects
@@ -231,7 +231,8 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. On the Study of Implementing Trusted Route for Software-Defined eXchange (<span style="border-bottom:1px solid black;">PI</span>, 2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
+
+1. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2020/05, MOST 109-2218-E-006-014)
 201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
