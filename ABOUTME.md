@@ -227,7 +227,7 @@ Services
 Joined Projects
 ----------------
 * International
-1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/07; Asi@Connect-20-010, European Union)
+1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/07; Asi@Connect-20-050, European Union)
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
