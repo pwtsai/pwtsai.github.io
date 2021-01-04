@@ -198,7 +198,12 @@ Services
 201801. The Asia-Pacific Advanced Network Research Workshop, Aug. 6-10, 2018, Auckland, New Zealand.
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
-* Review Activities
+* Journal Activities
+1. (waiting panel approval) Associate Editor, Human-centric Computing and Information Sciences (HCIS),ISSN 2192-1962. (SCIE)
+202012. (waiting panel approval) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
+
+
+* Journal Review Activities
 1. ACM Computing Surveys, 2020
 202010. Frontiers of Computer Science, 2020
 202009. Journal of Systems Architecture, 2020
