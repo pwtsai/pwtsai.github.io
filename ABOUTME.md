@@ -199,8 +199,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Journal Activities
-1. (waiting panel review) Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
-202012. (waiting panel review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
+1. (under panel review) Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
+202012. (under panel review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
 
 
 * Journal Review Activities
