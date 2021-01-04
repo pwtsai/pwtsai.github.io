@@ -199,8 +199,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Journal Activities
-1. (waiting panel approval) Associate Editor, Human-centric Computing and Information Sciences (HCIS),ISSN 2192-1962. (SCIE)
-202012. (waiting panel approval) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
+1. (waiting panel review) Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
+202012. (waiting panel review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
 
 
 * Journal Review Activities
@@ -238,7 +238,7 @@ Joined Projects
 * Domestic
 
 1. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
-201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2020/05, MOST 109-2218-E-006-014)
+201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
 201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
 201404. Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
