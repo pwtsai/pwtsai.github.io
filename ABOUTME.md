@@ -204,7 +204,7 @@ Services
 
 
 * Journal Review Activities
-1. ACM Computing Surveys, 2020
+1. ACM Computing Surveys, 2021, 2020
 202010. Frontiers of Computer Science, 2020
 202009. Journal of Systems Architecture, 2020
 202007. Computer Networks, 2020
@@ -223,9 +223,10 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Other domestic activities
-1.	110學年度中央大學資管所碩士班考試入學命題閱卷委員
-202003.	110學年度中央大學資管所碩士班甄試委員
-202002. 109學年度資管系3A班級導師
+1.	109-2系研究發展委員會委員
+202004.	110學年度資管所碩士班考試入學命題閱卷委員
+202003.	110學年度資管所碩士班甄試委員
+202002. 109-1資管系3A班級導師
 202001.	109年經濟部初級資訊安全工程師能力鑑定種子教師
 
 
