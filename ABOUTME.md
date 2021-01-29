@@ -204,7 +204,8 @@ Services
 
 
 * Journal Review Activities
-1. ACM Computing Surveys, 2021, 2020
+1. IEEE Transactions on Cloud Computing, 2021
+202012. ACM Computing Surveys, 2021, 2020
 202010. Frontiers of Computer Science, 2020
 202009. Journal of Systems Architecture, 2020
 202007. Computer Networks, 2020
