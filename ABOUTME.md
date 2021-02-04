@@ -19,6 +19,7 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Information Management, National Central University (2020-)
+	+ Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE)
 
 
 
@@ -180,32 +181,10 @@ Services
 2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 3. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
-* Conference (Program Committee)
-1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
-
-* Conference (Technical Program Committee member or Paper Reviewer)
-1.	Zooming Innovation in Consumer Technologies International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)
-202004.	The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)
-202003.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
-202002. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
-202001. Zooming Innovation in Consumer Electronics International Conference 2020, May. 29-30, 2020, Novi Sad, Serbian. (digital)
-201909. 2019 International Conference on Radar, Antenna, Microwave, Electronics and Telecommunications, Oct. 23-24, 2019, Tangerang, Indonesia.
-201908. The IEEE International Conference on Consumer Electronics - Berlin, Sep. 8-11, 2019, Berlin, Germany.
-201907. The 23rd IEEE International Symposium on Consumer Technologies (ISCT), Jun. 19-21, 2019, Ancona, Italy.
-201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
-201905. Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.
-201904. The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26, 2019, Putrajaya, Malaysia. 
-201903. The IEEE International Conference on Consumer Electronics - Taiwan, May 20-22, 2019, Yilan, Taiwan. (special session)
-201902. The IEEE International Symposium on Consumer Technologies, Jun. 19-21, 2019, Ancona, Italy.
-201901. The IEEE International Conference on Consumer Electronics, Jan. 11-13, 2019, Las Vegas, USA.
-201802. Taiwan Academic Network (TANet) 2018 Conference, Oct. 24-26, 2018, Taoyuan, Taiwan.
-201801. The Asia-Pacific Advanced Network Research Workshop, Aug. 6-10, 2018, Auckland, New Zealand.
-201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
-
-* Journal Activities
-1. (applied, under panel review) Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
-202012. (applied, under panel review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
-
+* Journal Edtorial Activities
+1. Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE)
+202101. (applied, under review) Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
+202012. (applied, under review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
 
 * Journal Review Activities
 1. IEEE Transactions on Cloud Computing, 2021
@@ -226,6 +205,28 @@ Services
 201601. Enterprise Information Systems, 2016
 201501. Microprocessors and Microsystems, 2015
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
+
+* Conference (Program Committee)
+1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
+
+* Conference (Technical Program Committee member or Paper Reviewer)
+1.	Zooming Innovation in Consumer Electronics International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)
+202004.	The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)
+202003.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
+202002. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
+202001. Zooming Innovation in Consumer Electronics International Conference 2020, May. 29-30, 2020, Novi Sad, Serbian. (digital)
+201909. 2019 International Conference on Radar, Antenna, Microwave, Electronics and Telecommunications, Oct. 23-24, 2019, Tangerang, Indonesia.
+201908. The IEEE International Conference on Consumer Electronics - Berlin, Sep. 8-11, 2019, Berlin, Germany.
+201907. The 23rd IEEE International Symposium on Consumer Technologies (ISCT), Jun. 19-21, 2019, Ancona, Italy.
+201906. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.
+201905. Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.
+201904. The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26, 2019, Putrajaya, Malaysia. 
+201903. The IEEE International Conference on Consumer Electronics - Taiwan, May 20-22, 2019, Yilan, Taiwan. (special session)
+201902. The IEEE International Symposium on Consumer Technologies, Jun. 19-21, 2019, Ancona, Italy.
+201901. The IEEE International Conference on Consumer Electronics, Jan. 11-13, 2019, Las Vegas, USA.
+201802. Taiwan Academic Network (TANet) 2018 Conference, Oct. 24-26, 2018, Taoyuan, Taiwan.
+201801. The Asia-Pacific Advanced Network Research Workshop, Aug. 6-10, 2018, Auckland, New Zealand.
+201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
 1.	109-2系研究發展委員會委員
