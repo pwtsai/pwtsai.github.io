@@ -19,7 +19,8 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Information Management, National Central University (2020-)
-	+ Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE)
+	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264. (SCIE)
+	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
 
 
 
@@ -182,8 +183,8 @@ Services
 3. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Journal Edtorial Activities
-1. Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE)
-202101. (applied, under review) Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
+1. Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE) (2021-)
+202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 202012. (applied, under review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
 
 * Journal Review Activities
