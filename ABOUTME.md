@@ -116,7 +116,7 @@ Publications: Journal Papers (SCI/SCIE indexed)
 
 Publications: Conference Papers
 ----------------
-1. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceeding of International Computer Symposium, 2020. (accepted)
+1. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
 201908. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
@@ -230,17 +230,19 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1.	109-2系研究發展委員會委員
-202004.	110資管所碩士班考試入學命題閱卷委員
-202003.	110資管所碩士班甄試委員
-202002. 109資管系3A班級導師
+1.	(申請審查中) 中央大學微課程導師(程式設計研究社)
+202102.	勞動部技能檢定中心網路安全職類儲備裁判
+202101.	109-2中央大學資管系研究發展委員會委員
+202004.	110中央大學資管所碩士班考試入學命題閱卷委員
+202003.	110中央大學資管所碩士班甄試委員
+202002. 109中央大學資管系3A班級導師
 202001.	109經濟部初級資訊安全工程師能力鑑定種子教師
 
 
 Joined Projects
 ----------------
 * International
-1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/07; Asi@Connect-20-050, European Union)
+1. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
