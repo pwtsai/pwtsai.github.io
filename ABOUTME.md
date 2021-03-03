@@ -230,7 +230,7 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1.	(申請審查中) 中央大學微課程導師(程式設計研究社)
+1.	(申請審查中) 109-2中央大學微課程導師(程式設計研究社)
 202102.	勞動部技能檢定中心網路安全職類儲備裁判
 202101.	109-2中央大學資管系研究發展委員會委員
 202004.	110中央大學資管所碩士班考試入學命題閱卷委員
