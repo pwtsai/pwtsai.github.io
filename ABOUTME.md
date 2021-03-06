@@ -190,14 +190,14 @@ Services
 * Journal Review Activities
 1. IEEE Transactions on Cloud Computing, 2021
 202012. ACM Computing Surveys, 2020, 2021
+202007. Computer Networks, 2020, 2021
+202001. Applied Sciences (MDPI), 2020, 2021
+201803. Journal of Information Security and Applications, 2018-2021
 202010. Frontiers of Computer Science, 2020
 202009. Journal of Systems Architecture, 2020
-202007. Computer Networks, 2020, 2021
 202002. IEEE Systems Journal, 2020
-202001. Applied Sciences (MDPI), 2020, 2021
 201901. Sensors (MDPI), 2019, 2020
 201804. IEEE Communications Surveys and Tutorials, 2018-2020
-201803. Journal of Information Security and Applications, 2018-2021
 201602. Journal of Internet Technology, 2016-2020
 201802. IEEE Transactions on Network and Service Management, 2018
 201801. ICT Express, 2018.
