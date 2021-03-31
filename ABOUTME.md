@@ -50,11 +50,11 @@ Education
 
 Specialties
 ----------------
-* Cyber-Physical System: CPS Security, OT signature/behavior analysis, and testbed development
-* Network Management: Routing and switching, monitoring, and architecture design
-* Information Security: IDS/IPS, L2-4/L7 content extraction, Snort rule development, and anomaly detection
-* Software-defined Networking: OpenFlow, Hybrid SDN, and SDX
-* Blockchain Technologies: Node, rig and pool building
+* Cyber-Physical System: CPS Security, OT signature/behavior analysis, edge computing facility and testbed
+* Software-defined Networking: OpenFlow, Hybrid SDN, SDX
+* Network Management: Basic routing and switching, monitoring, architecture design
+* Information Security: IDS/IPS, content extraction, Snort rule development, anomaly detection
+* Blockchain Technologies: Node, rig, pool building
 
 
 
@@ -100,17 +100,18 @@ Honors and Achievements
 
 
 
-Publications: Journal Papers (SCI/SCIE indexed)
+Publications: Journal Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018.
-201803. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, vol.8, no.5, e1261, 2018.
-201802. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal, vol. 12, no. 4, pp. 3958-3969, 2018.
-201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018.
-201701. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017.
-201601. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp. 134-153, 2017.
-201501. K.-M. Cho, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. 
-201302. M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. 
-201301. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J. Mambretti, "Design and implementation of automatic network topology discovery system for international multidomain future internet testbed," Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013.
+1. <span style="border-bottom:1px solid black;">**Pang-Wei Tsai**</span>, "Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection," Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.
+201804. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018. (SCI-E)
+201803. C.-W. Tsai, **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, M.-C. Chiang, and C.-S. Yang, "Data Analytics for Internet of Things: A Review," WIREs Data Mining and Knowledge Discovery, vol.8, no.5, e1261, 2018. (SCI-E)
+201802. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, "Network monitoring in software-defined networking: A review," IEEE Systems Journal, vol. 12, no. 4, pp. 3958-3969, 2018. (SCI-E)
+201801. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span> and C.-S. Yang, "Testbed@TWISC: A network security experiment platform," International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018. (SCI-E)
+201701. **<span style="border-bottom:1px solid black;">P.-W. Tsai**</span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, "Control frameworks in network emulation testbeds: A survey," Journal of Computational Science, vol. 22, pp. 148-161, 2017. (SCI-E)
+201601. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, and J. Kim, "Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange," Malaysian Journal of Computer Science, vol. 30, no. 2, pp. 134-153, 2017. (SCI-E)
+201501. K.-M. Cho, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Tsai, and C.-S. Yang, "A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing," Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. (SCI)
+201302. M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Network virtualization implementation over global research production networks," Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. (SCI-E)
+201301. W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J. Mambretti, "Design and implementation of automatic network topology discovery system for international multidomain future internet testbed," Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013. (SCI-E)
 
 
 
