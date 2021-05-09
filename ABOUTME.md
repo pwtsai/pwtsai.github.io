@@ -244,7 +244,7 @@ Services
 Joined Projects
 ----------------
 * International
-1. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service (2021/05~2021/09; D110-B5509 #9,Taiwan)
+1. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
 202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
