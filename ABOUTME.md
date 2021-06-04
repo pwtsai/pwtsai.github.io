@@ -19,6 +19,7 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Information Management, National Central University (2020-)
+	+ Asia-Pacific Network Information Centre member
 	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
 	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264. (SCIE)
 
@@ -174,9 +175,10 @@ Talk
 Services
 ---------------
 * International Organization
-1. Information & Control technical committee member, Taiwan chapter, Semiconductor Equipment and Materials International (SEMI)
-2. Member, Tainan Section (Region 10), IEEE
-3. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
+1. Asia-Pacific Network Information Centre (APNIC) LIR member
+2. Information & Control technical committee member, Taiwan chapter, Semiconductor Equipment and Materials International (SEMI)
+3. Member, Tainan Section (Region 10), IEEE
+4. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
 * OpenSource Communities
 1. Co-founder, Rocky Linux Taiwan. https://rockylinux.tw
