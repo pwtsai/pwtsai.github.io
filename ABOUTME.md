@@ -233,10 +233,14 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1.	110學年度資管所博士班入學考試口試委員
+202107. 110-1中央大學資管系入學招生委員
+202106. 110學年度中央大學校教學評量推動及研究小組代表
+202106. 110中央大學資管系4A班級導師
+202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
+202104.	110學年度資管所博士班入學考試口試委員
 202103.	109-2中央大學微課程導師(程式設計研究社)
 202102.	勞動部技能檢定中心網路安全職類儲備裁判
-202101.	109-2中央大學資管系研究發展委員會委員
+202101.	109-2中央大學資管系研究發展委員
 202004.	110中央大學資管所碩士班考試入學命題閱卷委員
 202003.	110中央大學資管所碩士班甄試委員
 202002. 109中央大學資管系3A班級導師
@@ -252,7 +256,8 @@ Joined Projects
 
 * Domestic
 
-1. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
+1. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain, Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
+202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
 201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
