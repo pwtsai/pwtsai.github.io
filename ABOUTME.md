@@ -233,7 +233,7 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-202107. 110-1中央大學資管系入學招生委員
+1. 110-1中央大學資管系入學招生委員
 202106. 110學年度中央大學校教學評量推動及研究小組代表
 202106. 110中央大學資管系4A班級導師
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
