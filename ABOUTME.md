@@ -19,7 +19,7 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Information Management, National Central University (2020-)
-	+ Asia-Pacific Network Information Centre member
+	+ Asia-Pacific Network Information Centre (APNIC) LIR member
 	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
 	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264. (SCIE)
 
@@ -119,7 +119,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers
 ----------------
-1. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
+1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceeding of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, 2021. (Accepted)
+202012.. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
 201908. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
