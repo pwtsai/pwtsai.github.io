@@ -78,6 +78,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2021-2022. (domestic)
 * **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020-2021. (domestic)
 * (Advisee) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
@@ -237,7 +238,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 110-1中央大學資管系入學招生委員
+1. 資訊安全學會教育與推廣委員會委員
+202107. 110-1中央大學資管系入學招生委員
 202106. 110學年度中央大學校教學評量推動及研究小組代表
 202106. 110中央大學資管系4A班級導師
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
