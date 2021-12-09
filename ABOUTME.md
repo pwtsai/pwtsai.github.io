@@ -78,6 +78,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Advisee) APAN/ISOC Network-engineering Fellowship Grant, 2021-2022.
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2021-2022. (domestic)
 * **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020-2021. (domestic)
