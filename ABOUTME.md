@@ -106,7 +106,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications. (SCI-E) (Accepted)
+1. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, 2021. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
 202103. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection," Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.
 201804. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018. (SCI-E)
@@ -123,7 +123,7 @@ Publications: Journal Papers
 
 Publications: Conference Papers
 ----------------
-1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceeding of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, 2021. (Accepted)
+1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceeding of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, 2021.
 202012. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
 201908. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
@@ -187,17 +187,20 @@ Services
 4. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
 * OpenSource Communities
-1. Co-founder, Rocky Linux Taiwan. https://rockylinux.tw
 2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
 3. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
 
 * Journal Edtorial Activities
 1. Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE) (2021-)
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
-202012. (applied, under review) Reviewer Board member, Future Internet, ISSN 1999-5903. (EI)
 
 * Journal Review Activities
-1. IEEE Transactions on Cloud Computing, 2021
+1. Information (MDPI), 2022
+202201. Journal of Information Science and Engineering, 2022
+202110. Electronics (MDPI), 2021
+202108. Applied System Innovation (MDPI), 2021
+202109. IET Communications, 2021
+202101. IEEE Transactions on Cloud Computing, 2021
 202012. ACM Computing Surveys, 2020, 2021
 202007. Computer Networks, 2020, 2021
 202001. Applied Sciences (MDPI), 2020, 2021
@@ -239,8 +242,7 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 資訊安全學會教育與推廣委員會委員
-202107. 110-1中央大學資管系入學招生委員
+1. 110-1中央大學資管系入學招生委員
 202106. 110學年度中央大學校教學評量推動及研究小組代表
 202106. 110中央大學資管系4A班級導師
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
