@@ -78,12 +78,12 @@ Certifications
 
 Honors and Achievements
 ----------------
-* (Advisee) 2022 GiCS **Merit Award (創意發想組優勝)**, 2022. (domestic)
-* (Advisee) APAN/ISOC Network-engineering **Fellowship Grant**, 2021-2022.
+* (Student Guidance) 2022 GiCS **Merit Award (創意發想組優勝)**, 2022. (domestic)
+* (Student Guidance) APAN/ISOC Network-engineering **Fellowship Grant**, 2021-2022.
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2021-2022. (domestic)
 * **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020-2021. (domestic)
-* (Advisee) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
+* (Student Guidance) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
 * **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduation), NCKU & Lam Research Corporation, 2019. (domestic)
 * **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
