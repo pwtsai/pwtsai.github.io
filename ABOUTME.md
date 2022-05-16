@@ -254,13 +254,15 @@ Services
 Joined Projects
 ----------------
 * International
-1. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
+1. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/02; European Union)
+202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation (2022/02~2023/01; M-202107-00170, ISIF Asia/APNIC)
+202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
 202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
 1. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
-2. Design of Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08/01-2022/07/31; MOST 110-2221-E-492-001)
+202208. Design of Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08/01-2022/07/31; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
 202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
