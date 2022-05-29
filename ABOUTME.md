@@ -78,6 +78,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Student Guidance) 2022 TCAT CTF **Honorable Mention (大專校院組佳作)**, 2022. (domestic)
 * (Student Guidance) 2022 GiCS **Merit Award (創意發想組優勝)**, 2022. (domestic)
 * (Student Guidance) APAN/ISOC Network-engineering **Fellowship Grant**, 2021-2022.
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2021-2022. (domestic)
