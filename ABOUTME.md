@@ -78,6 +78,8 @@ Certifications
 
 Honors and Achievements
 ----------------
+* **Excellent Mentor Award (優良導師獎)**, National Central University, 2022. (domestic)
+* **MOST Excellent Project Team Award (優良計畫團隊/前瞻資安科技專案計畫)**, 2022. (domestic)
 * (Student Guidance) 2022 TCAT CTF **Honorable Mention (大專校院組佳作)**, 2022. (domestic)
 * (Student Guidance) 2022 GiCS **Merit Award (創意發想組優勝)**, 2022. (domestic)
 * (Student Guidance) APAN/ISOC Network-engineering **Fellowship Grant**, 2021-2022.
@@ -198,15 +200,19 @@ Services
 
 * Journal Review Activities
 1. Information (MDPI), 2022
+202206. IEICE Transactions on Information and Systems, 2022
+202204. IET Networks, 2022
+202202. Information (MDPI), 2022
 202201. Journal of Information Science and Engineering, 2022
+202111. Human-centric Computing and Information Sciences. 2021
 202110. Electronics (MDPI), 2021
 202108. Applied System Innovation (MDPI), 2021
 202109. IET Communications, 2021
 202101. IEEE Transactions on Cloud Computing, 2021
 202012. ACM Computing Surveys, 2020, 2021
 202007. Computer Networks, 2020, 2021
-202001. Applied Sciences (MDPI), 2020, 2021
-201803. Journal of Information Security and Applications, 2018-2021
+202001. Applied Sciences (MDPI), 2020-2022
+201803. Journal of Information Security and Applications, 2018-2022
 202010. Frontiers of Computer Science, 2020
 202009. Journal of Systems Architecture, 2020
 202002. IEEE Systems Journal, 2020
@@ -225,7 +231,9 @@ Services
 1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
 * Conference (Technical Program Committee member or Paper Reviewer)
-1.	Zooming Innovation in Consumer Electronics International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)
+1.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
+202205. Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2021, Novi Sad, Serbia. (digital)
+202105.	Zooming Innovation in Consumer Electronics International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)
 202004.	The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)
 202003.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
 202002. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.
@@ -244,11 +252,15 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 110-1中央大學資管系入學招生委員
-202106. 110學年度中央大學校教學評量推動及研究小組代表
+202208. 111院務會議系代表
+202208. 111系入學招生委員
+202207. 111教育部前瞻新興科技教育遠距示範服務計畫委員
+202204. 第52屆全國技能競賽北區分區競賽裁判(網路安全)
+202108. 110系入學招生委員
+202106. 110校教學評量推動及研究小組代表
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
-202102.	勞動部技能檢定中心網路安全職類儲備裁判
-202101.	109-2中央大學資管系研究發展委員
+202102.	勞動部技能檢定中心儲備裁判(網路安全)
+202101.	109系研究發展委員
 202001.	109經濟部初級資訊安全工程師能力鑑定種子教師
 
 
