@@ -19,9 +19,10 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Information Management, National Central University (2020-)
+	+ Director, Taiwan Smart Technology Association, 2022 (domestic)
 	+ Asia-Pacific Network Information Centre (APNIC) LIR member
-	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE)
-	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264. (SCIE)
+	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962 (SCIE)
+	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264 (SCIE)
 
 
 
@@ -190,9 +191,12 @@ Services
 3. Member, Tainan Section (Region 10), IEEE
 4. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
+* Domesitc Organization
+1. Director, Taiwan Smart Technology Association, 2022, Available: https://tsta-tw.org.tw/
+
 * OpenSource Communities
-2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN). https://github.com/OFTEIN-NET/
-3. Project Contributor, The Campus Computer & Network Society (CCNS). https://github.com/ccns/
+2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN), Available: https://github.com/OFTEIN-NET/
+3. Project Contributor, The Campus Computer & Network Society (CCNS), Available: https://github.com/ccns/
 
 * Journal Edtorial Activities
 1. Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE) (2021-)
