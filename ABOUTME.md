@@ -153,9 +153,10 @@ Publications: Conference Papers
 
 
 
-Posters
+Posters/Presentation
 ----------------
-1. S.-W. Lee,  <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, "SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT," CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018. 
+1. Aris C. Risdianto, <span style="border-bottom:1px solid black;">**Pang-Wei Tsai**</span>, XinZhe Khooi and Teck Chaw Ling, "Design, Development, and Operation of a SDN-based BGP Playground," APNIC 54, Singapore, Sep. 8-15, 2022.
+201805. S.-W. Lee,  <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, "SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT," CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018. 
 201412. "A Fast Path Migration of Fault Tolerant Development in Softwaredefined Networking," Demonstration on the 2014 International SDN Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.
 201107. "iGENI - Taiwan Integrated Research Network", the 11th GENI Engineering Conference (GEC11), Denver, United States, Jul. 26-28, 2011.
 
