@@ -111,7 +111,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, 2021. (SCI-E)
+1. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
 202103. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection," Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.
 201804. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018. (SCI-E)
@@ -128,7 +128,7 @@ Publications: Journal Papers
 
 Publications: Conference Papers
 ----------------
-1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceeding of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, 2021.
+1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceeding of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.
 202012. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
 201908. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
@@ -280,7 +280,7 @@ Joined Projects
 
 * Domestic
 1. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
-202208. Design of Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08/01-2022/07/31; MOST 110-2221-E-492-001)
+202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08/01-2022/07/31; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
 202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
