@@ -273,7 +273,7 @@ Services
 Joined Projects
 ----------------
 * International
-1. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/02; European Union)
+1. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/02; European Union; Asi@Connect-22-021, European Union)
 202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation (2022/02~2023/01; M-202107-00170, ISIF Asia/APNIC)
 202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
 202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
