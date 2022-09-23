@@ -54,7 +54,7 @@ Specialties
 ----------------
 * Cyber-Physical System: CPS Security, OT signature/behavior analysis, edge computing facility and testbed
 * Software-defined Networking: OpenFlow, Hybrid SDN, SDX
-* Network Management: Basic routing and switching, monitoring, architecture design
+* Network Management: Basic routing and switching, BGP, monitoring, architecture design
 * Information Security: IDS/IPS, content extraction, Snort rule development, anomaly detection
 * Blockchain Technologies: Node, rig, pool building
 
