@@ -206,7 +206,8 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. IEICE Transactions on Information and Systems, 2022
+1. The Journal of Supercomputing, 2022
+202207. IEICE Transactions on Information and Systems, 2022
 202204. IET Networks, 2022
 202202. Information (MDPI), 2022
 202201. Journal of Information Science and Engineering, 2022
