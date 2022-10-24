@@ -88,7 +88,7 @@ Honors and Achievements
 * **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020-2021. (domestic)
 * (Student Guidance) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
-* **Best Ph.D. Dissertation Award**, Informaiton and Communication Technology Fields (2018 graduation), NCKU & Lam Research Corporation, 2019. (domestic)
+* **Best Ph.D. Dissertation Award**, Information and Communication Technology Fields (2018 graduation), NCKU & Lam Research Corporation, 2019. (domestic)
 * **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
 * **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
 	Title: "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed"
