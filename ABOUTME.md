@@ -112,7 +112,8 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
+1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing. (Accepted)
+202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
 202103. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection," Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.
 201804. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, "Using adaptive message replication on improving control resilience of SDN," Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018. (SCI-E)
@@ -129,9 +130,9 @@ Publications: Journal Papers
 
 Publications: Conference Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” International Conference on Artificial Life and Robotics, 2023. (Accepted)
-202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," 23rd Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
-202110. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceeding of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
+202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
+202110. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceedings of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.
 202012. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
 201908. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
@@ -158,7 +159,8 @@ Publications: Conference Papers
 
 Posters/Presentation
 ----------------
-1. Aris C. Risdianto, <span style="border-bottom:1px solid black;">**Pang-Wei Tsai**</span>, XinZhe Khooi and Teck Chaw Ling, "Design, Development, and Operation of a SDN-based BGP Playground," APNIC 54, Singapore, Sep. 8-15, 2022.
+1. W. K. Soo, S. K. Permal, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, "Fuzzy logic QoS Load Balancing in Provisioned Wireless Networks," APAN 55, Mar. 13-17, Kathmandu Nepal.
+202209. Aris C. Risdianto, <span style="border-bottom:1px solid black;">**Pang-Wei Tsai**</span>, XinZhe Khooi and Teck Chaw Ling, "Design, Development, and Operation of a SDN-based BGP Playground," APNIC 54, Singapore, Sep. 8-15, 2022.
 202208. Wooi King Soo, Satis Kumar Permal, <span style="border-bottom:1px solid black;">**Pang-Wei Tsai**</span>, Aris Cahyadi Risdianto, Teck Chaw Ling, "Intelligent Network Traffic Forecasting in SDN and Load Threshold Identification in Wireless Networks," APAN 54, Aug. 22-26, Jinan, China.
 201805. S.-W. Lee,  <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, "SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT," CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018. 
 201412. "A Fast Path Migration of Fault Tolerant Development in Softwaredefined Networking," Demonstration on the 2014 International SDN Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.
@@ -179,7 +181,9 @@ Patents
 
 Talk
 ----------------
-1.	CSIE Dept. Seminar, National Taiwan Normal University, Oct. 29, 2020.
+202210. EE Dept. Seminar, National Cheng Kung University, Oct. 20, 2022.
+        Title: "The Changes of Networking Field made by Software-Defined Concepts"
+202001.	CSIE Dept. Seminar, National Taiwan Normal University, Oct. 29, 2020.
 	Title: "Software-defined Wide-area Network (SD-WAN): From Talk to Action"
 201901. EE Dept. Seminar, National Cheng Kung University, May. 16, 2019.
 	Title: "The Challenges of Smart Manufacturing and Industrial Internet-of-things in Future"
@@ -208,7 +212,8 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. The Journal of Supercomputing, 2022
+1.	Journal of Systems Architecture, 2020, 2023
+202204. The Journal of Supercomputing, 2022
 202207. IEICE Transactions on Information and Systems, 2022
 202204. IET Networks, 2022
 202202. Information (MDPI), 2022
@@ -223,7 +228,6 @@ Services
 202001. Applied Sciences (MDPI), 2020-2022
 201803. Journal of Information Security and Applications, 2018-2022
 202010. Frontiers of Computer Science, 2020
-202009. Journal of Systems Architecture, 2020
 202002. IEEE Systems Journal, 2020
 201901. Sensors (MDPI), 2019, 2020
 201804. IEEE Communications Surveys and Tutorials, 2018-2020
@@ -240,7 +244,8 @@ Services
 1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
 * Conference (Technical Program Committee member or Paper Reviewer)
-1.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
+1.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2021, Novi Sad, Serbia.
+202209.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
 202205. Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2021, Novi Sad, Serbia. (digital)
 202105.	Zooming Innovation in Consumer Electronics International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)
 202004.	The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)
@@ -276,7 +281,7 @@ Services
 Joined Projects
 ----------------
 * International
-1. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/02; European Union; Asi@Connect-22-021, European Union)
+1. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/05; European Union; Asi@Connect-22-021, European Union)
 202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation (2022/02~2023/01; M-202107-00170, ISIF Asia/APNIC)
 202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
 202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
