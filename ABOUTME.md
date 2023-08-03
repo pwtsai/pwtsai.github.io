@@ -293,7 +293,7 @@ Joined Projects
 
 * Domestic
 1. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources, Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
-202306. Design and Development of a Distributed Data Storage Verification mechanism for Blockchain: Using critical water resources infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
+202306. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
 202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
