@@ -271,7 +271,7 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-202301. 112教育部前瞻新興科技教育遠距示範服務計畫委員
+1. 112教育部前瞻新興科技教育遠距示範服務計畫委員
 202304. 第52屆全國技能競賽中區分區競賽裁判(網路安全)
 202209. 11中央大學管理學院院務會議委員
 202207. 111教育部前瞻新興科技教育遠距示範服務計畫委員
