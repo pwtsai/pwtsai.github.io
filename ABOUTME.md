@@ -296,7 +296,7 @@ Joined Projects
 202306. Design and Development of a Distributed Data Storage Verification mechanism for Blockchain: Using critical water resources infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
 202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
-202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08/01-2022/07/31; MOST 110-2221-E-492-001)
+202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
 202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
