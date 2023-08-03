@@ -245,7 +245,7 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference (Commitee member or Session Chair/Co-Chair)
-1.  Asia-Pacific Network Operations and Management Symposium, 2023, Sep. 6-8. 2023, Sejong, Korea. (TBA)
+1.  Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (TBA)
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
 * Conference (TPC member or Paper Reviewer)
