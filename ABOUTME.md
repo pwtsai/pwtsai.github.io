@@ -1,4 +1,4 @@
-Pang-Wei Tsai (PhD) | pwtsai | Assistant Professor | National Central University | ![My Email Address](images/mail-pwtsai.png)
+Pang-Wei Tsai (PhD) | pwtsai | Assistant Professor | National Cheng Kung University | ![My Email Address](images/mail-pwtsai.png)
 ================
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
@@ -18,9 +18,9 @@ Hi, I have work experience in network management, engineering, information secur
 
 Current Position
 ----------------
-* Assistant Professor, Dept. of Information Management, National Central University (2020-)
-	+ Director, Taiwan Smart Technology Association, 2022 (domestic)
-	+ Asia-Pacific Network Information Centre (APNIC) LIR member
+* Assistant Professor, Dept. of Electrical Engineering, National Cheng Kung University (2023-)
+	+ Director, Taiwan Smart Technology Association (domestic) (2022-)
+	+ Asia-Pacific Network Information Centre (APNIC) LIR member (2021-)
 	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962 (SCIE)
 	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264 (SCIE)
 
@@ -28,6 +28,7 @@ Current Position
 
 Working Experience
 ----------------
+* Assistant Professor, Dept. of Information Management, National Central University (2020-2023)
 * Sr. R&D Supervisor, Delta Electronic, Inc. (2019-2020)
 	+ Leading a small team for Future ICT research/CPS Security testbed faculty
 * Principal Engineer, Delta Electronic, Inc. (2018-2019)
@@ -79,11 +80,13 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Student Guidance) GiCS **Merit Award (資安闖天關優勝)**, 2023. (domestic)
+* (Student Guidance) GiCS **Merit Award (創意發想賽優勝)**, 2023. (domestic)
 * (Student Guidance) **Championship**, 2022 RunSpace Contest (RunSpace太空創意競賽), 2022. (domestic)
 * **Excellent Mentor Award (優良導師獎)**, National Central University, 2022. (domestic)
-* **MOST Excellent Project Team Award (優良計畫團隊/前瞻資安科技專案計畫)**, 2022. (domestic)
+* **MOST Excellent Project Team Award (優良計畫團隊)**, 2022. (domestic)
 * (Student Guidance) TCAT CTF **Honorable Mention (大專校院組佳作)**, 2022. (domestic)
-* (Student Guidance) GiCS **Merit Award (創意發想組優勝)**, 2022. (domestic)
+* (Student Guidance) GiCS **Merit Award (創意發想賽優勝)**, 2022. (domestic)
 * (Student Guidance) APAN/ISOC Network-engineering **Fellowship Grant**, 2021-2022.
 * **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2021-2022. (domestic)
 * **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
@@ -112,7 +115,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing. (Accepted)
+1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, 2023. (In Press)
 202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
 202103. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection," Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.
@@ -128,12 +131,13 @@ Publications: Journal Papers
 
 
 
-Publications: Conference Papers
+Publications: Conference Papers (International)
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
-202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, 2023. (Accepted)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
+202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
 202110. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceedings of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.
-202012. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
+202012. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and T. C. Ling, "An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction," in proceedings of International Computer Symposium, 2020.
 201908. K.-T. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, "Implementation of BGP Security Modules in Hybrid-SDN network," in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF>*(Best Student Paper Award)*</font>
 201808. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, "Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network," in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.
 201708. H.-P. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-H. Chang, and C.-S. Yang, "Design and development of the reactive BGP peering in software-defined routing exchanges," in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.
@@ -240,10 +244,11 @@ Services
 201501. Microprocessors and Microsystems, 2015
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
-* Conference (Program Committee)
-1. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
+* Conference (Commitee member or Session Chair/Co-Chair)
+1.  Asia-Pacific Network Operations and Management Symposium, 2023, Sep. 6-8. 2023, Sejong, Korea. (TBA)
+202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
-* Conference (Technical Program Committee member or Paper Reviewer)
+* Conference (TPC member or Paper Reviewer)
 1.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2021, Novi Sad, Serbia.
 202209.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
 202205. Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2021, Novi Sad, Serbia. (digital)
@@ -266,16 +271,15 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 111院務會議系代表
-202208. 111系入學招生委員
+202301. 112教育部前瞻新興科技教育遠距示範服務計畫委員
+202304. 第52屆全國技能競賽中區分區競賽裁判(網路安全)
+202209. 11中央大學管理學院院務會議委員
 202207. 111教育部前瞻新興科技教育遠距示範服務計畫委員
 202204. 第52屆全國技能競賽北區分區競賽裁判(網路安全)
-202108. 110系入學招生委員
-202106. 110校教學評量推動及研究小組代表
+202106. 110中央大學教學評量推動及研究小組委員
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
 202102.	勞動部技能檢定中心儲備裁判(網路安全)
-202101.	109系研究發展委員
-202001.	109經濟部初級資訊安全工程師能力鑑定種子教師
+202001.	經濟部初級資訊安全工程師能力鑑定種子教師
 
 
 Joined Projects
@@ -288,7 +292,9 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08/01-2023/07/30; NSTC 111-2221-E-492-007)
+1. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources, Co-PI, (2023/06-2023/05; NTSC 112-2634-F-006-001-MBK)
+202306. Design and Development of a Distributed Data Storage Verification mechanism for Blockchain: Using critical water resources infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
+202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08/01-2022/07/31; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
