@@ -246,13 +246,14 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference (Commitee member or Session Chair/Co-Chair)
-1.  Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (TBA)
+1.  Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea.
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
-* Conference (TPC member or Paper Reviewer)
-1.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2021, Novi Sad, Serbia.
+* Conference (TPC member or Reviewer)
+1. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
+202305.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2023, Novi Sad, Serbia.
 202209.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
-202205. Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2021, Novi Sad, Serbia. (digital)
+202205. Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2022, Novi Sad, Serbia. (digital)
 202105.	Zooming Innovation in Consumer Electronics International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)
 202004.	The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)
 202003.	Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.
