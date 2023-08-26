@@ -217,7 +217,8 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1.	Journal of Systems Architecture, 2020, 2023
+1.	IEEE Transactions on Big Data, 2023
+202301.	Journal of Systems Architecture, 2020, 2023
 202204. The Journal of Supercomputing, 2022
 202207. IEICE Transactions on Information and Systems, 2022
 202204. IET Networks, 2022
@@ -300,7 +301,7 @@ Joined Projects
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
-202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/09; MOST-109-2222-E-008-005-MY3)
+202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/12; MOST-109-2222-E-008-005-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
 201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
