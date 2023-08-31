@@ -83,6 +83,7 @@ Honors and Achievements
 * (Student Guidance) GiCS **Merit Award (資安闖天關優勝)**, 2023. (domestic)
 * (Student Guidance) GiCS **Merit Award (創意發想賽優勝)**, 2023. (domestic)
 * (Student Guidance) **Championship**, 2022 RunSpace Contest (RunSpace太空創意競賽), 2022. (domestic)
+* **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2022-2023. (domestic)
 * **Excellent Mentor Award (優良導師獎)**, National Central University, 2022. (domestic)
 * **MOST Excellent Project Team Award (優良計畫團隊)**, 2022. (domestic)
 * (Student Guidance) TCAT CTF **Honorable Mention (大專校院組佳作)**, 2022. (domestic)
@@ -212,7 +213,7 @@ Services
 2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN), Available: https://github.com/OFTEIN-NET/
 3. Project Contributor, The Campus Computer & Network Society (CCNS), Available: https://github.com/ccns/
 
-* Journal Edtorial Activities
+* Journal Editorial Activities
 1. Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE) (2021-)
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
