@@ -80,6 +80,9 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domesic)
+* ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation, 2023.
+* Best Paper Award, the 24th Asia-Pacific Network Operations and Management Symposium, 2023.
 * (Student Guidance) GiCS **Merit Award (資安闖天關優勝)**, 2023. (domestic)
 * (Student Guidance) GiCS **Merit Award (創意發想賽優勝)**, 2023. (domestic)
 * (Student Guidance) **Championship**, 2022 RunSpace Contest (RunSpace太空創意競賽), 2022. (domestic)
