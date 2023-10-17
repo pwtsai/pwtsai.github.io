@@ -221,7 +221,8 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1.	IEEE Transactions on Big Data, 2023
+1. IEEE Wireless Communications Magazine, 2023
+202308. IEEE Transactions on Big Data, 2023
 202301.	Journal of Systems Architecture, 2020, 2023
 202204. The Journal of Supercomputing, 2022
 202207. IEICE Transactions on Information and Systems, 2022
@@ -280,10 +281,8 @@ Services
 * Other domestic activities
 1. 112教育部前瞻新興科技教育遠距示範服務計畫委員
 202304. 第52屆全國技能競賽中區分區競賽裁判(網路安全)
-202209. 11中央大學管理學院院務會議委員
 202207. 111教育部前瞻新興科技教育遠距示範服務計畫委員
 202204. 第52屆全國技能競賽北區分區競賽裁判(網路安全)
-202106. 110中央大學教學評量推動及研究小組委員
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
 202102.	勞動部技能檢定中心儲備裁判(網路安全)
 202001.	經濟部初級資訊安全工程師能力鑑定種子教師
