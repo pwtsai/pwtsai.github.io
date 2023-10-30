@@ -324,7 +324,7 @@ Reference Links
 ----------------
 * Linkedin: <a href="https://linkedin.com/in/pwtsai/" target="_blank">https://www.linkedin.com/in/pwtsai/</a>
 * Google Scholar: <a href="http://pub.pwtsai.im/" target="_blank">http://pub.pwtsai.im</a>
-* Lab Website: <a href="http://in.ncu.edu.tw/~pwtsai/" target="_blank">http://in.ncu.edu.tw/~pwtsai/</a>
+* Lab Website: <a href="http://itlab.ee.ncku.edu.tw/pwtsai/" target="_blank">http://itlab.ee.ncku.edu.tw/pwtsai/</a>
 
 
 
