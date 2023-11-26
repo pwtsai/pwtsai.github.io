@@ -119,7 +119,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, 2023. (In Press)
+1. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, vol. 2023, pp. 1-10, 2023.
 202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, and C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
 202103. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection," Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.
@@ -137,7 +137,7 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, 2023. (Accepted)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, pp. 125.130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
 202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
 202110. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceedings of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.
