@@ -80,7 +80,9 @@ Certifications
 
 Honors and Achievements
 ----------------
-* (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domesic)
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024. (domestic)
+* (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)
+* (Student Guidance) TCAT CTF **High Distinction Award (大專校院組特優)**, 2023. (domestic)
 * ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation, 2023.
 * Best Paper Award, the 24th Asia-Pacific Network Operations and Management Symposium, 2023.
 * (Student Guidance) GiCS **Merit Award (資安闖天關優勝)**, 2023. (domestic)
@@ -252,11 +254,13 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference (Commitee member or Session Chair/Co-Chair)
-1.  Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea.
+1. Asia Joint Conference on Information Security, Aug. 13-14, 2024, Tainan, Taiwan.
+202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea.
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
 
-* Conference (TPC member or Reviewer)
-1. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
+* Conference (TPC member/reviewer)
+1. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
+202401. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
 202305.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2023, Novi Sad, Serbia.
 202209.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
 202205. Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2022, Novi Sad, Serbia. (digital)
@@ -279,8 +283,9 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 112教育部前瞻新興科技教育遠距示範服務計畫委員
-202304. 第52屆全國技能競賽中區分區競賽裁判(網路安全)
+1. 第54屆全國技能競賽中區分區競賽裁判(網路安全)
+202307. 112教育部前瞻新興科技教育遠距示範服務計畫委員
+202304. 第53屆全國技能競賽中區分區競賽裁判(網路安全)
 202207. 111教育部前瞻新興科技教育遠距示範服務計畫委員
 202204. 第52屆全國技能競賽北區分區競賽裁判(網路安全)
 202105. 110教育部前瞻新興科技教育遠距示範服務計畫委員
@@ -304,7 +309,7 @@ Joined Projects
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
-202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/12; MOST-109-2222-E-008-005-MY3)
+202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/12; MOST-109-2222-E-006-007-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
 201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
 201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
