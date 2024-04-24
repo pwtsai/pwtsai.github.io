@@ -254,9 +254,10 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference (Commitee member or Session Chair/Co-Chair)
-1. Asia Joint Conference on Information Security, Aug. 13-14, 2024, Tainan, Taiwan.
-202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea.
-202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar.
+1. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC)
+202408. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan. (TPC)
+202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (SC)
+202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC)
 
 * Conference (TPC member/reviewer)
 1. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
