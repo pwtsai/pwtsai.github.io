@@ -19,6 +19,7 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Electrical Engineering, National Cheng Kung University (2023-)
+	+ Secretary General, Internet Society (ISOC) Taipei Chapter (domestic) (TBA) (2024-)
 	+ Director, Taiwan Smart Technology Association (domestic) (2022-)
 	+ Asia-Pacific Network Information Centre (APNIC) LIR member (2021-)
 	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962 (SCIE)
@@ -139,7 +140,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, pp. 125.130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
+1. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," in proceedings of the Asia Joint Conference on Information Security, 2024. (Accepted)
+202309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, pp. 125.130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
 202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
 202110. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P-W. Tsai**</span>, and C.-S. Yang, "PIDS: An Essential Personal Information Detection System for Small Business Enterprise" in proceedings of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.
@@ -223,7 +225,9 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. IEEE Wireless Communications Magazine, 2023
+1. IEEE Transactions on Artificial Intelligence, 2024
+202311. Journal of National Science Foundation in Sri Lanka, 2023
+202310. IEEE Wireless Communications Magazine, 2023
 202308. IEEE Transactions on Big Data, 2023
 202301.	Journal of Systems Architecture, 2020, 2023
 202204. The Journal of Supercomputing, 2022
@@ -253,14 +257,15 @@ Services
 201501. Microprocessors and Microsystems, 2015
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
-* Conference (Commitee member or Session Chair/Co-Chair)
-1. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC)
-202408. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan. (TPC)
-202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (SC)
+* Conference - (Technical) Program Chair or Session Chair/Co-Chair
+1. Asia-Pacific Network Operations and Management Symposium 2025, TBA, 2025, Kaohsiung, Taiwan. (SC)
+202411. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC)
+202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (SCC)
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC)
 
-* Conference (TPC member/reviewer)
-1. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
+* Conference - TPC member or reviewer
+1. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan.
+202405. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
 202401. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
 202305.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2023, Novi Sad, Serbia.
 202209.	The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)
@@ -304,8 +309,10 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources, Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
-202306. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
+1. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/05; TBA)
+202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; TBA)
+202306. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (1/2), Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
+202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
 202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
