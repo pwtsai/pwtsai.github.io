@@ -140,7 +140,7 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," in proceedings of the Asia Joint Conference on Information Security, 2024. (Accepted)
+1. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," Asia Joint Conference on Information Security, 2024. (Accepted)
 202309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, pp. 125.130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
 202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
@@ -257,13 +257,13 @@ Services
 201501. Microprocessors and Microsystems, 2015
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
-* Conference - (Technical) Program Chair or Session Chair/Co-Chair
-1. Asia-Pacific Network Operations and Management Symposium 2025, TBA, 2025, Kaohsiung, Taiwan. (SC)
-202411. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC)
-202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (SCC)
-202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC)
+* Conference - Program Committee (PC) or Session Chair/Co-Chair
+1. Asia-Pacific Network Operations and Management Symposium 2025, TBA, 2025, Kaohsiung, Taiwan. (Session Chair)
+202411. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC member)
+202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (Session Chair)
+202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)
 
-* Conference - TPC member or reviewer
+* Conference - Technical Program Committee (TPC) member or reviewer
 1. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan.
 202405. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
 202401. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
