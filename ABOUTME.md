@@ -140,7 +140,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," Asia Joint Conference on Information Security, 2024. (Accepted)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, "Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks," the IEEE 16th International Conference on Advanced Infocomm Technology, 2024. (Accepted)
+2. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," Asia Joint Conference on Information Security, 2024. (Accepted)
 202309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, pp. 125.130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
 202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
