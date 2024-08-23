@@ -19,7 +19,7 @@ Hi, I have work experience in network management, engineering, information secur
 Current Position
 ----------------
 * Assistant Professor, Dept. of Electrical Engineering, National Cheng Kung University (2023-)
-	+ Secretary General, Internet Society (ISOC) Taipei Chapter (domestic) (TBA) (2024-)
+	+ Secretary General, Internet Society (ISOC) Taipei Chapter (domestic) (2024-2027)
 	+ Director, Taiwan Smart Technology Association (domestic) (2022-)
 	+ Asia-Pacific Network Information Centre (APNIC) LIR member (2021-)
 	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962 (SCIE)
@@ -215,7 +215,8 @@ Services
 4. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
 * Domesitc Organization
-1. Director, Taiwan Smart Technology Association, 2022, Available: https://tsta-tw.org.tw/
+1. Secretary General, Internet Society (ISOC) Taipei Chapter, 2024, Available: https://www.isoc.org.tw/
+2. Director, Taiwan Smart Technology Association, 2022, Available: https://tsta-tw.org.tw/
 
 * OpenSource Communities
 2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN), Available: https://github.com/OFTEIN-NET/
@@ -303,15 +304,18 @@ Services
 Joined Projects
 ----------------
 * International
-1. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/05; European Union; Asi@Connect-22-021, European Union)
+1. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies (2024/10~2026/03; 202403-02598, ISIF Asia/APNIC)
+202203. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/05; European Union; Asi@Connect-22-021, European Union)
 202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation (2022/02~2023/01; M-202107-00170, ISIF Asia/APNIC)
 202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
 202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
 201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
 
 * Domestic
-1. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/05; TBA)
-202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; TBA)
+1. On the Study of Using Software-Defined SRv6 to Strengthen the Resilience and Security of Mesh Network, PI (2024/08-2025/07; NSTC 113-2221-E-006-220)
+202408. The Study of Performance and Signature Detection on Software-Defined Service Function Virtualization, Co-PI (2024/08-2025/07; NSTC 113-2221-E-006-225)
+202406. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/05; NSTC 113-2634-F-006-001-MBK)
+202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; NCKU R&D Foundation 1130243)
 202306. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (1/2), Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
 202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
 202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
