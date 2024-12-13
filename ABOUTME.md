@@ -81,6 +81,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎), 2024. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2025. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2027. (domestic)
 * (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)
