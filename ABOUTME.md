@@ -81,7 +81,8 @@ Certifications
 
 Honors and Achievements
 ----------------
-* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024. (domestic)
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2025. (domestic)
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2027. (domestic)
 * (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)
 * (Student Guidance) TCAT CTF **High Distinction Award (大專校院組特優)**, 2023. (domestic)
 * ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation, 2023.
@@ -140,8 +141,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, "Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks," the IEEE 16th International Conference on Advanced Infocomm Technology, 2024. (Accepted)
-2. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," Asia Joint Conference on Information Security, 2024. (Accepted)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, "Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks," the IEEE 16th International Conference on Advanced Infocomm Technology, 2024. (In Press)
+2. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," Asia Joint Conference on Information Security, pp.91-98, 2024.
 202309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” Asia-Pacific Network Operations and Management Symposium, pp. 125.130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
 202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
@@ -215,8 +216,8 @@ Services
 4. Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)
 
 * Domesitc Organization
-1. Secretary General, Internet Society (ISOC) Taipei Chapter, 2024, Available: https://www.isoc.org.tw/
-2. Director, Taiwan Smart Technology Association, 2022, Available: https://tsta-tw.org.tw/
+1. Secretary General, Internet Society (ISOC) Taipei Chapter, 2024-2027, Available: https://www.isoc.org.tw/
+2. Director, Taiwan Smart Technology Association, 2022-2025, Available: https://tsta-tw.org.tw/
 
 * OpenSource Communities
 2. Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN), Available: https://github.com/OFTEIN-NET/
@@ -227,11 +228,12 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. IEEE Transactions on Artificial Intelligence, 2024
-202311. Journal of National Science Foundation in Sri Lanka, 2023
-202310. IEEE Wireless Communications Magazine, 2023
+1. CMC-Computers Materials & Continua, 2024
+202407. IEEE Transactions on Artificial Intelligence, 2024
+202311. Journal of National Science Foundation in Sri Lanka, 2023, 2024
+202310. IEEE Wireless Communications Magazine, 2023, 2024
 202308. IEEE Transactions on Big Data, 2023
-202301.	Journal of Systems Architecture, 2020, 2023
+202301.	Journal of Systems Architecture, 2020, 2023i, 2024
 202204. The Journal of Supercomputing, 2022
 202207. IEICE Transactions on Information and Systems, 2022
 202204. IET Networks, 2022
@@ -260,9 +262,10 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference - Program Committee (PC) or Session Chair/Co-Chair
-1. Asia-Pacific Network Operations and Management Symposium 2025, TBA, 2025, Kaohsiung, Taiwan. (Session Chair)
+1. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
+202508. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Chair)
 202411. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC member)
-202309. Asia-Pacific Network Operations and Management Symposium 2023, Sep. 6-8. 2023, Sejong, Korea. (Session Chair)
+202309. The 24th Asia-Pacific Network Operations and Management Symposium, Sep. 6-8. 2023, Sejong, Korea. (Session Chair)
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)
 
 * Conference - Technical Program Committee (TPC) member or reviewer
@@ -291,7 +294,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 第54屆全國技能競賽中區分區競賽裁判(網路安全)
+1. 113教育部前瞻新興科技教育遠距示範服務計畫委員
+202404. 第54屆全國技能競賽中區分區競賽裁判(網路安全)
 202307. 112教育部前瞻新興科技教育遠距示範服務計畫委員
 202304. 第53屆全國技能競賽中區分區競賽裁判(網路安全)
 202207. 111教育部前瞻新興科技教育遠距示範服務計畫委員
