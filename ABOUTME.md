@@ -314,7 +314,7 @@ Joined Projects
 202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation. Co-PI (2022/02~2023/01; APNIC Foundation/ISIF@Asia; M-202107-00170)
 202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9; NCKU)
 202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services, Co-PI (2020/08~2021/06; European Union/TEIN*CC; Asi@Connect-20-050)
-201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
+201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08~2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
 1. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
