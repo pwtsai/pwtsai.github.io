@@ -309,21 +309,21 @@ Services
 Joined Projects
 ----------------
 * International
-1. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies (2024/10~2026/03; 202403-02598, ISIF Asia/APNIC)
-202203. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds (2022/03~2023/05; European Union; Asi@Connect-22-021, European Union)
-202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation (2022/02~2023/01; M-202107-00170, ISIF Asia/APNIC)
-202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9,Taiwan)
-202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services (2020/08~2021/06; Asi@Connect-20-050, European Union)
-201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; Asi@Connect-17-094, European Union)
+1. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies, Co-PI (2024/10~2026/03; APNIC Foundation/ISIF@Asia; 202403-02598)
+202203. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds. Co-PI (2022/03~2023/05; European Union/TEIN*CC; Asi@Connect-22-021)
+202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation. Co-PI (2022/02~2023/01; APNIC Foundation/ISIF@Asia; M-202107-00170)
+202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9; NCKU)
+202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services, Co-PI (2020/08~2021/06; European Union/TEIN*CC; Asi@Connect-20-050)
+201701. OF@TEIN+: Open/Federated Playground for Future Networks (2017/08~2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
-1. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2024/01-2025/11); NCKU R&D Foundation B114-F001)
+1. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
 202408. On the Study of Using Software-Defined SRv6 to Strengthen the Resilience and Security of Mesh Network, PI (2024/08-2025/07; NSTC 113-2221-E-006-220)
 202408. The Study of Performance and Signature Detection on Software-Defined Service Function Virtualization, Co-PI (2024/08-2025/07; NSTC 113-2221-E-006-225)
 202406. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/05; NSTC 113-2634-F-006-001-MBK)
-202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; NCKU R&D Foundation 1130243)
+202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; WRA; 1130243)
 202306. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (1/2), Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
-202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; NCKU R&D Foundation 112C023)
+202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; WRA; 112C023)
 202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
