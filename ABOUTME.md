@@ -124,7 +124,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, 2025. (Accept) (SCI-E)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, 2025. (Accept) (SCI-E)
 202307. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, vol. 2023, pp. 1-10, 2023.
 202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, and C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
@@ -143,7 +143,7 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. Y.-T. Chen, H.-C. Hsu, S-H. Lee, C.-S. Yang, C.-C. Chen, K.-W. Huang and <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Clustering Analysis and Time Series Approaches for Effective Resource Allocation and Route Planning in Managing Confirmed Cases", Asian Conference on Intelligent Information and Database Systems, Kitakyushu, Japan, 2025. (Accepted)
+1. Y.-T. Chen, H.-C. Hsu, S.-H. Lee, C.-S. Yang, C.-C. Chen, K.-W. Huang, and <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Clustering Analysis and Time Series Approaches for Effective Resource Allocation and Route Planning in Managing Confirmed Cases", Asian Conference on Intelligent Information and Database Systems, Kitakyushu, Japan, 2025. (Accepted)
 202409. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, "Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks," in proceedings of the IEEE 16th International Conference on Advanced Infocomm Technology, pp. 19-24, 2024.
 202408. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," in proceedings of Asia Joint Conference on Information Security, pp.91-98, 2024.
 202309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 125-130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
