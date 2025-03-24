@@ -319,7 +319,7 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08~2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
-1.Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12); Delta Electronics, Inc.; UR24A13
+1. Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12); Delta Electronics, Inc.; UR24A13
 202502. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
 202501. 2025 Presidential Education Award Website Maintenance and Operation, PI (2025/01-2025/12; Ministry of Education; Q114-E005)
 202501. 2025 E-mail Upward Centralization Initiative, Co-PI (2025/01-2025/12; Ministry of Education; Q114-E004)
