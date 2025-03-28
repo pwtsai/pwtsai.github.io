@@ -272,7 +272,8 @@ Services
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)
 
 * Conference - Technical Program Committee (TPC) member or reviewer
-1. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan.
+1. The IEEE International Conference on Consumer Electronics, Jan 10-12, 2026, Las Vegas, USA.
+202408. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan.
 202405. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
 202401. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
 202305.	Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2023, Novi Sad, Serbia.
