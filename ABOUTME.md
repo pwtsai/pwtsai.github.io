@@ -81,7 +81,9 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Student Guidance) Winner of First Place in Information and Network Technology, Youth Division, Southern Regional Contest, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名), 2025. (domestic)
 * Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎), 2024. (domestic)
+* (Student Guideance) NCKU & E.SUN Commercial Bank Scholarshipm (指導學生獲頒豐商業銀行獎助學金), 2024. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2025. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2027. (domestic)
 * (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)
@@ -124,7 +126,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, 2025. (Accept) (SCI-E)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, vol. 35, no. 3, e70015, 2025. (SCI-E)
 202307. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, vol. 2023, pp. 1-10, 2023.
 202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, and C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
@@ -143,9 +145,10 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. Y.-T. Chen, H.-C. Hsu, S.-H. Lee, C.-S. Yang, C.-C. Chen, K.-W. Huang, and <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Clustering Analysis and Time Series Approaches for Effective Resource Allocation and Route Planning in Managing Confirmed Cases", Asian Conference on Intelligent Information and Database Systems, Kitakyushu, Japan, 2025. (Accepted)
+1.  <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, C.-H. Chang, "Design and Implementation of an Automated RTBH Mechanism on the Zabbix Platform for DDoS Mitigation," in proceedings of the IEEE 11th International Conference on Applied System Innovation, 2025. (Accepted)
+202503. Y.-T. Chen, H.-C. Hsu, S.-H. Lee, C.-S. Yang, C.-C. Chen, K.-W. Huang, and <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Clustering Analysis and Time Series Approaches for Effective Resource Allocation and Route Planning in Managing Confirmed Cases", Asian Conference on Intelligent Information and Database Systems, Kitakyushu, Japan, 2025. (Accepted)
 202409. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, "Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks," in proceedings of the IEEE 16th International Conference on Advanced Infocomm Technology, pp. 19-24, 2024.
-202408. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," in proceedings of Asia Joint Conference on Information Security, pp.91-98, 2024.
+202408. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," in proceedings of Asia Joint Conference on Information Security, pp. 91-98, 2024.
 202309. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 125-130, 2023. <font color=#0000FF>*(Best Paper Award)*</font>
 1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.
 202209. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Design, Development, and Operation of a SDN-Based BGP Playground for Networkers," in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.
