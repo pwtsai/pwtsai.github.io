@@ -236,7 +236,8 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. CMC-Computers Materials & Continua, 2024
+1. IEEE Transactions on Mobile Computing, 2025
+202412. CMC-Computers Materials & Continua, 2024
 202407. IEEE Transactions on Artificial Intelligence, 2024
 202311. Journal of National Science Foundation in Sri Lanka, 2023, 2024
 202310. IEEE Wireless Communications Magazine, 2023, 2024
@@ -270,7 +271,8 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference - Program Committee (PC) or Session Chair/Co-Chair
-1. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
+1. The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)
+202509. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
 202508. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Chair)
 202411. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC member)
 202309. The 24th Asia-Pacific Network Operations and Management Symposium, Sep. 6-8. 2023, Sejong, Korea. (Session Chair)
@@ -332,7 +334,7 @@ Joined Projects
 202501. 2025 DNS and Website Upward Centralization Initiative, Co-PI (2025/01-2025/12; Ministry of Education; Q114-E002)
 202408. On the Study of Using Software-Defined SRv6 to Strengthen the Resilience and Security of Mesh Network, PI (2024/08-2025/07; NSTC 113-2221-E-006-220)
 202408. The Study of Performance and Signature Detection on Software-Defined Service Function Virtualization, Co-PI (2024/08-2025/07; NSTC 113-2221-E-006-225)
-202406. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/05; NSTC 113-2634-F-006-001-MBK)
+202406. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/08; NSTC 113-2634-F-006-001-MBK)
 202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; WRA; 1130243)
 202306. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (1/2), Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
 202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; WRA; 112C023)
