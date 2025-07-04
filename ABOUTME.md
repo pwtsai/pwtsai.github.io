@@ -145,7 +145,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W. Guo, Y. Lu, C.-S. Yang, "Intelligent Bandwidth Management and Reliability Control in SDN-enabled Cellular Core Networks," the 4th International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2025. (Accepted)
+1. H.-C. Ku, Y.-W. Lin, P.-W. Tsai, S.-H. Lee, "A Contactless rPPG-Based Heart Rate Monitoring Framework for Public Surveillance in Transit Platforms," in proceedings of the IEEE 14th Global Conference on Consumer Electronics, 2025 (Accpeted)
+202507. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W. Guo, Y. Lu, C.-S. Yang, "Intelligent Bandwidth Management and Reliability Control in SDN-enabled Cellular Core Networks," the 4th International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2025. (Accepted)
 202506. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, Y.-C. Hsu, "Design and Implementation of an Automated BGP Route Validation and Filtering Mechanism," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2025. (Accepted)
 202505. H.-C. Ku, C.-H. Zhou, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "Application of the Retrieval-Augmented Generation Method in Consultation Systems for Smart Cities," in proceedings of the IEEE International Conference on Consumer Electronics - Taiwan, 2025. (Accepted)
 202504. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, C.-H. Chang, "Design and Implementation of an Automated RTBH Mechanism on the Zabbix Platform for DDoS Mitigation," in proceedings of the IEEE 11th International Conference on Applied System Innovation, 2025. (Accepted)
@@ -262,7 +263,7 @@ Services
 202002. IEEE Systems Journal, 2020
 201901. Sensors (MDPI), 2019, 2020
 201804. IEEE Communications Surveys and Tutorials, 2018-2020
-201602. Journal of Internet Technology, 2016-2020
+201602. Journal of Internet Technology, 2016-2025
 201802. IEEE Transactions on Network and Service Management, 2018
 201801. ICT Express, 2018.
 201603. IEEE Access, 2016, 2017, 2018
