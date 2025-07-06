@@ -273,11 +273,12 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference - Program Committee (PC) or Session Chair/Co-Chair
-1. The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)
+1.	The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)
+202511. The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)
 202509. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
-202508. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Chair)
+202508. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Co-Chair)
 202411. The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC member)
-202309. The 24th Asia-Pacific Network Operations and Management Symposium, Sep. 6-8. 2023, Sejong, Korea. (Session Chair)
+202309. The 24th Asia-Pacific Network Operations and Management Symposium, Sep. 6-8. 2023, Sejong, Korea. (Session Hosting Chair)
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)
 
 * Conference - Technical Program Committee (TPC) member or reviewer
@@ -307,7 +308,8 @@ Services
 201701. The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.
 
 * Other domestic activities
-1. 113教育部前瞻新興科技教育遠距示範服務計畫委員
+1.	114新興科技教育聯盟計畫委員
+202407. 113教育部前瞻新興科技教育遠距示範服務計畫委員
 202404. 第54屆全國技能競賽中區分區競賽裁判(網路安全)
 202307. 112教育部前瞻新興科技教育遠距示範服務計畫委員
 202304. 第53屆全國技能競賽中區分區競賽裁判(網路安全)
@@ -321,42 +323,44 @@ Services
 Joined Projects
 ----------------
 * International
-1. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies, Co-PI (2024/10~2026/03; APNIC Foundation/ISIF@Asia; 202403-02598)
-202203. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds. Co-PI (2022/03~2023/05; European Union/TEIN*CC; Asi@Connect-22-021)
-202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation. Co-PI (2022/02~2023/01; APNIC Foundation/ISIF@Asia; M-202107-00170)
-202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05~2021/10; D110-B5509 #9; NCKU)
-202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services, Co-PI (2020/08~2021/06; European Union/TEIN*CC; Asi@Connect-20-050)
-201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08~2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
+1. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies, Co-PI (2024/10-2026/03; APNIC Foundation/ISIF@Asia; 202403-02598)
+202203. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds. Co-PI (2022/03-2023/05; European Union/TEIN*CC; Asi@Connect-22-021)
+202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation. Co-PI (2022/02-2023/01; APNIC Foundation/ISIF@Asia; M-202107-00170)
+202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05-2021/10; D110-B5509 #9; NCKU)
+202007. OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services, Co-PI (2020/08-2021/06; European Union/TEIN*CC; Asi@Connect-20-050)
+201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08-2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
-1. Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12); Delta Electronics, Inc.; UR24A13
-202502. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
+1. A Study on Enhancing Network Resilience through SRv6 with Service Function Chaining and TI-LFA Concepts, PI (2025/08-2026/07; 114-2221-E-006-206)
+202508. A Study on Packet Flow Offloading and Acceleration by Integrating the 100G SmartNIC and Data Processing Unit, Co-PI (2025/08-2026/07; NSTC 114-2221-E-006-125)
+202501. Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12; Delta Electronics, Inc.; UR24A13)
+202501. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
 202501. 2025 Presidential Education Award Website Maintenance and Operation, PI (2025/01-2025/12; Ministry of Education; Q114-E005)
 202501. 2025 E-mail Upward Centralization Initiative, Co-PI (2025/01-2025/12; Ministry of Education; Q114-E004)
 202501. 2025 DNS and Website Upward Centralization Initiative, Co-PI (2025/01-2025/12; Ministry of Education; Q114-E002)
 202408. On the Study of Using Software-Defined SRv6 to Strengthen the Resilience and Security of Mesh Network, PI (2024/08-2025/07; NSTC 113-2221-E-006-220)
 202408. The Study of Performance and Signature Detection on Software-Defined Service Function Virtualization, Co-PI (2024/08-2025/07; NSTC 113-2221-E-006-225)
 202406. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/08; NSTC 113-2634-F-006-001-MBK)
-202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024-05-2024/12; WRA; 1130243)
+202405. Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024/05-2024/12; WRA; 1130243)
 202306. Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (1/2), Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)
-202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023-06-2023/12; WRA; 112C023)
+202305. Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023/06-2023/12; WRA; 112C023)
 202208. Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)
 202205. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)
 202208. Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)
 202105. Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)
 202010. On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/12; MOST-109-2222-E-006-007-MY3)
 201901. Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)
-201702. Security Operation Center & ISMS Technology Development (2017/05~2018/01; 106-3114-E-006-003)
-201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08~2018/07; 106-2221-E-006-025)
-201404. Network Technology in Cloud Data Center (2014/11~2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
-201403. Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08~2017/07; MOST-103-2221-E-006-145-MY3)
-201402. Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08~2016/07; NARLabs-03103A7300)
-201401. Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08~2015/07; MOST-103-2221-E-006-181)
-201203. The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05~2014/04; NSC-101-2219-E-006-004)
-201101. On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08~2014/07; NSC-100-2218-E-006-028-MY3)
-201202. Interoperability and Certification of Next Generation Internet (2012/04~2012/12; MOTC-DPT-101-03)
-201201. The Establishment, Promotion and Application of Network Security Testbed (2012/05~2014/04/30; NSC-100-2219-E-006-001)
-200901. On the Study and Deployment of Network Virtualization Architecture (2009/08~2011/07; NSC-99-2219-E-006-001)
+201702. Security Operation Center & ISMS Technology Development (2017/05-2018/01; 106-3114-E-006-003)
+201701. The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08-2018/07; 106-2221-E-006-025)
+201404. Network Technology in Cloud Data Center (2014/11-2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)
+201403. Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08-2017/07; MOST-103-2221-E-006-145-MY3)
+201402. Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08-2016/07; NARLabs-03103A7300)
+201401. Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08-2015/07; MOST-103-2221-E-006-181)
+201203. The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05-2014/04; NSC-101-2219-E-006-004)
+201101. On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08-2014/07; NSC-100-2218-E-006-028-MY3)
+201202. Interoperability and Certification of Next Generation Internet (2012/04-2012/12; MOTC-DPT-101-03)
+201201. The Establishment, Promotion and Application of Network Security Testbed (2012/05-2014/04/30; NSC-100-2219-E-006-001)
+200901. On the Study and Deployment of Network Virtualization Architecture (2009/08-2011/07; NSC-99-2219-E-006-001)
 
 
 
