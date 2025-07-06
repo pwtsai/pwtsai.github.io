@@ -331,7 +331,7 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08-2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
-1. A Study on Enhancing Network Resilience through SRv6 with Service Function Chaining and TI-LFA Concepts, PI (2025/08-2026/07; 114-2221-E-006-206)
+1. A Study on Enhancing Network Resilience through SRv6 with Service Function Chaining and TI-LFA Concepts, PI (2025/08-2026/07; NSTC 114-2221-E-006-206)
 202508. A Study on Packet Flow Offloading and Acceleration by Integrating the 100G SmartNIC and Data Processing Unit, Co-PI (2025/08-2026/07; NSTC 114-2221-E-006-125)
 202501. Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12; Delta Electronics, Inc.; UR24A13)
 202501. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
