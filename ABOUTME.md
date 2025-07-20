@@ -238,7 +238,9 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. IEEE Transactions on Mobile Computing, 2025
+1. SN Computer Science, 2025.
+202507. Cluster Computing, 2025.
+202506. IEEE Transactions on Mobile Computing, 2025
 202412. CMC-Computers Materials & Continua, 2024
 202407. IEEE Transactions on Artificial Intelligence, 2024
 202311. Journal of National Science Foundation in Sri Lanka, 2023, 2024
