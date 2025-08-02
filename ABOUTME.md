@@ -146,7 +146,7 @@ Publications: Journal Papers
 Publications: Conference Papers (International)
 ----------------
 1. C.-Y. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-C. Liao, L.-S. Chang, "Achieving 400 Gbps Single-Flow Throughput with Minimal CPU Core Usage Through Optimized DPDK and SmartNIC Implementation," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)
-2. W.-Yue Guo, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, C.-S. Yang, "Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)
+2. W.-Y. Guo, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, C.-S. Yang, "Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)
 202507. H.-C. Ku, Y.-W. Lin, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "A Contactless rPPG-Based Heart Rate Monitoring Framework for Public Surveillance in Transit Platforms," in proceedings of the IEEE 14th Global Conference on Consumer Electronics, 2025. (Accepted)
 202507. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W. Guo, Y. Lu, C.-S. Yang, "Intelligent Bandwidth Management and Reliability Control in SDN-enabled Cellular Core Networks," in proceedings of the 4th International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2025. (Accepted)
 202506. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, Y.-C. Hsu, "Design and Implementation of an Automated BGP Route Validation and Filtering Mechanism," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2025. (Accepted)
@@ -185,7 +185,8 @@ Publications: Conference Papers (International)
 
 Posters/Presentation
 ----------------
-1. H.-H. Chou, J.-S. Lin, W.-J. Chiang, H.-M. Hung, Y.-E. Ou, Loren C. Chang, and P.-W. Tsai, "Hyper Speed Unity Constellation With Inter-Satellite Optical Wireless System", Small Satellite Conference, Utah, United States, Aug. 5-10, 2023.
+1. Y.-C. Chang, Y.-C. Liu, P.-W. Tsai, C.-S. Yang, "Design and Implementation of an Adaptive Path Selection in SDN-Enabled SRv6," the 25th Asia-Pacific Network Operations and Management Symposium, Kaohsiung, Taiwan, Sep. 22-24, 2025.
+202308. H.-H. Chou, J.-S. Lin, W.-J. Chiang, H.-M. Hung, Y.-E. Ou, Loren C. Chang, and P.-W. Tsai, "Hyper Speed Unity Constellation With Inter-Satellite Optical Wireless System", Small Satellite Conference, Utah, United States, Aug. 5-10, 2023.
 202205. W.-K. Soo, S. K. Permal, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Fuzzy logic QoS Load Balancing in Provisioned Wireless Networks," APAN 55, Kathmandu Nepal, Mar. 13-17, 2022.
 202209. A. C. Risdianto, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, X.-Z. Khooi and T. C. Ling, "Design, Development, and Operation of a SDN-based BGP Playground," APNIC 54, Singapore, Sep. 8-15, 2022.
 202208. W. K. Soo, S. K. Permal, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, and T. C. Ling, "Intelligent Network Traffic Forecasting in SDN and Load Threshold Identification in Wireless Networks," APAN 54, Jinan, China, Aug. 22-26, 2022.
