@@ -81,45 +81,47 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)
+* (Student Guidance) Honorable Mention in Information and Network Technology, Youth Division, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025. (domestic)
 * (Student Guidance) Winner of First Place in Information and Network Technology, Youth Division, Southern Regional Contest, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名), 2025. (domestic)
 * Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎), 2024. (domestic)
 * (Student Guideance) NCKU & E.SUN Commercial Bank Scholarshipm (指導學生獲頒豐商業銀行獎助學金), 2024. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2025. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2027. (domestic)
 * (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)
-* (Student Guidance) TCAT CTF **High Distinction Award (大專校院組特優)**, 2023. (domestic)
+* (Student Guidance) TCAT CTF High Distinction Award (大專校院組特優), 2023. (domestic)
 * ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation, 2023.
 * Best Paper Award, the 24th Asia-Pacific Network Operations and Management Symposium, 2023.
-* (Student Guidance) GiCS **Merit Award (資安闖天關優勝)**, 2023. (domestic)
-* (Student Guidance) GiCS **Merit Award (創意發想賽優勝)**, 2023. (domestic)
-* (Student Guidance) **Championship**, 2022 RunSpace Contest (RunSpace太空創意競賽), 2022. (domestic)
-* **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2022-2023. (domestic)
-* **Excellent Mentor Award (優良導師獎)**, National Central University, 2022. (domestic)
-* **MOST Excellent Project Team Award (優良計畫團隊)**, 2022. (domestic)
-* (Student Guidance) TCAT CTF **Honorable Mention (大專校院組佳作)**, 2022. (domestic)
-* (Student Guidance) GiCS **Merit Award (創意發想賽優勝)**, 2022. (domestic)
-* (Student Guidance) APAN/ISOC Network-engineering **Fellowship Grant**, 2021-2022.
-* **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2021-2022. (domestic)
-* **R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助)**, National Central University, 2020-2021. (domestic)
-* **Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)** , National Central University, 2020-2021. (domestic)
-* (Student Guidance) **Best Student Paper Award**, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
-* **Best Ph.D. Dissertation Award**, Information and Communication Technology Fields (2018 graduation), NCKU & Lam Research Corporation, 2019. (domestic)
-* **Excellent Ph.D. Dissertation Award**, Institute of Information & Computing Machinery, 2018. (domestic)
-* **Best Student Paper Award**, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
+* (Student Guidance) GiCS Merit Award (資安闖天關優勝), 2023. (domestic)
+* (Student Guidance) GiCS Merit Award (創意發想賽優勝), 2023. (domestic)
+* (Student Guidance) Championship, 2022 RunSpace Contest (RunSpace太空創意競賽), 2022. (domestic)
+* Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵) , National Central University, 2022-2023. (domestic)
+* Excellent Mentor Award (優良導師獎), National Central University, 2022. (domestic)
+* MOST Excellent Project Team Award (優良計畫團隊), 2022. (domestic)
+* (Student Guidance) TCAT CTF Honorable Mention (大專校院組佳作), 2022. (domestic)
+* (Student Guidance) GiCS Merit Award (創意發想賽優勝), 2022. (domestic)
+* (Student Guidance) APAN/ISOC Network-engineering Fellowship Grant, 2021-2022.
+* Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵) , National Central University, 2021-2022. (domestic)
+* R&E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助), National Central University, 2020-2021. (domestic)
+* Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵) , National Central University, 2020-2021. (domestic)
+* (Student Guidance) **Best Student Paper Award, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.
+* Best Ph.D. Dissertation Award, Information and Communication Technology Fields (2018 graduation), NCKU & Lam Research Corporation, 2019. (domestic)
+* Excellent Ph.D. Dissertation Award, Institute of Information & Computing Machinery, 2018. (domestic)
+* Best Student Paper Award, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016.
 	Title: "Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed"
-* **Championship**, Software-defined Networking Contest, 2014. (domestic)
+* Championship, Software-defined Networking Contest, 2014. (domestic)
 	Title: "A Fast Path Migration of Fault Tolerant Development in Software defined Networking"
-* **Pan Wen-Yuan Memorial Scholarship**, Ph.D. Student, 2013.
-* **Best Student Paper Award**, the 36th Asia-Pacific Advanced Network (Network Research Workshop), 2013.
+* Pan Wen-Yuan Memorial Scholarship, Ph.D. Student, 2013.
+* Best Student Paper Award, the 36th Asia-Pacific Advanced Network (Network Research Workshop), 2013.
 	Title: "Toward inter-connection on OpenFlow research networks"
-* **Excellent Paper Award**, International Conference on Advanced Information Technologies, 2013. (domestic)
+* Excellent Paper Award, International Conference on Advanced Information Technologies, 2013. (domestic)
 	Title: "A flexible Software Development Platform based on Open- and Embedded- Networking Device"
-* **Phi Tau Phi Scholastic Honor Society**, honorary member, 2012.
-* **Best Design Award**, Xilinx Open Source Hardware & Embedded System Contes, 2012.
+* Phi Tau Phi Scholastic Honor Society**, honorary member, 2012.
+* Best Design Award, Xilinx Open Source Hardware & Embedded System Contes, 2012.
 	Title: "A Traffic Management Module in OpenFlow Switch on NetFPGA Platform"
-* **Excellent Paper Award**, Taiwan Academic Network Conference, 2012. (domestic)
+* Excellent Paper Award, Taiwan Academic Network Conference, 2012. (domestic)
 	Title: "Planning and Deployment of OpenFlow Networks over Internet"
-* **Full-Design Award**, Embedded System Design Contest, 2010. (domestic)
+* Full-Design Award, Embedded System Design Contest, 2010. (domestic)
 	Title: "Using NetFPGA to Implement a High-speed Firewall"
 
 
