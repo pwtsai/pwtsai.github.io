@@ -81,6 +81,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)
 * (Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)
 * (Student Guidance) Honorable Mention in Information and Network Technology, Youth Division, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025. (domestic)
 * (Student Guidance) Winner of First Place in Information and Network Technology, Youth Division, Southern Regional Contest, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名), 2025. (domestic)
