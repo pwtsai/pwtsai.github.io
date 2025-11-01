@@ -6,55 +6,231 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Pang-Wei Tsai</title>
   <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
-<h1 id="pang-wei-tsai-phd-pwtsai-assistant-professor-national-cheng-kung-university-my-email-address">Pang-Wei Tsai (PhD) | pwtsai | Assistant Professor | National Cheng Kung University | <img src="images/mail-pwtsai.png" alt="My Email Address" /></h1>
+<h1
+id="pang-wei-tsai-phd-pwtsai-assistant-professor-national-cheng-kung-university-my-email-address">Pang-Wei
+Tsai (PhD) | pwtsai | Assistant Professor | National Cheng Kung
+University | <img src="images/mail-pwtsai.png"
+alt="My Email Address" /></h1>
 <hr />
 <h2 id="about-me">About Me</h2>
-<p>Hi, I have work experience in network management, engineering, information security and testbed building. Since college, I keep participating open-source communities since entered graduation. My research interests include software-defined networking, network management, cloud computing, information security and internet of things. It is my pleasure to explore interesting knowledge and take extraordinary adventure in world-wide network. Nice to see you &amp;&amp; To see you nice!</p>
+<p>Hi, I have work experience in network management, engineering,
+information security and testbed building. Since college, I keep
+participating open-source communities since entered graduation. My
+research interests include software-defined networking, network
+management, cloud computing, information security and internet of
+things. It is my pleasure to explore interesting knowledge and take
+extraordinary adventure in world-wide network. Nice to see you
+&amp;&amp; To see you nice!</p>
 <ul>
-<li>Ph.D dissertation title: Using Software-defined Networking Concepts on Building Large-scale and Cross-domain Testbed over Research and Education Networks
+<li>Ph.D dissertation title: Using Software-defined Networking Concepts
+on Building Large-scale and Cross-domain Testbed over Research and
+Education Networks
 <ul>
-<li>Best Ph.D. Dissertation Award, NCKU &amp; Lam Research Corporation</li>
-<li>Excellent Ph.D. Dissertation Award, Institute of Information &amp; Computing Machinery</li>
+<li>Best Ph.D. Dissertation Award, NCKU &amp; Lam Research
+Corporation</li>
+<li>Excellent Ph.D. Dissertation Award, Institute of Information &amp;
+Computing Machinery</li>
 </ul></li>
-<li>M.S. thesis title: On the Design and Implementation of an Adaptive Resource Management Mechanism for VM Platform</li>
+<li>M.S. thesis title: On the Design and Implementation of an Adaptive
+Resource Management Mechanism for VM Platform</li>
 </ul>
 <h2 id="current-position">Current Position</h2>
 <ul>
-<li>Assistant Professor, Dept. of Electrical Engineering, National Cheng Kung University (2023-)
+<li>Assistant Professor, Dept. of Electrical Engineering, National Cheng
+Kung University (2023-)
 <ul>
-<li>Secretary General, Internet Society (ISOC) Taipei Chapter (domestic) (2024-2027)</li>
-<li>Director, Taiwan Smart Technology Association (domestic) (2022-)</li>
-<li>Asia-Pacific Network Information Centre (APNIC) LIR member (2021-)</li>
-<li>Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962 (SCIE)</li>
-<li>Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264 (SCIE)</li>
+<li>Secretary General, Internet Society (ISOC) Taipei Chapter (domestic)
+(2024-2027)</li>
+<li>Director, Taiwan Smart Technology Association (domestic)
+(2022-)</li>
+<li>Asia-Pacific Network Information Centre (APNIC) LIR member
+(2021-)</li>
+<li>Associate Editor, Human-centric Computing and Information Sciences
+(HCIS), ISSN 2192-1962 (SCIE)</li>
+<li>Associate Editor, Journal of Internet Technology (JIT), ISSN
+1607-9264 (SCIE)</li>
 </ul></li>
 </ul>
 <h2 id="working-experience">Working Experience</h2>
 <ul>
-<li>Assistant Professor, Dept. of Information Management, National Central University (2020-2023)</li>
+<li>Assistant Professor, Dept. of Information Management, National
+Central University (2020-2023)</li>
 <li>Sr. R&amp;D Supervisor, Delta Electronic, Inc. (2019-2020)
 <ul>
-<li>Leading a small team for Future ICT research/CPS Security testbed faculty</li>
+<li>Leading a small team for Future ICT research/CPS Security testbed
+faculty</li>
 </ul></li>
 <li>Principal Engineer, Delta Electronic, Inc. (2018-2019)
 <ul>
 <li>Cyber-Physical System development</li>
 <li>ICS Security research</li>
 </ul></li>
-<li>Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao Information Co., Ltd. (2016-2018)
+<li>Sr. Engineer/Technical Specialist (UR Project, contracted), Sinpao
+Information Co., Ltd. (2016-2018)
 <ul>
 <li>Inappropriate webpage information blocking system</li>
 </ul></li>
-<li>TWAREN SDN Research Team (UR Project, contracted), National Center for High Performance Computing, NARLabs (2014-2016)
+<li>TWAREN SDN Research Team (UR Project, contracted), National Center
+for High Performance Computing, NARLabs (2014-2016)
 <ul>
 <li>Large-scale SDN testbed</li>
 <li>Network architecture virtualization research</li>
@@ -63,21 +239,28 @@
 </ul>
 <h2 id="education">Education</h2>
 <ul>
-<li>Ph.D. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (Sep. 2012 ~ Jan. 2018)</li>
-<li>M.S. in Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan. (Sep. 2010 ~ Jun. 2012)</li>
-<li>B.S. in Department of Electrical Engineering, National Cheng Kung University, Taiwan. (Sep. 2006 ~ Jun. 2010)</li>
+<li>Ph.D. in Institute of Computer and Communication Engineering,
+National Cheng Kung University, Taiwan. (Sep. 2012 ~ Jan. 2018)</li>
+<li>M.S. in Institute of Computer and Communication Engineering,
+National Cheng Kung University, Taiwan. (Sep. 2010 ~ Jun. 2012)</li>
+<li>B.S. in Department of Electrical Engineering, National Cheng Kung
+University, Taiwan. (Sep. 2006 ~ Jun. 2010)</li>
 </ul>
 <h2 id="specialties">Specialties</h2>
 <ul>
-<li>Cyber-Physical System: CPS Security, OT signature/behavior analysis, edge computing facility and testbed</li>
+<li>Cyber-Physical System: CPS Security, OT signature/behavior analysis,
+edge computing facility and testbed</li>
 <li>Software-defined Networking: OpenFlow, Hybrid SDN, SDX</li>
-<li>Network Management: Basic routing and switching, BGP, monitoring, architecture design</li>
-<li>Information Security: IDS/IPS, content extraction, Snort rule development, anomaly detection</li>
+<li>Network Management: Basic routing and switching, BGP, monitoring,
+architecture design</li>
+<li>Information Security: IDS/IPS, content extraction, Snort rule
+development, anomaly detection</li>
 <li>Blockchain Technologies: Node, rig, pool building</li>
 </ul>
 <h2 id="programming-languages">Programming Languages</h2>
 <ul>
-<li>Shell Scripts (bash and csh), C, PHP, HTML/CSS, Perl, and Python</li>
+<li>Shell Scripts (bash and csh), C, PHP, HTML/CSS, Perl, and
+Python</li>
 </ul>
 <h2 id="certifications">Certifications</h2>
 <ul>
@@ -90,121 +273,437 @@
 </ul>
 <h2 id="honors-and-achievements">Honors and Achievements</h2>
 <ul>
-<li>The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)</li>
-<li>(Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)</li>
-<li>(Student Guidance) Honorable Mention in Information and Network Technology, Youth Division, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025. (domestic)</li>
-<li>(Student Guidance) Winner of First Place in Information and Network Technology, Youth Division, Southern Regional Contest, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名), 2025. (domestic)</li>
-<li>Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎), 2024. (domestic)</li>
-<li>(Student Guideance) NCKU &amp; E.SUN Commercial Bank Scholarshipm (指導學生獲頒豐商業銀行獎助學金), 2024. (domestic)</li>
-<li>(Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2025. (domestic)</li>
-<li>(Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2027. (domestic)</li>
-<li>(Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)</li>
-<li>(Student Guidance) TCAT CTF High Distinction Award (大專校院組特優), 2023. (domestic)</li>
-<li>ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation, 2023.</li>
-<li>Best Paper Award, the 24th Asia-Pacific Network Operations and Management Symposium, 2023.</li>
-<li>(Student Guidance) GiCS Merit Award (資安闖天關優勝), 2023. (domestic)</li>
-<li>(Student Guidance) GiCS Merit Award (創意發想賽優勝), 2023. (domestic)</li>
-<li>(Student Guidance) Championship, 2022 RunSpace Contest (RunSpace太空創意競賽), 2022. (domestic)</li>
-<li>Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵) , National Central University, 2022-2023. (domestic)</li>
-<li>Excellent Mentor Award (優良導師獎), National Central University, 2022. (domestic)</li>
-<li>MOST Excellent Project Team Award (優良計畫團隊), 2022. (domestic)</li>
-<li>(Student Guidance) TCAT CTF Honorable Mention (大專校院組佳作), 2022. (domestic)</li>
-<li>(Student Guidance) GiCS Merit Award (創意發想賽優勝), 2022. (domestic)</li>
-<li>(Student Guidance) APAN/ISOC Network-engineering Fellowship Grant, 2021-2022.</li>
-<li>Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵) , National Central University, 2021-2022. (domestic)</li>
-<li>R&amp;E Budget Subsidy Award for Outstanding Young Faculty (年輕傑出教師及研究人員教學研究經費補助), National Central University, 2020-2021. (domestic)</li>
-<li>Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵) , National Central University, 2020-2021. (domestic)</li>
-<li>(Student Guidance) **Best Student Paper Award, the 48th Asia-Pacific Advanced Network (Network Research Workshop), 2019.</li>
-<li>Best Ph.D. Dissertation Award, Information and Communication Technology Fields (2018 graduation), NCKU &amp; Lam Research Corporation, 2019. (domestic)</li>
-<li>Excellent Ph.D. Dissertation Award, Institute of Information &amp; Computing Machinery, 2018. (domestic)</li>
-<li>Best Student Paper Award, the 42th Asia-Pacific Advanced Network (Network Research Workshop), 2016. Title: “Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed”</li>
-<li>Championship, Software-defined Networking Contest, 2014. (domestic) Title: “A Fast Path Migration of Fault Tolerant Development in Software defined Networking”</li>
+<li>The Merit Pay and Research Reward Program for Faculty Members and
+Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026.
+(domestic)</li>
+<li>(Student Guidance) Winner of Third Place, 2025 Hack the Tainan
+Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan
+資安競賽第三名), 2025. (domestic)</li>
+<li>(Student Guidance) Honorable Mention in Information and Network
+Technology, Youth Division, 55th National Skills Competition
+(指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025.
+(domestic)</li>
+<li>(Student Guidance) NSTC Graduate Research Fellowship
+(指導學生獲頒國科會核配博士生研究獎學金), 2025-2026. (domestic</li>
+<li>(Student Guidance) Winner of First Place in Information and Network
+Technology, Youth Division, Southern Regional Contest, 55th National
+Skills Competition
+(指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名),
+2025. (domestic)</li>
+<li>Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎),
+2024. (domestic)</li>
+<li>(Student Guideance) NCKU &amp; Bank SinoPac Co., Ltd. Scholarship
+(指導學生獲頒永豐商業銀行獎助學金), 2024. (domestic)</li>
+<li>(Student Guidance) NSTC Graduate Research Fellowship
+(指導學生獲頒國科會核配博士生研究獎學金), 2024-2025. (domestic)</li>
+<li>(Student Guidance) NSTC Graduate Research Fellowship
+(指導學生獲頒國科會甄選博士生研究獎學金), 2024-2027. (domestic)</li>
+<li>(Student Guidance) Academic Research Awards (Graduate Thesis) of
+Service Science Society of Taiwan
+(共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023.
+(domestic)</li>
+<li>(Student Guidance) TCAT CTF High Distinction Award (大專校院組特優),
+2023. (domestic)</li>
+<li>ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation,
+2023.</li>
+<li>Best Paper Award, the 24th Asia-Pacific Network Operations and
+Management Symposium, 2023.</li>
+<li>(Student Guidance) GiCS Merit Award (資安闖天關優勝), 2023.
+(domestic)</li>
+<li>(Student Guidance) GiCS Merit Award (創意發想賽優勝), 2023.
+(domestic)</li>
+<li>(Student Guidance) Championship, 2022 RunSpace Contest
+(RunSpace太空創意競賽), 2022. (domestic)</li>
+<li>Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)
+, National Central University, 2022-2023. (domestic)</li>
+<li>Excellent Mentor Award (優良導師獎), National Central University,
+2022. (domestic)</li>
+<li>MOST Excellent Project Team Award (優良計畫團隊), 2022.
+(domestic)</li>
+<li>(Student Guidance) TCAT CTF Honorable Mention (大專校院組佳作),
+2022. (domestic)</li>
+<li>(Student Guidance) GiCS Merit Award (創意發想賽優勝), 2022.
+(domestic)</li>
+<li>(Student Guidance) APAN/ISOC Network-engineering Fellowship Grant,
+2021-2022.</li>
+<li>Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)
+, National Central University, 2021-2022. (domestic)</li>
+<li>R&amp;E Budget Subsidy Award for Outstanding Young Faculty
+(年輕傑出教師及研究人員教學研究經費補助), National Central University,
+2020-2021. (domestic)</li>
+<li>Fellowship Award for Outstanding New Faculty (新聘傑出教研人員獎勵)
+, National Central University, 2020-2021. (domestic)</li>
+<li>(Student Guidance) **Best Student Paper Award, the 48th Asia-Pacific
+Advanced Network (Network Research Workshop), 2019.</li>
+<li>Best Ph.D. Dissertation Award, Information and Communication
+Technology Fields (2018 graduation), NCKU &amp; Lam Research
+Corporation, 2019. (domestic)</li>
+<li>Excellent Ph.D. Dissertation Award, Institute of Information &amp;
+Computing Machinery, 2018. (domestic)</li>
+<li>Best Student Paper Award, the 42th Asia-Pacific Advanced Network
+(Network Research Workshop), 2016. Title: “Design and implementation of
+monitoring schemes for software-defined routing over a federated
+multi-domain SDN testbed”</li>
+<li>Championship, Software-defined Networking Contest, 2014. (domestic)
+Title: “A Fast Path Migration of Fault Tolerant Development in Software
+defined Networking”</li>
 <li>Pan Wen-Yuan Memorial Scholarship, Ph.D. Student, 2013.</li>
-<li>Best Student Paper Award, the 36th Asia-Pacific Advanced Network (Network Research Workshop), 2013. Title: “Toward inter-connection on OpenFlow research networks”</li>
-<li>Excellent Paper Award, International Conference on Advanced Information Technologies, 2013. (domestic) Title: “A flexible Software Development Platform based on Open- and Embedded- Networking Device”</li>
+<li>Best Student Paper Award, the 36th Asia-Pacific Advanced Network
+(Network Research Workshop), 2013. Title: “Toward inter-connection on
+OpenFlow research networks”</li>
+<li>Excellent Paper Award, International Conference on Advanced
+Information Technologies, 2013. (domestic) Title: “A flexible Software
+Development Platform based on Open- and Embedded- Networking
+Device”</li>
 <li>Phi Tau Phi Scholastic Honor Society**, honorary member, 2012.</li>
-<li>Best Design Award, Xilinx Open Source Hardware &amp; Embedded System Contes, 2012. Title: “A Traffic Management Module in OpenFlow Switch on NetFPGA Platform”</li>
-<li>Excellent Paper Award, Taiwan Academic Network Conference, 2012. (domestic) Title: “Planning and Deployment of OpenFlow Networks over Internet”</li>
-<li>Full-Design Award, Embedded System Design Contest, 2010. (domestic) Title: “Using NetFPGA to Implement a High-speed Firewall”</li>
+<li>Best Design Award, Xilinx Open Source Hardware &amp; Embedded System
+Contes, 2012. Title: “A Traffic Management Module in OpenFlow Switch on
+NetFPGA Platform”</li>
+<li>Excellent Paper Award, Taiwan Academic Network Conference, 2012.
+(domestic) Title: “Planning and Deployment of OpenFlow Networks over
+Internet”</li>
+<li>Full-Design Award, Embedded System Design Contest, 2010. (domestic)
+Title: “Using NetFPGA to Implement a High-speed Firewall”</li>
 </ul>
 <h2 id="publications-journal-papers">Publications: Journal Papers</h2>
 <ol type="1">
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network,” International Journal of Network Management, vol. 35, no. 3, e70015, 2025. (SCI-E)</li>
-<li>C.-C. Chiu, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, and C.-S. Yang, “Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms,” Wireless Communications and Mobile Computing, vol. 2023, pp. 1-10, 2023.</li>
-<li>N. Xia, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, T. C. Ling, and C.-S. Yang, “A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks,” IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, “SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange,” Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, “Design and Development of Multi-Pattern Matching Rules for Detecting Cryptocurrency Mining in Packet Inspection,” Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, “Using adaptive message replication on improving control resilience of SDN,” Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018. (SCI-E)</li>
-<li>C.-W. Tsai, <strong><span style="border-bottom:1px solid black;">P.-W. Tsai</strong></span>, M.-C. Chiang, and C.-S. Yang, “Data Analytics for Internet of Things: A Review,” WIREs Data Mining and Knowledge Discovery, vol.8, no.5, e1261, 2018. (SCI-E)</li>
-<li><strong><span style="border-bottom:1px solid black;">P.-W. Tsai</strong></span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, “Network monitoring in software-defined networking: A review,” IEEE Systems Journal, vol. 12, no. 4, pp. 3958-3969, 2018. (SCI-E)</li>
-<li><strong><span style="border-bottom:1px solid black;">P.-W. Tsai</strong></span> and C.-S. Yang, “Testbed@TWISC: A network security experiment platform,” International Journal of Communication Systems, vol. 31, no. 2, pp. 1-18, 2018. (SCI-E)</li>
-<li><strong><span style="border-bottom:1px solid black;">P.-W. Tsai</strong></span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S. Yang, “Control frameworks in network emulation testbeds: A survey,” Journal of Computational Science, vol. 22, pp. 148-161, 2017. (SCI-E)</li>
-<li>A. C. Risdianto, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, T. C. Ling, C.-S. Yang, and J. Kim, “Enhanced ONOS SDN controllers deployment for federated multidomain SDN-Cloud with SD-Routing-Exchange,” Malaysian Journal of Computer Science, vol. 30, no. 2, pp. 134-153, 2017. (SCI-E)</li>
-<li>K.-M. Cho, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-W. Tsai, and C.-S. Yang, “A hybrid metaheuristic algorithm for vm scheduling with load balancing in cloud computing,” Neural Computing and Applications, vol. 26, no. 6, pp. 1297-1309, 2015. (SCI)</li>
-<li>M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, and C.-S. Yang, “Network virtualization implementation over global research production networks,” Journal of Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. (SCI-E)</li>
-<li>W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J. Mambretti, “Design and implementation of automatic network topology discovery system for international multidomain future internet testbed,” Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013. (SCI-E)</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-W. Lee, and T.-W. Wang, “Design and Development
+of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT
+Network,” International Journal of Network Management, vol. 35, no. 3,
+e70015, 2025. (SCI-E)</li>
+<li>C.-C. Chiu, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, and C.-S. Yang, “Using an Efficient Detection
+Method to Prevent Personal Data Leakage for Web-based Smart City
+Platforms,” Wireless Communications and Mobile Computing, vol. 2023,
+pp. 1-10, 2023.</li>
+<li>N. Xia, <span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, T. C. Ling, and C.-S. Yang, “A Service-Aware
+Transport Layer Framework for SDN-enabled Cellular Core Networks,” IET
+Communications, vol.17, pp.1279-1289, 2022. (SCI-E)</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T.
+C. Ling, “SD-BROV: An Enhanced BGP Hijacking Protection with Route
+Validation in Software-Defined eXchange,” Future Internet, vol. 13, no.
+171, pp. 1-16, 2021. (EI) (Issue Cover)</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, “Design and Development of Multi-Pattern Matching
+Rules for Detecting Cryptocurrency Mining in Packet Inspection,”
+Communications of the CCISA, vol.27, no.1, pp.41-51, 2021.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, W.-H. Fong, W.-H. Chang, and C.-S. Yang, “Using
+adaptive message replication on improving control resilience of SDN,”
+Journal of Internet Technology, vol. 19, no. 7, pp. 2163-2175, 2018.
+(SCI-E)</li>
+<li>C.-W. Tsai,
+<strong><span style="border-bottom:1px solid black;">P.-W.
+Tsai</strong></span>, M.-C. Chiang, and C.-S. Yang, “Data Analytics for
+Internet of Things: A Review,” WIREs Data Mining and Knowledge
+Discovery, vol.8, no.5, e1261, 2018. (SCI-E)</li>
+<li><strong><span style="border-bottom:1px solid black;">P.-W.
+Tsai</strong></span>, C.-W. Tsai, C.-W. Hsu, and C.-S. Yang, “Network
+monitoring in software-defined networking: A review,” IEEE Systems
+Journal, vol. 12, no. 4, pp. 3958-3969, 2018. (SCI-E)</li>
+<li><strong><span style="border-bottom:1px solid black;">P.-W.
+Tsai</strong></span> and C.-S. Yang, “Testbed@TWISC: A network security
+experiment platform,” International Journal of Communication Systems,
+vol. 31, no. 2, pp. 1-18, 2018. (SCI-E)</li>
+<li><strong><span style="border-bottom:1px solid black;">P.-W.
+Tsai</strong></span>, F. Piccialli, C.-W. Tsai, M.-Y. L. Luo, and C.-S.
+Yang, “Control frameworks in network emulation testbeds: A survey,”
+Journal of Computational Science, vol. 22, pp. 148-161, 2017.
+(SCI-E)</li>
+<li>A. C. Risdianto, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, T. C. Ling, C.-S. Yang, and J. Kim, “Enhanced ONOS
+SDN controllers deployment for federated multidomain SDN-Cloud with
+SD-Routing-Exchange,” Malaysian Journal of Computer Science, vol. 30,
+no. 2, pp. 134-153, 2017. (SCI-E)</li>
+<li>K.-M. Cho, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-W. Tsai, and C.-S. Yang, “A hybrid
+metaheuristic algorithm for vm scheduling with load balancing in cloud
+computing,” Neural Computing and Applications, vol. 26, no. 6,
+pp. 1297-1309, 2015. (SCI)</li>
+<li>M.-Y. Luo, J. Chen, J. Mambretti, S.-W. Lin, F. Yeh, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, and C.-S. Yang, “Network virtualization
+implementation over global research production networks,” Journal of
+Internet Technology, vol. 14, no. 7, pp. 1061-1072, 2013. (SCI-E)</li>
+<li>W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-S. Yang, F.-I. Yeh, J.-H. Chen, and J. J.
+Mambretti, “Design and implementation of automatic network topology
+discovery system for international multidomain future internet testbed,”
+Journal of Internet Technology, vol. 14, no. 2, pp. 181-188, 2013.
+(SCI-E)</li>
 </ol>
-<h2 id="publications-conference-papers-international">Publications: Conference Papers (International)</h2>
+<h2 id="publications-conference-papers-international">Publications:
+Conference Papers (International)</h2>
 <ol type="1">
-<li>C.-Y. Cheng, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, W.-C. Liao, L.-S. Chang, “Achieving 400 Gbps Single-Flow Throughput with Minimal CPU Core Usage Through Optimized DPDK and SmartNIC Implementation,” in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)</li>
-<li>W.-Y. Guo, N. Xia, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, Y. Lu, M. Zeng, C.-S. Yang, “Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks,” in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)</li>
-<li>H.-C. Ku, Y.-W. Lin, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, S.-H. Lee, “A Contactless rPPG-Based Heart Rate Monitoring Framework for Public Surveillance in Transit Platforms,” in proceedings of the IEEE 14th Global Conference on Consumer Electronics, 2025. (Accepted)</li>
-<li>N. Xia, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, W. Guo, Y. Lu, C.-S. Yang, “Intelligent Bandwidth Management and Reliability Control in SDN-enabled Cellular Core Networks,” in proceedings of the 4th International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2025. (Accepted)</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-Y. Cheng, Y.-C. Hsu, “Design and Implementation of an Automated BGP Route Validation and Filtering Mechanism,” in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2025. (Accepted)</li>
-<li>H.-C. Ku, C.-H. Zhou, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, S.-H. Lee, “Application of the Retrieval-Augmented Generation Method in Consultation Systems for Smart Cities,” in proceedings of the IEEE International Conference on Consumer Electronics - Taiwan, 2025. (Accepted)</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-Y. Cheng, C.-H. Chang, “Design and Implementation of an Automated RTBH Mechanism on the Zabbix Platform for DDoS Mitigation,” in proceedings of the IEEE 11th International Conference on Applied System Innovation (IET Conference Proceedings), vol. 2025, no.15, pp. 605-610, 2025.</li>
-<li>Y.-T. Chen, H.-C. Hsu, S.-H. Lee, C.-S. Yang, C.-C. Chen, K.-W. Huang, and <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, “Clustering Analysis and Time Series Approaches for Effective Resource Allocation and Route Planning in Managing Confirmed Cases”, in proceedings of the Asian Conference on Intelligent Information and Database Systems, pp. 19-31, 2025.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, “Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks,” in proceedings of the IEEE 16th International Conference on Advanced Infocomm Technology, pp. 19-24, 2024.</li>
-<li>C. Fei, N. Xia, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, Y. Lu, X. Pan and J. Gong, “An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection,” in proceedings of Asia Joint Conference on Information Security, pp. 91-98, 2024.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-W. Lee, and T.-W. Wang, “Design and Development of a Trust Mechanism to Enhance Security Protection on SDN-based IoT Network,” in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 125-130, 2023. <font color=#0000FF><em>(Best Paper Award)</em></font></li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded Load Balancer to Improve Connection Performance in Container Environment,” in proceedings of the International Conference on Artificial Life and Robotics, pp. 120-124, 2023.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, A. C. Risdianto, and T. C. Ling, “Design, Development, and Operation of a SDN-Based BGP Playground for Networkers,” in proceedings of Asia-Pacific Network Operations and Management Symposium, pp. 1-4, 2022.</li>
-<li>C.-C. Chiu, <span style="border-bottom:1px solid black;"><strong>P-W. Tsai</strong></span>, and C.-S. Yang, “PIDS: An Essential Personal Information Detection System for Small Business Enterprise” in proceedings of the International Conference on Electrical, Computer, Communications and Mechatronics Engineering, pp. 1-6, 2021.</li>
-<li>A. C. Risdianto, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, and T. C. Ling, “An Intelligent Shortest Path Selection Mechanism based on Event-perception Prediction,” in proceedings of International Computer Symposium, 2020.</li>
-<li>K.-T. Cheng, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S. Yang, “Implementation of BGP Security Modules in Hybrid-SDN network,” in Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48, pp. 17-22, 2019. <font color=#0000FF><em>(Best Student Paper Award)</em></font></li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and T.-L. Liu, “Design and Implementation of an Adaptive Flow Measurement for SDN-based Cellular Core Network,” in Proceedings of the International Symposium on Pervasive Systems, Algorithms and Networks, pp. 179-184, 2018.</li>
-<li>H.-P. Liu, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, W.-H. Chang, and C.-S. Yang, “Design and development of the reactive BGP peering in software-defined routing exchanges,” in Proceedings of the 44th Asia-Pacific Advanced Network, vol. 44, pp. 48-53, 2017.</li>
-<li>C.-S. Yang, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, J.-F. Huang, and T.-L. Liu, “Design and development of a large-scale network testbed on a research and education network,” in Proceedings of the 8th International Conference on Emerging Networks and Systems Intelligence, pp. 423-427, 2016.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S. Yang, “Design and implementation of monitoring schemes for software-defined routing over a federated multi-domain SDN testbed,” in Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42, pp. 27-33, 2016. <font color=#0000FF><em>(Best Student Paper Award)</em></font></li>
-<li>A. C. Risdianto, T. C. Ling, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-S. Yang, and J. Kim, “Leveraging open-source software for federated multisite SDN-cloud playground,” in Proceedings of the IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-Y. Hsu, M.-Y. Luo, and C.-S. Yang, “On the implementation of adaptive flow measurement in the SDN-enabled network: A prototype,” in Proceedings of the 40th Asia-Pacific Advanced Network, vol. 40, pp. 7-13, 2015.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, P.-M. Wu, C.-T. Chen, M.-Y. Luo, and C.-S. Yang, “On the implementation of path switching over SDN-enabled network: A prototype,” in Proceedings of the IEEE International Conference on Consumer Electronics-Taiwan, pp. 90-91, 2015.</li>
-<li>J.-L. Chen, K.-W. Huang, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, and C.-S. Yang, “A prototype generation with same class label proportion method for nearest neighborhood classification,” in Proceedings of the IEEE International Conference on Consumer Electronics-Taiwan, pp. 96-97, 2015.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S. Yang, “Design and development of virtual nodes in the network testbed for emulation,” in Proceedings of the IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2015, pp. 101-106. <font color=#FF0000><em>(EI)</em></font></li>
-<li>C.-Y. Hsu, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, “A flowbased method to measure traffic statistics in software defined network,” in Proceedings of the 38th Asia-Pacific Advanced Network, vol. 38, pp. 19-22, 2014.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, H.-Y. Chou, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, “Design and implementation of a prioritized packet-processing module on NetFPGA platform,” in Proceedings of the 10th IEEE International Conference on High Performance Computing and Communications &amp; International Conference on Embedded and Ubiquitous Computing, pp. 272-277, 2013. <font color=#FF0000><em>(EI)</em></font></li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, Y.-T. Lai, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo, “Design and develop an OpenFlow testbed within virtualized architecture,” in Proceedings of the 15th Asia-Pacific Network Operations and Management Symposium, pp. 1-3, 2013.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, P.-W. Cheng, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, “Toward inter-connection on OpenFlow research networks,” in Proceedings of the 36th Asia-Pacific Advanced Network, vol. 36, pp. 9-16, 2013. <font color=#0000FF><em>(Best Student Paper Award)</em></font></li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, H. Y. Chou, M. Y. Luo, and C. S. Yang, “Design a flexible software development environment on NetFPGA platform,” in Applied Mechanics and Materials, vol. 411, pp. 1665-1669, 2013.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, P.-W. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J. Chen, “Supporting extensions of VLAN-tagged traffic across OpenFlow networks,” in Proceedings of the 2nd GENI Research and Educational Experiment Workshop, pp. 61-65, 2013.</li>
-<li>W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J. Mambretti, “Design and implementation of an automatic network topology discovery system for the future internet across different domains,” in Proceedings of the 26th IEEE International Conference on Advanced Information Networking and Applications Workshops, pp. 903-908, 2012.</li>
-<li><span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, P.-W. Cheng, M.-Y. Luo, T.-L. Liu, and C.-S. Yang, “Planning and implantation of NetFPGA platform on network emulation testbed,” in Proceedings of the 32th Asia-Pacific Advanced Network, vol. 32, pp. 1-7, 2011.</li>
-<li>C.-S. Yang, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, M.-Y. Liao, C.-C. Huang, and C. E. Yeh, “Location-based mobile multimedia push system,” in Proceedings of the 2010 IEEE International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery, pp. 181-184, 2010.</li>
-<li>M.-S. Chen, M.-Y. Liao, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, “Using NetFPGA to offload Linux Netfilter firewall,” in Proceedings of the 2nd North American NetFPGA Developers Workshop, Aug. 13, 2010.</li>
+<li>C.-Y. Cheng, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, W.-C. Liao, L.-S. Chang, “Achieving 400 Gbps
+Single-Flow Throughput with Minimal CPU Core Usage Through Optimized
+DPDK and SmartNIC Implementation,” in proceedings of the 25th
+Asia-Pacific Network Operations and Management Symposium, pp. 1-6,
+2025.</li>
+<li>W.-Y. Guo, N. Xia, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, Y. Lu, M. Zeng, C.-S. Yang, “Deep
+Learning-Empowered Framework for Performance Prediction in IEEE
+802.11ah-Based Networks,” in proceedings of the 25th Asia-Pacific
+Network Operations and Management Symposium, pp. 1-6, 2025.</li>
+<li>H.-C. Ku, Y.-W. Lin, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, S.-H. Lee, “A Contactless rPPG-Based Heart Rate
+Monitoring Framework for Public Surveillance in Transit Platforms,” in
+proceedings of the IEEE 14th Global Conference on Consumer Electronics,
+2025. (Accepted)</li>
+<li>N. Xia, <span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, W. Guo, Y. Lu, C.-S. Yang, “Intelligent Bandwidth
+Management and Reliability Control in SDN-enabled Cellular Core
+Networks,” in proceedings of the 4th International Conference on Machine
+Learning, Cloud Computing and Intelligent Mining, 2025. (Accepted)</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-Y. Cheng, Y.-C. Hsu, “Design and Implementation
+of an Automated BGP Route Validation and Filtering Mechanism,” in
+proceedings of the IEEE International Conference on Computation,
+Big-Data and Engineering, 2025. (Accepted)</li>
+<li>H.-C. Ku, C.-H. Zhou, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, S.-H. Lee, “Application of the Retrieval-Augmented
+Generation Method in Consultation Systems for Smart Cities,” in
+proceedings of the IEEE International Conference on Consumer Electronics
+- Taiwan, pp. 783-784, 2025.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-Y. Cheng, C.-H. Chang, “Design and
+Implementation of an Automated RTBH Mechanism on the Zabbix Platform for
+DDoS Mitigation,” in proceedings of the IEEE 11th International
+Conference on Applied System Innovation (IET Conference Proceedings),
+vol. 2025, no. 15, pp. 605-610, 2025.</li>
+<li>Y.-T. Chen, H.-C. Hsu, S.-H. Lee, C.-S. Yang, C.-C. Chen, K.-W.
+Huang, and <span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, “Clustering Analysis and Time Series Approaches
+for Effective Resource Allocation and Route Planning in Managing
+Confirmed Cases”, in proceedings of the Asian Conference on Intelligent
+Information and Database Systems, pp. 19-31, 2025.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang,
+“Using Software-defined Tenant to Improve Network Adaptation in 5G Core
+Networks,” in proceedings of the IEEE 16th International Conference on
+Advanced Infocomm Technology, pp. 19-24, 2024.</li>
+<li>C. Fei, N. Xia, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, Y. Lu, X. Pan and J. Gong, “An Effective Feature
+Selection Algorithm for Machine Learning-based Malicious Traffic
+Detection,” in proceedings of Asia Joint Conference on Information
+Security, pp. 91-98, 2024.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-W. Lee, and T.-W. Wang, “Design and Development
+of a Trust Mechanism to Enhance Security Protection on SDN-based IoT
+Network,” in proceedings of Asia-Pacific Network Operations and
+Management Symposium, pp. 125-130, 2023. <font color=#0000FF><em>(Best
+Paper Award)</em></font></li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, H.-Y. Wei, and Y.-C. Hsu, “Using Multithreaded
+Load Balancer to Improve Connection Performance in Container
+Environment,” in proceedings of the International Conference on
+Artificial Life and Robotics, pp. 120-124, 2023.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, A. C. Risdianto, and T. C. Ling, “Design,
+Development, and Operation of a SDN-Based BGP Playground for
+Networkers,” in proceedings of Asia-Pacific Network Operations and
+Management Symposium, pp. 1-4, 2022.</li>
+<li>C.-C. Chiu, <span
+style="border-bottom:1px solid black;"><strong>P-W.
+Tsai</strong></span>, and C.-S. Yang, “PIDS: An Essential Personal
+Information Detection System for Small Business Enterprise” in
+proceedings of the International Conference on Electrical, Computer,
+Communications and Mechatronics Engineering, pp. 1-6, 2021.</li>
+<li>A. C. Risdianto, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, and T. C. Ling, “An Intelligent Shortest Path
+Selection Mechanism based on Event-perception Prediction,” in
+proceedings of International Computer Symposium, 2020.</li>
+<li>K.-T. Cheng, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, A. C. Risdianto, T. C. Ling, S.-W. Lee, and C.-S.
+Yang, “Implementation of BGP Security Modules in Hybrid-SDN network,” in
+Proceedings of the 48th Asia-Pacific Advanced Network, vol. 48,
+pp. 17-22, 2019. <font color=#0000FF><em>(Best Student Paper
+Award)</em></font></li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, N. Xia, C.-Y. Hsu, S.-W. Lee, C.-S. Yang, and
+T.-L. Liu, “Design and Implementation of an Adaptive Flow Measurement
+for SDN-based Cellular Core Network,” in Proceedings of the
+International Symposium on Pervasive Systems, Algorithms and Networks,
+pp. 179-184, 2018.</li>
+<li>H.-P. Liu, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, W.-H. Chang, and C.-S. Yang, “Design and
+development of the reactive BGP peering in software-defined routing
+exchanges,” in Proceedings of the 44th Asia-Pacific Advanced Network,
+vol. 44, pp. 48-53, 2017.</li>
+<li>C.-S. Yang, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, J.-F. Huang, and T.-L. Liu, “Design and
+development of a large-scale network testbed on a research and education
+network,” in Proceedings of the 8th International Conference on Emerging
+Networks and Systems Intelligence, pp. 423-427, 2016.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, A. C. Risdianto, T. C. Ling, J. Kim, and C.-S.
+Yang, “Design and implementation of monitoring schemes for
+software-defined routing over a federated multi-domain SDN testbed,” in
+Proceedings of the 42th Asia-Pacific Advanced Network, vol. 42,
+pp. 27-33, 2016. <font color=#0000FF><em>(Best Student Paper
+Award)</em></font></li>
+<li>A. C. Risdianto, T. C. Ling, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-S. Yang, and J. Kim, “Leveraging open-source
+software for federated multisite SDN-cloud playground,” in Proceedings
+of the IEEE NetSoft Conference and Workshops, pp. 423-427, 2016.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-Y. Hsu, M.-Y. Luo, and C.-S. Yang, “On the
+implementation of adaptive flow measurement in the SDN-enabled network:
+A prototype,” in Proceedings of the 40th Asia-Pacific Advanced Network,
+vol. 40, pp. 7-13, 2015.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, P.-M. Wu, C.-T. Chen, M.-Y. Luo, and C.-S. Yang,
+“On the implementation of path switching over SDN-enabled network: A
+prototype,” in Proceedings of the IEEE International Conference on
+Consumer Electronics-Taiwan, pp. 90-91, 2015.</li>
+<li>J.-L. Chen, K.-W. Huang, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, and C.-S. Yang, “A prototype generation with same
+class label proportion method for nearest neighborhood classification,”
+in Proceedings of the IEEE International Conference on Consumer
+Electronics-Taiwan, pp. 96-97, 2015.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, W.-H. Fong, K.-W. Huang, M.-Y. Luo, and C.-S.
+Yang, “Design and development of virtual nodes in the network testbed
+for emulation,” in Proceedings of the IEEE Pacific Rim Conference on
+Communications, Computers and Signal Processing, 2015, pp. 101-106.
+<font color=#FF0000><em>(EI)</em></font></li>
+<li>C.-Y. Hsu, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, H.-Y. Chou, M.-Y. Luo, and C.-S. Yang, “A
+flowbased method to measure traffic statistics in software defined
+network,” in Proceedings of the 38th Asia-Pacific Advanced Network,
+vol. 38, pp. 19-22, 2014.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, H.-Y. Chou, P.-W. Cheng, C.-S. Yang, and M.-Y.
+Luo, “Design and implementation of a prioritized packet-processing
+module on NetFPGA platform,” in Proceedings of the 10th IEEE
+International Conference on High Performance Computing and
+Communications &amp; International Conference on Embedded and Ubiquitous
+Computing, pp. 272-277, 2013.
+<font color=#FF0000><em>(EI)</em></font></li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, Y.-T. Lai, P.-W. Cheng, C.-S. Yang, and M.-Y. Luo,
+“Design and develop an OpenFlow testbed within virtualized
+architecture,” in Proceedings of the 15th Asia-Pacific Network
+Operations and Management Symposium, pp. 1-3, 2013.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, P.-W. Cheng, H.-Y. Chou, M.-Y. Luo, and C.-S.
+Yang, “Toward inter-connection on OpenFlow research networks,” in
+Proceedings of the 36th Asia-Pacific Advanced Network, vol. 36,
+pp. 9-16, 2013. <font color=#0000FF><em>(Best Student Paper
+Award)</em></font></li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, H. Y. Chou, M. Y. Luo, and C. S. Yang, “Design a
+flexible software development environment on NetFPGA platform,” in
+Applied Mechanics and Materials, vol. 411, pp. 1665-1669, 2013.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, P.-W. Cheng, C.-S. Yang, M.-Y. Luo, and J.-J.
+Chen, “Supporting extensions of VLAN-tagged traffic across OpenFlow
+networks,” in Proceedings of the 2nd GENI Research and Educational
+Experiment Workshop, pp. 61-65, 2013.</li>
+<li>W.-Y. Huang, J.-W. Hu, S.-C. Lin, T.-L. Liu, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, C.-S. Yang, F. I. Yeh, J. H. Chen, and J. J.
+Mambretti, “Design and implementation of an automatic network topology
+discovery system for the future internet across different domains,” in
+Proceedings of the 26th IEEE International Conference on Advanced
+Information Networking and Applications Workshops, pp. 903-908,
+2012.</li>
+<li><span style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, P.-W. Cheng, M.-Y. Luo, T.-L. Liu, and C.-S. Yang,
+“Planning and implantation of NetFPGA platform on network emulation
+testbed,” in Proceedings of the 32th Asia-Pacific Advanced Network,
+vol. 32, pp. 1-7, 2011.</li>
+<li>C.-S. Yang, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, M.-Y. Liao, C.-C. Huang, and C. E. Yeh,
+“Location-based mobile multimedia push system,” in Proceedings of the
+2010 IEEE International Conference on Cyber-Enabled Distributed
+Computing and Knowledge Discovery, pp. 181-184, 2010.</li>
+<li>M.-S. Chen, M.-Y. Liao, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, M.-Y. Luo, C.-S. Yang, and C. E. Yeh, “Using
+NetFPGA to offload Linux Netfilter firewall,” in Proceedings of the 2nd
+North American NetFPGA Developers Workshop, Aug. 13, 2010.</li>
 </ol>
 <h2 id="posterspresentation">Posters/Presentation</h2>
 <ol type="1">
-<li>Y.-C. Chang, Y.-C. Liu, P.-W. Tsai, C.-S. Yang, “Design and Implementation of an Adaptive Path Selection in SDN-Enabled SRv6,” the 25th Asia-Pacific Network Operations and Management Symposium, Kaohsiung, Taiwan, Sep. 22-24, 2025.</li>
-<li>H.-H. Chou, J.-S. Lin, W.-J. Chiang, H.-M. Hung, Y.-E. Ou, Loren C. Chang, and P.-W. Tsai, “Hyper Speed Unity Constellation With Inter-Satellite Optical Wireless System”, Small Satellite Conference, Utah, United States, Aug. 5-10, 2023.</li>
-<li>W.-K. Soo, S. K. Permal, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, A. C. Risdianto, and T. C. Ling, “Fuzzy logic QoS Load Balancing in Provisioned Wireless Networks,” APAN 55, Kathmandu Nepal, Mar. 13-17, 2022.</li>
-<li>A. C. Risdianto, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, X.-Z. Khooi and T. C. Ling, “Design, Development, and Operation of a SDN-based BGP Playground,” APNIC 54, Singapore, Sep. 8-15, 2022.</li>
-<li>W. K. Soo, S. K. Permal, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, A. C. Risdianto, and T. C. Ling, “Intelligent Network Traffic Forecasting in SDN and Load Threshold Identification in Wireless Networks,” APAN 54, Jinan, China, Aug. 22-26, 2022.</li>
-<li>S.-W. Lee, <span style="border-bottom:1px solid black;"><strong>P.-W. Tsai</strong></span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang, “SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT,” CENTRA 3 Meeting, Tokyo, Japan, May 14-16, 2018.</li>
-<li>“A Fast Path Migration of Fault Tolerant Development in Softwaredefined Networking,” Demonstration on the 2014 International SDN Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.</li>
-<li>“iGENI - Taiwan Integrated Research Network”, the 11th GENI Engineering Conference (GEC11), Denver, United States, Jul. 26-28, 2011.</li>
+<li>Y.-C. Chang, Y.-C. Liu, P.-W. Tsai, C.-S. Yang, “Design and
+Implementation of an Adaptive Path Selection in SDN-Enabled SRv6,” the
+25th Asia-Pacific Network Operations and Management Symposium,
+Kaohsiung, Taiwan, Sep. 22-24, 2025.</li>
+<li>H.-H. Chou, J.-S. Lin, W.-J. Chiang, H.-M. Hung, Y.-E. Ou, Loren C.
+Chang, and P.-W. Tsai, “Hyper Speed Unity Constellation With
+Inter-Satellite Optical Wireless System”, Small Satellite Conference,
+Utah, United States, Aug. 5-10, 2023.</li>
+<li>W.-K. Soo, S. K. Permal, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, A. C. Risdianto, and T. C. Ling, “Fuzzy logic QoS
+Load Balancing in Provisioned Wireless Networks,” APAN 55, Kathmandu
+Nepal, Mar. 13-17, 2022.</li>
+<li>A. C. Risdianto, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, X.-Z. Khooi and T. C. Ling, “Design, Development,
+and Operation of a SDN-based BGP Playground,” APNIC 54, Singapore,
+Sep. 8-15, 2022.</li>
+<li>W. K. Soo, S. K. Permal, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, A. C. Risdianto, and T. C. Ling, “Intelligent
+Network Traffic Forecasting in SDN and Load Threshold Identification in
+Wireless Networks,” APAN 54, Jinan, China, Aug. 22-26, 2022.</li>
+<li>S.-W. Lee, <span
+style="border-bottom:1px solid black;"><strong>P.-W.
+Tsai</strong></span>, T.-L. Liu, J.-W. Hu, T.-C. Ling, and C.-S. Yang,
+“SDN Testbed Collaboration between OF@TEIN+ and PRAGMA-ENT,” CENTRA 3
+Meeting, Tokyo, Japan, May 14-16, 2018.</li>
+<li>“A Fast Path Migration of Fault Tolerant Development in
+Softwaredefined Networking,” Demonstration on the 2014 International SDN
+Symposium Taiwan, Taipei, Taiwan, Nov. 13, 2014.</li>
+<li>“iGENI - Taiwan Integrated Research Network”, the 11th GENI
+Engineering Conference (GEC11), Denver, United States, Jul. 26-28,
+2011.</li>
 </ol>
 <h2 id="patents">Patents</h2>
 <ol type="1">
-<li>TW I-617155, Co-owner (~May. 16, 2036) Title: “Network controller and network flow path switching method thereof”</li>
-<li>TW I-514174, Co-owner (~Aug. 27, 2033) Title: “Distributed multiple protocol cross-layer log collect method thereof”</li>
-<li>TW I-497951, Co-owner (~May 09, 2033) Title: “A communication system and information forwarding method thereof”</li>
+<li>TW I-617155, Co-owner (~May. 16, 2036) Title: “Network controller
+and network flow path switching method thereof”</li>
+<li>TW I-514174, Co-owner (~Aug. 27, 2033) Title: “Distributed multiple
+protocol cross-layer log collect method thereof”</li>
+<li>TW I-497951, Co-owner (~May 09, 2033) Title: “A communication system
+and information forwarding method thereof”</li>
 </ol>
 <h2 id="talk">Talk</h2>
 <ol type="1">
-<li>EE Dept. Seminar, National Cheng Kung University, Oct. 20, 2022. Title: “The Changes of Networking Field made by Software-Defined Concepts”</li>
-<li>CSIE Dept. Seminar, National Taiwan Normal University, Oct. 29, 2020. Title: “Software-defined Wide-area Network (SD-WAN): From Talk to Action”</li>
-<li>EE Dept. Seminar, National Cheng Kung University, May. 16, 2019. Title: “The Challenges of Smart Manufacturing and Industrial Internet-of-things in Future”</li>
-<li>Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. Title: “An IPv6 Transition Showcase in a Large Campus Network”</li>
+<li>EE Dept. Seminar, National Cheng Kung University, Oct. 20, 2022.
+Title: “The Changes of Networking Field made by Software-Defined
+Concepts”</li>
+<li>CSIE Dept. Seminar, National Taiwan Normal University, Oct. 29,
+2020. Title: “Software-defined Wide-area Network (SD-WAN): From Talk to
+Action”</li>
+<li>EE Dept. Seminar, National Cheng Kung University, May. 16, 2019.
+Title: “The Challenges of Smart Manufacturing and Industrial
+Internet-of-things in Future”</li>
+<li>Global IPv6 Summit in Taiwan, TWNIC, Nov. 20-22, 2012. Title: “An
+IPv6 Transition Showcase in a Large Campus Network”</li>
 </ol>
 <h2 id="services">Services</h2>
 <ul>
@@ -212,30 +711,38 @@
 </ul>
 <ol type="1">
 <li>Asia-Pacific Network Information Centre (APNIC) LIR member</li>
-<li>Information &amp; Control technical committee member, Taiwan chapter, Semiconductor Equipment and Materials International (SEMI)</li>
+<li>Information &amp; Control technical committee member, Taiwan
+chapter, Semiconductor Equipment and Materials International (SEMI)</li>
 <li>Member, Tainan Section (Region 10), IEEE</li>
-<li>Oversea student member, the Institute of Electronics, Information and Communication Engineers (IEICE) (outdated)</li>
+<li>Oversea student member, the Institute of Electronics, Information
+and Communication Engineers (IEICE) (outdated)</li>
 </ol>
 <ul>
 <li>Domesitc Organization</li>
 </ul>
 <ol type="1">
-<li>Secretary General, Internet Society (ISOC) Taipei Chapter, 2024-2027, Available: https://www.isoc.org.tw/</li>
-<li>Director, Taiwan Smart Technology Association, 2022-2025, Available: https://tsta-tw.org.tw/</li>
+<li>Secretary General, Internet Society (ISOC) Taipei Chapter,
+2024-2027, Available: https://www.isoc.org.tw/</li>
+<li>Director, Taiwan Smart Technology Association, 2022-2025, Available:
+https://tsta-tw.org.tw/</li>
 </ol>
 <ul>
 <li>OpenSource Communities</li>
 </ul>
 <ol start="2" type="1">
-<li>Project Contributor, OpenFlow at Trans-Eurasia Information Network (OF@TEIN), Available: https://github.com/OFTEIN-NET/</li>
-<li>Project Contributor, The Campus Computer &amp; Network Society (CCNS), Available: https://github.com/ccns/</li>
+<li>Project Contributor, OpenFlow at Trans-Eurasia Information Network
+(OF@TEIN), Available: https://github.com/OFTEIN-NET/</li>
+<li>Project Contributor, The Campus Computer &amp; Network Society
+(CCNS), Available: https://github.com/ccns/</li>
 </ol>
 <ul>
 <li>Journal Editorial Activities</li>
 </ul>
 <ol type="1">
-<li>Associate Editor, Journal of Internet Technology, ISSN 1607-9264. (SCIE) (2021-)</li>
-<li>Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)</li>
+<li>Associate Editor, Journal of Internet Technology, ISSN 1607-9264.
+(SCIE) (2021-)</li>
+<li>Associate Editor, Human-centric Computing and Information Sciences
+(HCIS), ISSN 2192-1962. (SCIE) (2021-)</li>
 </ol>
 <ul>
 <li>Journal Review Activities</li>
@@ -281,42 +788,76 @@
 <li>Conference - Program Committee (PC) or Session Chair/Co-Chair</li>
 </ul>
 <ol type="1">
-<li>The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)</li>
-<li>The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)</li>
-<li>The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)</li>
-<li>IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Co-Chair)</li>
-<li>The 5th International Conference on Advanced Information Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC member)</li>
-<li>The 24th Asia-Pacific Network Operations and Management Symposium, Sep. 6-8. 2023, Sejong, Korea. (Session Hosting Chair)</li>
-<li>The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)</li>
+<li>The International Workshop on Advanced Image Technology, Jan. 12-14,
+2026, Kaohsiung, Taiwan. (Finance Co-Chair)</li>
+<li>The 6th International Conference on Advanced Information
+Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)</li>
+<li>The 25th Asia-Pacific Network Operations and Management Symposium,
+Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)</li>
+<li>IEEE International Conference on Computational Intelligence in
+Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session
+Co-Chair)</li>
+<li>The 5th International Conference on Advanced Information
+Technologies, Nov. 6-7, 2024, Yangon, Myanmar. (PC member)</li>
+<li>The 24th Asia-Pacific Network Operations and Management Symposium,
+Sep. 6-8. 2023, Sejong, Korea. (Session Hosting Chair)</li>
+<li>The 4th International Conference on Advanced Information
+Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)</li>
 </ol>
 <ul>
-<li>Conference - Technical Program Committee (TPC) member or reviewer</li>
+<li>Conference - Technical Program Committee (TPC) member or
+reviewer</li>
 </ul>
 <ol type="1">
-<li>The IEEE International Conference on Consumer Electronics, Jan 10-12, 2026, Las Vegas, USA.</li>
-<li>Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan.</li>
-<li>Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.</li>
-<li>The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.</li>
-<li>Zooming Innovation in Consumer Electronics International Conference 2023, May 29-31, 2023, Novi Sad, Serbia.</li>
-<li>The IEEE International Conference on Consumer Electronics - Berlin, Sep. 2-6, 2022, Berlin, Germany. (digital)</li>
-<li>Zooming Innovation in Consumer Electronics International Conference 2022, May 25-26, 2022, Novi Sad, Serbia. (digital)</li>
-<li>Zooming Innovation in Consumer Electronics International Conference 2021, May 26-27, 2021, Novi Sad, Serbia. (digital)</li>
-<li>The IEEE International Conference on Consumer Electronics - Berlin, Nov. 9-11, 2020, Berlin, Germany. (digital)</li>
-<li>Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020, Taipei, Taiwan.</li>
-<li>The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 11-14, 2020, Toronto, Canada.</li>
-<li>Zooming Innovation in Consumer Electronics International Conference 2020, May. 29-30, 2020, Novi Sad, Serbian. (digital)</li>
-<li>2019 International Conference on Radar, Antenna, Microwave, Electronics and Telecommunications, Oct. 23-24, 2019, Tangerang, Indonesia.</li>
-<li>The IEEE International Conference on Consumer Electronics - Berlin, Sep. 8-11, 2019, Berlin, Germany.</li>
-<li>The 23rd IEEE International Symposium on Consumer Technologies (ISCT), Jun. 19-21, 2019, Ancona, Italy.</li>
-<li>The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 6-9, 2019, Bari, Italy.</li>
-<li>Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019, Kaohsiung, Taiwan.</li>
-<li>The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26, 2019, Putrajaya, Malaysia.</li>
-<li>The IEEE International Conference on Consumer Electronics - Taiwan, May 20-22, 2019, Yilan, Taiwan. (special session)</li>
-<li>The IEEE International Symposium on Consumer Technologies, Jun. 19-21, 2019, Ancona, Italy.</li>
-<li>The IEEE International Conference on Consumer Electronics, Jan. 11-13, 2019, Las Vegas, USA.</li>
-<li>Taiwan Academic Network (TANet) 2018 Conference, Oct. 24-26, 2018, Taoyuan, Taiwan.</li>
-<li>The Asia-Pacific Advanced Network Research Workshop, Aug. 6-10, 2018, Auckland, New Zealand.</li>
-<li>The IEEE International Conference on Systems, Man, and Cybernetics, Oct. 5-8, 2017, Banff, Canada.</li>
+<li>The IEEE International Conference on Consumer Electronics, Jan
+10-12, 2026, Las Vegas, USA.</li>
+<li>Asia Joint Conference on Information Security 2024, Aug. 13-14,
+2024, Tainan, Taiwan.</li>
+<li>Zooming Innovation in Consumer Electronics International Conference
+2024, May 22-23, Novi Sad, Serbia.</li>
+<li>The IEEE International Conference on Consumer Electronics, Jan 6-8,
+2024, Las Vegas, USA.</li>
+<li>Zooming Innovation in Consumer Electronics International Conference
+2023, May 29-31, 2023, Novi Sad, Serbia.</li>
+<li>The IEEE International Conference on Consumer Electronics - Berlin,
+Sep. 2-6, 2022, Berlin, Germany. (digital)</li>
+<li>Zooming Innovation in Consumer Electronics International Conference
+2022, May 25-26, 2022, Novi Sad, Serbia. (digital)</li>
+<li>Zooming Innovation in Consumer Electronics International Conference
+2021, May 26-27, 2021, Novi Sad, Serbia. (digital)</li>
+<li>The IEEE International Conference on Consumer Electronics - Berlin,
+Nov. 9-11, 2020, Berlin, Germany. (digital)</li>
+<li>Taiwan Academic Network (TANet) 2020 Conference, Oct. 28-30, 2020,
+Taipei, Taiwan.</li>
+<li>The IEEE International Conference on Systems, Man, and Cybernetics,
+Oct. 11-14, 2020, Toronto, Canada.</li>
+<li>Zooming Innovation in Consumer Electronics International Conference
+2020, May. 29-30, 2020, Novi Sad, Serbian. (digital)</li>
+<li>2019 International Conference on Radar, Antenna, Microwave,
+Electronics and Telecommunications, Oct. 23-24, 2019, Tangerang,
+Indonesia.</li>
+<li>The IEEE International Conference on Consumer Electronics - Berlin,
+Sep. 8-11, 2019, Berlin, Germany.</li>
+<li>The 23rd IEEE International Symposium on Consumer Technologies
+(ISCT), Jun. 19-21, 2019, Ancona, Italy.</li>
+<li>The IEEE International Conference on Systems, Man, and Cybernetics,
+Oct. 6-9, 2019, Bari, Italy.</li>
+<li>Taiwan Academic Network (TANet) 2019 Conference, Sep. 25-27, 2019,
+Kaohsiung, Taiwan.</li>
+<li>The Asia-Pacific Advanced Network Research Workshop, Jul. 22-26,
+2019, Putrajaya, Malaysia.</li>
+<li>The IEEE International Conference on Consumer Electronics - Taiwan,
+May 20-22, 2019, Yilan, Taiwan. (special session)</li>
+<li>The IEEE International Symposium on Consumer Technologies,
+Jun. 19-21, 2019, Ancona, Italy.</li>
+<li>The IEEE International Conference on Consumer Electronics,
+Jan. 11-13, 2019, Las Vegas, USA.</li>
+<li>Taiwan Academic Network (TANet) 2018 Conference, Oct. 24-26, 2018,
+Taoyuan, Taiwan.</li>
+<li>The Asia-Pacific Advanced Network Research Workshop, Aug. 6-10,
+2018, Auckland, New Zealand.</li>
+<li>The IEEE International Conference on Systems, Man, and Cybernetics,
+Oct. 5-8, 2017, Banff, Canada.</li>
 </ol>
 <ul>
 <li>Other domestic activities</li>
@@ -338,54 +879,115 @@
 <li>International</li>
 </ul>
 <ol type="1">
-<li>Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies, Co-PI (2024/10-2026/03; APNIC Foundation/ISIF@Asia; 202403-02598)</li>
-<li>OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds. Co-PI (2022/03-2023/05; European Union/TEIN*CC; Asi@Connect-22-021)</li>
-<li>SDN-based Exchange Playground for Networkers: Design, Development and Operation. Co-PI (2022/02-2023/01; APNIC Foundation/ISIF@Asia; M-202107-00170)</li>
-<li>2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05-2021/10; D110-B5509 #9; NCKU)</li>
-<li>OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX Services, Co-PI (2020/08-2021/06; European Union/TEIN*CC; Asi@Connect-20-050)</li>
-<li>OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08-2019/05; European Union/TEIN*CC; Asi@Connect-17-094)</li>
+<li>Design, Development and Transfer of Technology of a P4 based SDN
+Security Playground Across Multiple Economies, Co-PI (2024/10-2026/03;
+APNIC Foundation/ISIF@Asia; 202403-02598)</li>
+<li>OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud
+Playgrounds. Co-PI (2022/03-2023/05; European Union/TEIN*CC;
+Asi@Connect-22-021)</li>
+<li>SDN-based Exchange Playground for Networkers: Design, Development
+and Operation. Co-PI (2022/02-2023/01; APNIC Foundation/ISIF@Asia;
+M-202107-00170)</li>
+<li>2021 NCKU Joint Research Program with Malaysia, Vietnam and
+Thailand: On the Study of Provisioning Public and Equitable Wireless
+Internet Access with Quality of Service, Co-PI (2021/05-2021/10;
+D110-B5509 #9; NCKU)</li>
+<li>OF@TEIN++: Open Federated Playgrounds for AI-inspired SmartX
+Services, Co-PI (2020/08-2021/06; European Union/TEIN*CC;
+Asi@Connect-20-050)</li>
+<li>OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador
+(2017/08-2019/05; European Union/TEIN*CC; Asi@Connect-17-094)</li>
 </ol>
 <ul>
 <li>Domestic</li>
 </ul>
 <ol type="1">
-<li>Building Autonomous Resilience for Critical Infrastructure and Domestic Networks (1/2), Co-PI (2025/08-2026/07; NSTC 114-2634-F-006-001-MBK)</li>
-<li>A Study on Enhancing Network Resilience through SRv6 with Service Function Chaining and TI-LFA Concepts, PI (2025/08-2026/07; NSTC 114-2221-E-006-206)</li>
-<li>A Study on Packet Flow Offloading and Acceleration by Integrating the 100G SmartNIC and Data Processing Unit, Co-PI (2025/08-2026/07; NSTC 114-2221-E-006-125)</li>
-<li>Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12; Delta Electronics, Inc.; UR24A13)</li>
-<li>A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)</li>
-<li>2025 Presidential Education Award Website Maintenance and Operation, PI (2025/01-2025/12; Ministry of Education; Q114-E005)</li>
-<li>2025 E-mail Upward Centralization Initiative, Co-PI (2025/01-2025/12; Ministry of Education; Q114-E004)</li>
-<li>2025 DNS and Website Upward Centralization Initiative, Co-PI (2025/01-2025/12; Ministry of Education; Q114-E002)</li>
-<li>On the Study of Using Software-Defined SRv6 to Strengthen the Resilience and Security of Mesh Network, PI (2024/08-2025/07; NSTC 113-2221-E-006-220)</li>
-<li>The Study of Performance and Signature Detection on Software-Defined Service Function Virtualization, Co-PI (2024/08-2025/07; NSTC 113-2221-E-006-225)</li>
-<li>Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (2/2), Co-PI, (2024/06-2025/08; NSTC 113-2634-F-006-001-MBK)</li>
-<li>Blockchain application in the decentralized data storage verification mechanism for critical water resource infrastructure, Co-PI (2024/05-2024/12; WRA; 1130243)</li>
-<li>Enhancing Critical Infrastructure Security through Multi-layer Resilient Network Services - The Case of Water Resources (1/2), Co-PI, (2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)</li>
-<li>Design and Development of a Distributed Data Storage Verification Mechanism for Blockchain: Using Critical Water Resources Infrastructure as a Case, Co-PI (2023/06-2023/12; WRA; 112C023)</li>
-<li>Implementation of In-Band Telemetry over Multiple Programmable Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)</li>
-<li>Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST 111-2218-E-006-010-MBK)</li>
-<li>Design and Development of In-Band Network Telemetry Technology for Large-Scale Networks, Co-PI (2021/08-2022/07; MOST 110-2221-E-492-001)</li>
-<li>Cybersecurity Protection of Critical Infrastructure in Water Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST 110-2218-E-006-013-MBK)</li>
-<li>On the Study of Implementing Trusted Route for Software-Defined eXchange, PI (2020/10-2023/12; MOST-109-2222-E-006-007-MY3)</li>
-<li>Critical Infrastructure Security Protection-Focus on Water Resources (2020/06-2021/05, MOST 109-2218-E-006-014)</li>
-<li>Security Operation Center &amp; ISMS Technology Development (2017/05-2018/01; 106-3114-E-006-003)</li>
-<li>The Analysis and Retrospective Framework of Next-generation Malware Traffic (2017/08-2018/07; 106-2221-E-006-025)</li>
-<li>Network Technology in Cloud Data Center (2014/11-2017/07; MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)</li>
-<li>Study of Network Target Attack, Correlation Analysis and Layered Defense Technology under Cloud Environment (2014/08-2017/07; MOST-103-2221-E-006-145-MY3)</li>
-<li>Design and Development of a Large-Scale Network Testbed based on SDN-enabled Network. (2014/08-2016/07; NARLabs-03103A7300)</li>
-<li>Design and Development of a Global Resource Control Framework System in Large-Scale Network (2014/08-2015/07; MOST-103-2221-E-006-181)</li>
-<li>The Establishment, Promotion and Application of Network Security Testbed based on Cloud-Service (2012/05-2014/04; NSC-101-2219-E-006-004)</li>
-<li>On the study of Network Threat Capture, Ontology Analysis, Tracking and Filter technology (2011/08-2014/07; NSC-100-2218-E-006-028-MY3)</li>
-<li>Interoperability and Certification of Next Generation Internet (2012/04-2012/12; MOTC-DPT-101-03)</li>
-<li>The Establishment, Promotion and Application of Network Security Testbed (2012/05-2014/04/30; NSC-100-2219-E-006-001)</li>
-<li>On the Study and Deployment of Network Virtualization Architecture (2009/08-2011/07; NSC-99-2219-E-006-001)</li>
+<li>Building Autonomous Resilience for Critical Infrastructure and
+Domestic Networks (1/2), Co-PI (2025/08-2026/07; NSTC
+114-2634-F-006-001-MBK)</li>
+<li>A Study on Enhancing Network Resilience through SRv6 with Service
+Function Chaining and TI-LFA Concepts, PI (2025/08-2026/07; NSTC
+114-2221-E-006-206)</li>
+<li>A Study on Packet Flow Offloading and Acceleration by Integrating
+the 100G SmartNIC and Data Processing Unit, Co-PI (2025/08-2026/07; NSTC
+114-2221-E-006-125)</li>
+<li>Design and Implementation of an Automated Security Testing Tool
+Supporting the CAN Protocol, PI (2025/01-2025/12; Delta Electronics,
+Inc.; UR24A13)</li>
+<li>A Study on Integration DNS RPZ with RTBH and Malicious Domain
+Protection, PI (2025/01-2025/11); TWNIC; B114-F001)</li>
+<li>2025 Presidential Education Award Website Maintenance and Operation,
+PI (2025/01-2025/12; Ministry of Education; Q114-E005)</li>
+<li>2025 E-mail Upward Centralization Initiative, Co-PI
+(2025/01-2025/12; Ministry of Education; Q114-E004)</li>
+<li>2025 DNS and Website Upward Centralization Initiative, Co-PI
+(2025/01-2025/12; Ministry of Education; Q114-E002)</li>
+<li>On the Study of Using Software-Defined SRv6 to Strengthen the
+Resilience and Security of Mesh Network, PI (2024/08-2025/07; NSTC
+113-2221-E-006-220)</li>
+<li>The Study of Performance and Signature Detection on Software-Defined
+Service Function Virtualization, Co-PI (2024/08-2025/07; NSTC
+113-2221-E-006-225)</li>
+<li>Enhancing Critical Infrastructure Security through Multi-layer
+Resilient Network Services - The Case of Water Resources (2/2), Co-PI,
+(2024/06-2025/08; NSTC 113-2634-F-006-001-MBK)</li>
+<li>Blockchain application in the decentralized data storage
+verification mechanism for critical water resource infrastructure, Co-PI
+(2024/05-2024/12; WRA; 1130243)</li>
+<li>Enhancing Critical Infrastructure Security through Multi-layer
+Resilient Network Services - The Case of Water Resources (1/2), Co-PI,
+(2023/06-2023/05; NSTC 112-2634-F-006-001-MBK)</li>
+<li>Design and Development of a Distributed Data Storage Verification
+Mechanism for Blockchain: Using Critical Water Resources Infrastructure
+as a Case, Co-PI (2023/06-2023/12; WRA; 112C023)</li>
+<li>Implementation of In-Band Telemetry over Multiple Programmable
+Networks, Co-PI (2022/08-2023/07; NSTC 111-2221-E-492-007)</li>
+<li>Cybersecurity Protection of Critical Infrastructure in Water
+Resources Domain (2/2), Co-PI (2022/05-2023/04; MOST
+111-2218-E-006-010-MBK)</li>
+<li>Design and Development of In-Band Network Telemetry Technology for
+Large-Scale Networks, Co-PI (2021/08-2022/07; MOST
+110-2221-E-492-001)</li>
+<li>Cybersecurity Protection of Critical Infrastructure in Water
+Resources Domain (1/2), Co-PI (2021/05-2022/04; MOST
+110-2218-E-006-013-MBK)</li>
+<li>On the Study of Implementing Trusted Route for Software-Defined
+eXchange, PI (2020/10-2023/12; MOST-109-2222-E-006-007-MY3)</li>
+<li>Critical Infrastructure Security Protection-Focus on Water Resources
+(2020/06-2021/05, MOST 109-2218-E-006-014)</li>
+<li>Security Operation Center &amp; ISMS Technology Development
+(2017/05-2018/01; 106-3114-E-006-003)</li>
+<li>The Analysis and Retrospective Framework of Next-generation Malware
+Traffic (2017/08-2018/07; 106-2221-E-006-025)</li>
+<li>Network Technology in Cloud Data Center (2014/11-2017/07;
+MOST-103-2218-E-194-007, 104-3115-E-194-001, 105-2218-E-194-002)</li>
+<li>Study of Network Target Attack, Correlation Analysis and Layered
+Defense Technology under Cloud Environment (2014/08-2017/07;
+MOST-103-2221-E-006-145-MY3)</li>
+<li>Design and Development of a Large-Scale Network Testbed based on
+SDN-enabled Network. (2014/08-2016/07; NARLabs-03103A7300)</li>
+<li>Design and Development of a Global Resource Control Framework System
+in Large-Scale Network (2014/08-2015/07; MOST-103-2221-E-006-181)</li>
+<li>The Establishment, Promotion and Application of Network Security
+Testbed based on Cloud-Service (2012/05-2014/04;
+NSC-101-2219-E-006-004)</li>
+<li>On the study of Network Threat Capture, Ontology Analysis, Tracking
+and Filter technology (2011/08-2014/07; NSC-100-2218-E-006-028-MY3)</li>
+<li>Interoperability and Certification of Next Generation Internet
+(2012/04-2012/12; MOTC-DPT-101-03)</li>
+<li>The Establishment, Promotion and Application of Network Security
+Testbed (2012/05-2014/04/30; NSC-100-2219-E-006-001)</li>
+<li>On the Study and Deployment of Network Virtualization Architecture
+(2009/08-2011/07; NSC-99-2219-E-006-001)</li>
 </ol>
 <h2 id="reference-links">Reference Links</h2>
 <ul>
-<li>Linkedin: <a href="https://linkedin.com/in/pwtsai/" target="_blank">https://www.linkedin.com/in/pwtsai/</a></li>
-<li>Google Scholar: <a href="http://pub.pwtsai.im/" target="_blank">http://pub.pwtsai.im</a></li>
-<li>Lab Website: <a href="http://itlab.ee.ncku.edu.tw/pwtsai/" target="_blank">http://itlab.ee.ncku.edu.tw/pwtsai/</a></li>
+<li>Linkedin:
+<a href="https://linkedin.com/in/pwtsai/" target="_blank">https://www.linkedin.com/in/pwtsai/</a></li>
+<li>Google Scholar:
+<a href="http://pub.pwtsai.im/" target="_blank">http://pub.pwtsai.im</a></li>
+<li>Lab Website:
+<a href="http://itlab.ee.ncku.edu.tw/pwtsai/" target="_blank">http://itlab.ee.ncku.edu.tw/pwtsai/</a></li>
 </ul>
 </body>
 </html>

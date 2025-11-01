@@ -84,11 +84,12 @@ Honors and Achievements
 * The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)
 * (Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)
 * (Student Guidance) Honorable Mention in Information and Network Technology, Youth Division, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025. (domestic)
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會核配博士生研究獎學金), 2025-2026. (domestic
 * (Student Guidance) Winner of First Place in Information and Network Technology, Youth Division, Southern Regional Contest, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名), 2025. (domestic)
 * Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎), 2024. (domestic)
-* (Student Guideance) NCKU & E.SUN Commercial Bank Scholarshipm (指導學生獲頒豐商業銀行獎助學金), 2024. (domestic)
-* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2025. (domestic)
-* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會博士生研究獎學金), 2024-2027. (domestic)
+* (Student Guideance) NCKU & Bank SinoPac Co., Ltd. Scholarship (指導學生獲頒永豐商業銀行獎助學金), 2024. (domestic)
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會核配博士生研究獎學金), 2024-2025. (domestic)
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會甄選博士生研究獎學金), 2024-2027. (domestic)
 * (Student Guidance) Academic Research Awards (Graduate Thesis) of Service Science Society of Taiwan (共同指導學生獲頒台灣服務科學學會碩博士論文獎碩士組佳作), 2023. (domestic)
 * (Student Guidance) TCAT CTF High Distinction Award (大專校院組特優), 2023. (domestic)
 * ISIF Asia 2023 Award (jointly, project co-PI), APNIC Foundation, 2023.
@@ -148,13 +149,13 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. C.-Y. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-C. Liao, L.-S. Chang, "Achieving 400 Gbps Single-Flow Throughput with Minimal CPU Core Usage Through Optimized DPDK and SmartNIC Implementation," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)
-2. W.-Y. Guo, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, C.-S. Yang, "Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, 2025. (Accepted)
+1. C.-Y. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-C. Liao, L.-S. Chang, "Achieving 400 Gbps Single-Flow Throughput with Minimal CPU Core Usage Through Optimized DPDK and SmartNIC Implementation," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, pp. 1-6, 2025.
+2. W.-Y. Guo, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, C.-S. Yang, "Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, pp. 1-6, 2025.
 202507. H.-C. Ku, Y.-W. Lin, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "A Contactless rPPG-Based Heart Rate Monitoring Framework for Public Surveillance in Transit Platforms," in proceedings of the IEEE 14th Global Conference on Consumer Electronics, 2025. (Accepted)
 202507. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W. Guo, Y. Lu, C.-S. Yang, "Intelligent Bandwidth Management and Reliability Control in SDN-enabled Cellular Core Networks," in proceedings of the 4th International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2025. (Accepted)
 202506. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, Y.-C. Hsu, "Design and Implementation of an Automated BGP Route Validation and Filtering Mechanism," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2025. (Accepted)
-202505. H.-C. Ku, C.-H. Zhou, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "Application of the Retrieval-Augmented Generation Method in Consultation Systems for Smart Cities," in proceedings of the IEEE International Conference on Consumer Electronics - Taiwan, 2025. (Accepted)
-202504. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, C.-H. Chang, "Design and Implementation of an Automated RTBH Mechanism on the Zabbix Platform for DDoS Mitigation," in proceedings of the IEEE 11th International Conference on Applied System Innovation (IET Conference Proceedings), vol. 2025, no.15, pp. 605-610, 2025.
+202505. H.-C. Ku, C.-H. Zhou, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "Application of the Retrieval-Augmented Generation Method in Consultation Systems for Smart Cities," in proceedings of the IEEE International Conference on Consumer Electronics - Taiwan, pp. 783-784, 2025.
+202504. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng, C.-H. Chang, "Design and Implementation of an Automated RTBH Mechanism on the Zabbix Platform for DDoS Mitigation," in proceedings of the IEEE 11th International Conference on Applied System Innovation (IET Conference Proceedings), vol. 2025, no. 15, pp. 605-610, 2025.
 202503. Y.-T. Chen, H.-C. Hsu, S.-H. Lee, C.-S. Yang, C.-C. Chen, K.-W. Huang, and <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Clustering Analysis and Time Series Approaches for Effective Resource Allocation and Route Planning in Managing Confirmed Cases", in proceedings of the Asian Conference on Intelligent Information and Database Systems, pp. 19-31, 2025.
 202409. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, N. Xia, T.-Y. Fang, H.-H Huang, and C.-S Yang, "Using Software-defined Tenant to Improve Network Adaptation in 5G Core Networks," in proceedings of the IEEE 16th International Conference on Advanced Infocomm Technology, pp. 19-24, 2024.
 202408. C. Fei, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, X. Pan and J. Gong, "An Effective Feature Selection Algorithm for Machine Learning-based Malicious Traffic Detection," in proceedings of Asia Joint Conference on Information Security, pp. 91-98, 2024.
