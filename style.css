@@ -1,0 +1,9 @@
+body {
+    max-width: none;
+    width: 100%;
+    margin: 0 auto;
+}
+
+article, main, .main, div, p {
+    max-width: none;
+}
