@@ -84,7 +84,7 @@ Honors and Achievements
 * The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)
 * (Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)
 * (Student Guidance) Honorable Mention in Information and Network Technology, Youth Division, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025. (domestic)
-* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會核配博士生研究獎學金), 2025-2026. (domestic
+* (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會核配博士生研究獎學金), 2025-2026. (domestic)
 * (Student Guidance) Winner of First Place in Information and Network Technology, Youth Division, Southern Regional Contest, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組資訊與網路技術第一名), 2025. (domestic)
 * Genesys Logic Inc. Paper Award (Potential Award) (創惟論文潛力獎), 2024. (domestic)
 * (Student Guideance) NCKU & Bank SinoPac Co., Ltd. Scholarship (指導學生獲頒永豐商業銀行獎助學金), 2024. (domestic)
