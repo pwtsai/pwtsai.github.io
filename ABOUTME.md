@@ -3,6 +3,10 @@ Pang-Wei Tsai (PhD) | Assistant Professor | National Cheng Kung University | ![M
 [comment]: <> (##### [Download](https://pwtsai.github.io/cv-pwtsai.pdf) a PDF version of this document. #####)
 ***
 
+Laboratory Homepage
+----------------
+# https://itlab.ee.ncku.edu.tw/pwtsai/
+
 
 
 About Me
