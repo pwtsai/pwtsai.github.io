@@ -4,9 +4,8 @@ Pang-Wei Tsai (PhD) | Assistant Professor | National Cheng Kung University | ![M
 ***
 
 
-Homepage: [Internet Technology Lab](https://lab.itlab.cc)
+Lab Homepage: [Internet Technology Laboratory](https://lab.itlab.cc)
 ----------------
-***
 
 
 About Me
