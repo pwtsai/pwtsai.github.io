@@ -249,6 +249,7 @@ Services
 
 * Journal Review Activities
 1. SN Computer Science, 2025.
+202512. Journal of Network and Systems Management, 2025
 202507. Cluster Computing, 2025.
 202506. IEEE Transactions on Mobile Computing, 2025
 202412. CMC-Computers Materials & Continua, 2024
