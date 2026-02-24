@@ -152,7 +152,7 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. Y.-C. Chuang, Y.-C. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Design and Implementation of an Intelligent Adaptive Path Selection Mechanism for SDN-Orchestrated SRv6 Networks," in proceeding of the 18th Asian Conference on Intelligent Information and Database Systems, 2026.
+1. Y.-C. Chuang, Y.-C. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Design and Implementation of an Intelligent Adaptive Path Selection Mechanism for SDN-Orchestrated SRv6 Networks," in proceeding of the 18th Asian Conference on Intelligent Information and Database Systems, 2026. (Accepted)
 202509. C.-Y. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-C. Liao, L.-S. Chang, "Achieving 400 Gbps Single-Flow Throughput with Minimal CPU Core Usage Through Optimized DPDK and SmartNIC Implementation," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, pp. 1-6, 2025.
 202508. W.-Y. Guo, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, C.-S. Yang, "Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, pp. 1-6, 2025.
 202507. H.-C. Ku, Y.-W. Lin, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "A Contactless rPPG-Based Heart Rate Monitoring Framework for Public Surveillance in Transit Platforms," in proceedings of the IEEE 14th Global Conference on Consumer Electronics, pp. 508-510, 2025.
@@ -296,7 +296,10 @@ Services
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)
 
 * Conference - Technical Program Committee (TPC) member or reviewer
-1. The IEEE International Conference on Consumer Electronics, Jan 10-12, 2026, Las Vegas, USA.
+1.      Zooming Innovation in Consumer Electronics International Conference 2026, Jun. 3-4, 2026, Novi Sad, Serbia.
+202605. European Conference on Networks and Communications, Jun. 2-5, 2026, Málaga, Spain.
+202601. The IEEE International Conference on Consumer Electronics, Jan 10-12, 2026, Las Vegas, USA.
+202506. Zooming Innovation in Consumer Electronics International Conference 2026, May. 28-29, 2025, Novi Sad, Serbia.
 202408. Asia Joint Conference on Information Security 2024, Aug. 13-14, 2024, Tainan, Taiwan.
 202405. Zooming Innovation in Consumer Electronics International Conference 2024, May 22-23, Novi Sad, Serbia.
 202401. The IEEE International Conference on Consumer Electronics, Jan 6-8, 2024, Las Vegas, USA.
