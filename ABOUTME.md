@@ -287,7 +287,7 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference - Program Committee (PC) or Session Chair/Co-Chair
-1.	The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)
+1. The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)
 202511. The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)
 202509. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
 202508. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Co-Chair)
@@ -296,7 +296,7 @@ Services
 202001. The 4th International Conference on Advanced Information Technologies, Nov. 4-5, 2020, Yangon, Myanmar. (PC member)
 
 * Conference - Technical Program Committee (TPC) member or reviewer
-1.      Zooming Innovation in Consumer Electronics International Conference 2026, Jun. 3-4, 2026, Novi Sad, Serbia.
+1. Zooming Innovation in Consumer Electronics International Conference 2026, Jun. 3-4, 2026, Novi Sad, Serbia.
 202605. European Conference on Networks and Communications, Jun. 2-5, 2026, Málaga, Spain.
 202601. The IEEE International Conference on Consumer Electronics, Jan 10-12, 2026, Las Vegas, USA.
 202506. Zooming Innovation in Consumer Electronics International Conference 2026, May. 28-29, 2025, Novi Sad, Serbia.
