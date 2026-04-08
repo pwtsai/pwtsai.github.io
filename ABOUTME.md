@@ -340,7 +340,8 @@ Services
 Joined Projects
 ----------------
 * International
-1. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies, Co-PI (2024/10-2026/03; APNIC Foundation/ISIF@Asia; 202403-02598)
+1. Intention Based Adaptive Network Path Decision over Geographic Areas based on Programmable Network Technology, Co-PI (2026/01-2027/12; National Institutes of Applied Research)
+202403. Design, Development and Transfer of Technology of a P4 based SDN Security Playground Across Multiple Economies, Co-PI (2024/10-2026/03; APNIC Foundation/ISIF@Asia; 202403-02598)
 202203. OF@TEIN+++: AI-inspired Edge Services over Open Federated Cloud Playgrounds. Co-PI (2022/03-2023/05; European Union/TEIN*CC; Asi@Connect-22-021)
 202202. SDN-based Exchange Playground for Networkers: Design, Development and Operation. Co-PI (2022/02-2023/01; APNIC Foundation/ISIF@Asia; M-202107-00170)
 202104. 2021 NCKU Joint Research Program with Malaysia, Vietnam and Thailand: On the Study of Provisioning Public and Equitable Wireless Internet Access with Quality of Service, Co-PI (2021/05-2021/10; D110-B5509 #9; NCKU)
@@ -348,10 +349,14 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08-2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
-1. Research on Communication Security Architecture of Robot Operating System, PI (2025/08-2026/07; Industrial Technology Research Institute)
+1. A Study of Network Island Emergency Communication Systems via LPWAN and DNS Redirection Technologies, Co-PI (2026/01-2026/11; Taiwan Network Information Center)
+202603. 2026 Presidential Education Award Website Maintenance and Operation, PI (2026/01-2026/12; Ministry of Education)
+202602. 2026 Educational Sector Website Vulnerability Scanning & Protection Project, PI (2026/01-2026/12; Ministry of Education)
+202601. 2026 DNS and Website Upward Centralization Initiative, Co-PI (2026/01-2026/12; Ministry of Education)
+2025083. Research on Communication Security Architecture of Robot Operating System, PI (2025/08-2026/07; Industrial Technology Research Institute)
 2025082. Building Autonomous Resilience for Critical Infrastructure and Domestic Networks (1/2), Co-PI (2025/08-2026/07; NSTC 114-2634-F-006-001-MBK)
 2025081. A Study on Enhancing Network Resilience through SRv6 with Service Function Chaining and TI-LFA Concepts, PI (2025/08-2026/07; NSTC 114-2221-E-006-206)
-202508. A Study on Packet Flow Offloading and Acceleration by Integrating the 100G SmartNIC and Data Processing Unit, Co-PI (2025/08-2026/07; NSTC 114-2221-E-006-125)
+202508. A Study on Packet Flow Offloading and Acceleration by Integrating the 100G SmartNIC and Data Processing Unit, PI (2025/08-2026/07; NSTC 114-2221-E-006-125)
 202501. Design and Implementation of an Automated Security Testing Tool Supporting the CAN Protocol, PI (2025/01-2025/12; Delta Electronics, Inc.; UR24A13)
 202501. A Study on Integration DNS RPZ with RTBH and Malicious Domain Protection, PI (2025/01-2025/11); TWNIC; B114-F001)
 202501. 2025 Presidential Education Award Website Maintenance and Operation, PI (2025/01-2025/12; Ministry of Education; Q114-E005)
