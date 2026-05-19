@@ -133,7 +133,8 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, vol. 35, no. 3, e70015, 2025. (SCI-E)
+1. S.-H. Lee, H.-C. Ku, J.-K. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Towards Threat Identification for the BACnet Protocol Using Large Language Models," CMC-Computers, Materials & Continua, 2026. (SCI-E) (Accepted)
+202504. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, vol. 35, no. 3, e70015, 2025. (SCI-E)
 202307. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, vol. 2023, pp. 1-10, 2023.
 202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, and C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
 202106. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, A. C. Risdianto, M.-H. Choi, S. K. Permal, and T. C. Ling, "SD-BROV: An Enhanced BGP Hijacking Protection with Route Validation in Software-Defined eXchange," Future Internet, vol. 13, no. 171, pp. 1-16, 2021. (EI) (Issue Cover)
@@ -152,7 +153,9 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. H.-C. Ku, C.-W. Wang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "A Lightweight Deep Learning Model for Cucumber Powdery Mildew Detection in Agricultural Auxiliary Inspection," in proceedings of 2026 IEEE International Conference on Consumer Electronics - Taiwan, 2026. (Accepted)
+1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span> and C.-Y. Cheng, "Towards Green Edge Computing: Energy-Efficient Virtual Switching via DPU Hardware Offloading," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2026. (Accepted)
+202605. H.-C. Ku, C.-W. Wang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "A Lightweight Deep Learning Model for Cucumber Powdery Mildew Detection in Agricultural Auxiliary Inspection," in proceedings of 2026 IEEE International Conference on Consumer Electronics - Taiwan, 2026. (Accepted)
+202604. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span> and C.-Y. Cheng, "An Extensible P4-Based Offloading Framework for Stateful Packet Processing on DPUs," in proceedings of the IEEE International Conference on Applied System Innovation, 2026. (Accepted)
 202604. Y.-C. Chuang, Y.-C. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Design and Implementation of an Intelligent Adaptive Path Selection Mechanism for SDN-Orchestrated SRv6 Networks," in proceeding of the 18th Asian Conference on Intelligent Information and Database Systems, 2026. (Accepted)
 202509. C.-Y. Cheng, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, W.-C. Liao, L.-S. Chang, "Achieving 400 Gbps Single-Flow Throughput with Minimal CPU Core Usage Through Optimized DPDK and SmartNIC Implementation," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, pp. 1-6, 2025.
 202508. W.-Y. Guo, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, C.-S. Yang, "Deep Learning-Empowered Framework for Performance Prediction in IEEE 802.11ah-Based Networks," in proceedings of the 25th Asia-Pacific Network Operations and Management Symposium, pp. 1-6, 2025.
@@ -250,7 +253,8 @@ Services
 202101. Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962. (SCIE) (2021-)
 
 * Journal Review Activities
-1. SN Computer Science, 2025.
+1. IEEE Transactions on Information Forensics & Security, 2026
+202512. SN Computer Science, 2025.
 202512. Journal of Network and Systems Management, 2025
 202507. Cluster Computing, 2025.
 202506. IEEE Transactions on Mobile Computing, 2025
@@ -288,7 +292,8 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference - Program Committee (PC) or Session Chair/Co-Chair
-1. The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)
+1. The 26th Asia-Pacific Network Operations and Management Symposium, Sep. 9-11, 2026, Kumamoto, Japan. (Session Co-chair)
+202601. The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)
 202511. The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)
 202509. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
 202508. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology, Aug. 20-22,2025. (Session Co-Chair)
