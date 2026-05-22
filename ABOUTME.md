@@ -153,7 +153,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span> and C.-Y. Cheng, "Towards Green Edge Computing: Energy-Efficient Virtual Switching via DPU Hardware Offloading," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2026. (Accepted)
+1. J.-Y. Ye, X.-Y. Huang N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, and C.-S. Yang, "XLM-Stack: Stacked Ensemble Learning for Encrypted Traffic Anomaly Detection," in proceedings of the IEEE Symposium on Measurement in Networking and Communications, 2026. 
+202606. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span> and C.-Y. Cheng, "Towards Green Edge Computing: Energy-Efficient Virtual Switching via DPU Hardware Offloading," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2026. (Accepted)
 202605. H.-C. Ku, C.-W. Wang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, S.-H. Lee, "A Lightweight Deep Learning Model for Cucumber Powdery Mildew Detection in Agricultural Auxiliary Inspection," in proceedings of 2026 IEEE International Conference on Consumer Electronics - Taiwan, 2026. (Accepted)
 202604. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span> and C.-Y. Cheng, "An Extensible P4-Based Offloading Framework for Stateful Packet Processing on DPUs," in proceedings of the IEEE International Conference on Applied System Innovation, 2026. (Accepted)
 202604. Y.-C. Chuang, Y.-C. Liu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-S. Yang, "Design and Implementation of an Intelligent Adaptive Path Selection Mechanism for SDN-Orchestrated SRv6 Networks," in proceeding of the 18th Asian Conference on Intelligent Information and Database Systems, 2026. (Accepted)
