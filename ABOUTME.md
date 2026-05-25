@@ -133,7 +133,7 @@ Honors and Achievements
 
 Publications: Journal Papers
 ----------------
-1. S.-H. Lee, H.-C. Ku, J.-K. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, "Towards Threat Identification for the BACnet Protocol Using Large Language Models," CMC-Computers, Materials & Continua, 2026. (SCI-E) (Accepted)
+1. H.-C. Ku, J.-K. Yang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and S.-H. Lee, "Towards Threat Identification for the BACnet Protocol Using Large Language Models," CMC-Computers, Materials & Continua, 2026. (SCI-E) (Accepted)
 202504. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-W. Lee, and T.-W. Wang, "Design and Development of a Trust Mechanism to Enhance Security Protection in SDN-Based IoT Network," International Journal of Network Management, vol. 35, no. 3, e70015, 2025. (SCI-E)
 202307. C.-C. Chiu, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, and C.-S. Yang, "Using an Efficient Detection Method to Prevent Personal Data Leakage for Web-based Smart City Platforms," Wireless Communications and Mobile Computing, vol. 2023, pp. 1-10, 2023.
 202201. N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, T. C. Ling, and C.-S. Yang, "A Service-Aware Transport Layer Framework for SDN-enabled Cellular Core Networks," IET Communications, vol.17, pp.1279-1289, 2022. (SCI-E)
