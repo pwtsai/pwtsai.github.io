@@ -257,7 +257,7 @@ Services
 * Journal Review Activities
 1. IEEE Transactions on Information Forensics & Security, 2026
 202512. SN Computer Science, 2025.
-202512. Journal of Network and Systems Management, 2025
+202512. Journal of Network and Systems Management, 2025, 2026
 202507. Cluster Computing, 2025.
 202506. IEEE Transactions on Mobile Computing, 2025
 202412. CMC-Computers Materials & Continua, 2024
@@ -294,7 +294,8 @@ Services
 201401. Proceedings of the Asia-Pacific Advanced Network, 2014
 
 * Conference - Program Committee (PC) or Session Chair/Co-Chair
-1. The 26th Asia-Pacific Network Operations and Management Symposium, Sep. 9-11, 2026, Kumamoto, Japan. (Session Co-chair)
+1. The 7th International Conference on Advanced Information Technologies, Nov. 5, 2026, Yangon, Myanmar. (PC member)
+202609. The 26th Asia-Pacific Network Operations and Management Symposium, Sep. 9-11, 2026, Kumamoto, Japan. (Session Co-chair)
 202601. The International Workshop on Advanced Image Technology, Jan. 12-14, 2026, Kaohsiung, Taiwan. (Finance Co-Chair)
 202511. The 6th International Conference on Advanced Information Technologies, Nov. 3, 2025, Yangon, Myanmar. (PC member)
 202509. The 25th Asia-Pacific Network Operations and Management Symposium, Sep. 20-24, 2025, Kaohsiung, Taiwan. (Session Co-chair)
@@ -357,7 +358,8 @@ Joined Projects
 201701. OF@TEIN+: Open/Federated Playground for Future Networks, Ambassador (2017/08-2019/05; European Union/TEIN*CC; Asi@Connect-17-094)
 
 * Domestic
-1. A Study of Network Island Emergency Communication Systems via LPWAN and DNS Redirection Technologies, Co-PI (2026/01-2026/11; Taiwan Network Information Center)
+1. A Study on Using P4 Switch and SmartNICs to Enhance Intent-based Flow Policy Continuity in 400G SRv6 Networks, PI (2026/08-2029/07; NSTC 115-2221-E-006-224-MY3)
+202604. A Study of Network Island Emergency Communication Systems via LPWAN and DNS Redirection Technologies, Co-PI (2026/01-2026/11; Taiwan Network Information Center)
 202603. 2026 Presidential Education Award Website Maintenance and Operation, PI (2026/01-2026/12; Ministry of Education)
 202602. 2026 Educational Sector Website Vulnerability Scanning & Protection Project, PI (2026/01-2026/12; Ministry of Education)
 202601. 2026 DNS and Website Upward Centralization Initiative, Co-PI (2026/01-2026/12; Ministry of Education)
