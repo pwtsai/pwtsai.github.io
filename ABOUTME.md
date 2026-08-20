@@ -87,7 +87,7 @@ Honors and Achievements
 ----------------
 * (Student Guidance) Winner of 4th Place in Cloud Computing, Youth Division, Southern Regional Contest, 56th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組雲端運算第四名), 2026. (domestic)
 * The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)
-* GIGATEK Young Scholar Award (吉嘉青年講座獎勵), 2025-2026. (domestic)
+* Gigatek Young Scholar Award (吉嘉青年講座獎勵), 2025. (domestic)
 * (Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)
 * (Student Guidance) Honorable Mention in Information and Network Technology, Youth Division, 55th National Skills Competition (指導學生獲頒55屆全國技能競賽全國賽青年組資訊與網路技術佳作), 2025. (domestic)
 * (Student Guidance) NSTC Graduate Research Fellowship (指導學生獲頒國科會核配博士生研究獎學金), 2025-2026. (domestic)
