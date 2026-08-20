@@ -27,7 +27,7 @@ Current Position
 	+ Asia-Pacific Network Information Centre (APNIC) LIR member (2021-)
 	+ Associate Editor, Human-centric Computing and Information Sciences (HCIS), ISSN 2192-1962 (SCIE)
 	+ Associate Editor, Journal of Internet Technology (JIT), ISSN 1607-9264 (SCIE)
-
+    + Associate Editor, Journal of Computing Science and Engineering (JCSE), ISSN 1976-4677
 
 
 Working Experience
@@ -58,10 +58,11 @@ Education
 Specialties
 ----------------
 * Cyber-Physical System: CPS Security, OT signature/behavior analysis, edge computing facility and testbed
+* SmartNIC and DPU: flow offloading and hardware acceleration
+* Agentic AI: Network and Security
 * Software-defined Networking: OpenFlow, Hybrid SDN, SDX
 * Network Management: Basic routing and switching, BGP, monitoring, architecture design
 * Information Security: IDS/IPS, content extraction, Snort rule development, anomaly detection
-* Blockchain Technologies: Node, rig, pool building
 
 
 
@@ -84,6 +85,7 @@ Certifications
 
 Honors and Achievements
 ----------------
+* (Student Guidance) Winner of 4th Place in Cloud Computing, Youth Division, Southern Regional Contest, 56th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組雲端運算第四名), 2026. (domestic)
 * The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)
 * GIGATEK Young Scholar Award (吉嘉青年講座獎勵), 2025-2026. (domestic)
 * (Student Guidance) Winner of Third Place, 2025 Hack the Tainan Cybersecurity Competition (指導學生獲頒 2025 Hack the Tainan 資安競賽第三名), 2025. (domestic)
@@ -154,7 +156,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y.-H. Huang, C.-W. Lee, and N. Xia, "Design and Implementation of a Traffic-Aware Adaptive Flow Offloading Strategy on OVS-DPDK with Hardware Acceleration," in proceedings of the IEEE international Conference on Advanced Network Technologies and Applications, 2026. (Accepted)
+1. J.-S. Zhang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng and Y.-H. Huang, "Design and Implementation of a P4-Driven SRv6 Emulation Testbed with SRH TLV-Based Conditional Path Switching,"  in proceedings of the Asia-Pacific Network Operations and Management Symposium, 2026. (Accepted)
+202608. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y.-H. Huang, C.-W. Lee, and N. Xia, "Design and Implementation of a Traffic-Aware Adaptive Flow Offloading Strategy on OVS-DPDK with Hardware Acceleration," in proceedings of the IEEE international Conference on Advanced Network Technologies and Applications, 2026. (Accepted)
 202606. X.-C. Wu, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, W.-Y. Guo, and Y.-T. Zhan, "A Lightweight Imbalanced Malicious Traffic Detection Framework Based on WCGAN-GP and LightGBM," in proceedings of International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2026.  (Accepted)
 202605. J.-Y. Ye, X.-Y. Huang N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, and C.-S. Yang, "XLM-Stack: Stacked Ensemble Learning for Encrypted Traffic Anomaly Detection," in proceedings of the IEEE International Symposium on Measurement in Networking and Communications, 2026. (Accepted)
 202604. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span> and C.-Y. Cheng, "Towards Green Edge Computing: Energy-Efficient Virtual Switching via DPU Hardware Offloading," in proceedings of the IEEE International Conference on Computation, Big-Data and Engineering, 2026. (Accepted)
