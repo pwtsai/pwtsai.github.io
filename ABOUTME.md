@@ -85,7 +85,7 @@ Certifications
 
 Honors and Achievements
 ----------------
-* (Student Guidance) Student Best Paper Award, the Asia-Pacific Network Operations and Management Symposium, 2026.
+* (Student Guidance) Student Best Paper Award, the Asia-Pacific Network Operations and Management Symposium (指導學生獲頒 APNOMS 最佳學生海報論文獎), 2026.
 * (Student Guidance) Winner of 4th Place in Cloud Computing, Youth Division, Southern Regional Contest, 56th National Skills Competition (指導學生獲頒55屆全國技能競賽南區分區競賽青年組雲端運算第四名), 2026. (domestic)
 * The Merit Pay and Research Reward Program for Faculty Members and Research Fellows of NCKU (成大教研人員校彈性薪資暨研究獎勵), 2025-2026. (domestic)
 * Gigatek Young Scholar Award (吉嘉青年講座獎勵), 2025. (domestic)
