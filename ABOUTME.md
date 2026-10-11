@@ -157,7 +157,8 @@ Publications: Journal Papers
 
 Publications: Conference Papers (International)
 ----------------
-1. J.-S. Zhang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng and Y.-H. Huang, "Design and Implementation of a P4-Driven SRv6 Emulation Testbed with SRH TLV-Based Conditional Path Switching,"  in proceedings of the Asia-Pacific Network Operations and Management Symposium, 2026. (Accepted) <font color=#0000FF>*(Student Best Poster Award)*</font>
+1. X. Huang, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M.-Z. and C.-S. Yang, "DGMPNet: Gaussian Multi-Prototype Meta-Learning for Few-Shot Traffic Detection,"  in proceedings of the IEEE International Conference on Cyber Security and Cloud Computing, 2026. (Accepted)
+202609. J.-S. Zhang, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, C.-Y. Cheng and Y.-H. Huang, "Design and Implementation of a P4-Driven SRv6 Emulation Testbed with SRH TLV-Based Conditional Path Switching,"  in proceedings of the Asia-Pacific Network Operations and Management Symposium, 2026. (Accepted) <font color=#0000FF>*(Student Best Poster Award)*</font>
 202608. <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y.-H. Huang, C.-W. Lee, and N. Xia, "Design and Implementation of a Traffic-Aware Adaptive Flow Offloading Strategy on OVS-DPDK with Hardware Acceleration," in proceedings of the IEEE international Conference on Advanced Network Technologies and Applications, 2026. (Accepted)
 202606. X.-C. Wu, N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, W.-Y. Guo, and Y.-T. Zhan, "A Lightweight Imbalanced Malicious Traffic Detection Framework Based on WCGAN-GP and LightGBM," in proceedings of International Conference on Machine Learning, Cloud Computing and Intelligent Mining, 2026.  (Accepted)
 202605. J.-Y. Ye, X.-Y. Huang N. Xia, <span style="border-bottom:1px solid black;">**P.-W. Tsai**</span>, Y. Lu, M. Zeng, and C.-S. Yang, "XLM-Stack: Stacked Ensemble Learning for Encrypted Traffic Anomaly Detection," in proceedings of the IEEE International Symposium on Measurement in Networking and Communications, 2026. (Accepted)
@@ -365,6 +366,7 @@ Joined Projects
 
 * Domestic
 1. A Study on Using P4 Switch and SmartNICs to Enhance Intent-based Flow Policy Continuity in 400G SRv6 Networks, PI (2026/08-2029/07; NSTC 115-2221-E-006-224-MY3)
+202608. A Study on AI Agent Technologies for Cybersecurity Applications and the Design of a Proof-of-Concept Environment, PI (2026/08-2026/11; Industrial Technology Research Institute)
 202604. A Study of Network Island Emergency Communication Systems via LPWAN and DNS Redirection Technologies, Co-PI (2026/01-2026/11; Taiwan Network Information Center)
 202603. 2026 Presidential Education Award Website Maintenance and Operation, PI (2026/01-2026/12; Ministry of Education)
 202602. 2026 Educational Sector Website Vulnerability Scanning & Protection Project, PI (2026/01-2026/12; Ministry of Education)
